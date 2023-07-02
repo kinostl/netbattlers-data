@@ -27,7 +27,12 @@ SELECT json_object(
         iif(length(Powers3) > 0, Powers3, NULL),
         iif(length(Powers4) > 0, Powers4, NULL)
     ),
-    'tags', json(format('["%s"]',replace(replace(Tags, ' ',''),';','","'))),
+    'tags', iif(
+        length(Tags) > 0,
+        json(format('["%s"]',
+        replace(replace(Tags, ' ',''),',','","'))),
+        null
+    ),
     'hp', HP,
     'drops',json_array(
         iif(length(Drops1) > 0, Drops1, NULL),

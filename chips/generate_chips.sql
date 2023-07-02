@@ -8,6 +8,11 @@ SELECT json_object(
     'range', "Range",
     'effect', "Effect",
     'category', Category,
-    'tags', json(format('["%s"]',replace(replace(Tags, ' ',''),',','","'))),
+    'tags', iif(
+        length(Tags) > 0,
+        json(format('["%s"]',
+        replace(replace(Tags, ' ',''),',','","'))),
+        null
+    ),
     'first_publication', "From?"
 ) from chips;
