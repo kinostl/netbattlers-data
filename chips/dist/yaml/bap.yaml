@@ -1,0 +1,9 @@
+kind: Bap
+dmg: '-'
+range: Close
+effect: Knock the target a range band away. If this breaks something valuable, heal
+  to Max HP.
+category: Impact
+tags:
+  - Dark
+first_publication: Neko Virus

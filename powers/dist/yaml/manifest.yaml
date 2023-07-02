@@ -1,0 +1,7 @@
+kind: Manifest
+skill: Affinity
+resolve: Cost
+effect: Pick a Near ally — their next 3 rolls spawn their element Close to them.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

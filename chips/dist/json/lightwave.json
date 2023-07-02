@@ -1,0 +1,11 @@
+{
+  "kind": "LightWave",
+  "dmg": "2",
+  "range": "Near",
+  "effect": "Fires a glowing shockwave from a blade that bypasses Guards.",
+  "category": "Blade",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

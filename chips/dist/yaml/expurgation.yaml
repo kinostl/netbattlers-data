@@ -1,0 +1,10 @@
+kind: Expurgation
+dmg: '4'
+range: Near
+effect: A cursed key. Stuns the target and exposes their memories to view & edit,
+  rendered as text.
+category: Thrown
+tags:
+  - Incident
+  - Awkward
+first_publication: Mystic Lilies

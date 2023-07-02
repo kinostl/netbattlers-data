@@ -1,0 +1,11 @@
+{
+  "kind": "Attack+1",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Add one hit to your next non-BattleChip attack.",
+  "category": "Support",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Core"
+}

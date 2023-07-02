@@ -1,0 +1,7 @@
+kind: ReconfigNCP
+skill: Info
+resolve: Cost
+effect: Switch out unused chips in your Folder for ones in your pack. [Instant]
+eb: '3'
+sort: PowerNCP
+first_publication: Core

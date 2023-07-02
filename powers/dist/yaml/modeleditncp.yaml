@@ -1,0 +1,7 @@
+kind: ModelEditNCP
+skill: Charm
+resolve: Cost
+effect: Look like a Virus or Navi you’ve met (appearance only).
+eb: '3'
+sort: PowerNCP
+first_publication: Core

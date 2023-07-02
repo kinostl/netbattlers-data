@@ -1,0 +1,7 @@
+kind: TypeConversion
+skill: Reflect
+resolve: Upgrade
+effect: If you win, you can instead convert your hits to bonus dice on your next roll.
+eb: '2'
+sort: NPU
+first_publication: Navi Power Upgrades

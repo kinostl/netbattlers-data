@@ -1,0 +1,8 @@
+kind: Overwrite
+skill: Charm
+resolve: Cost
+effect: Trick a hostile Virus into helping you. The bigger the ask, the shorter it
+  lasts.
+eb: '-'
+sort: Power
+first_publication: Core

@@ -1,0 +1,9 @@
+{
+  "kind": "SmokeStep",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "You can move up to a range band immediately after being hit.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mystic Lilies"
+}

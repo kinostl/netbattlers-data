@@ -1,0 +1,9 @@
+{
+  "kind": "MonksHood",
+  "skill": "Charm",
+  "resolve": "Cost",
+  "effect": "Warp a range band, then copy a Far target’s appearance and voice. Ends on taking dmg.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

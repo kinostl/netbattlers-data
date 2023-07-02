@@ -1,0 +1,10 @@
+kind: Sanctuary
+dmg: '-'
+range: Close
+effect: Draw a magic sigil on a surface. Any touching it take half dmg (rounded down).
+  Easily erased.
+category: Hazard
+tags:
+  - Awkward
+  - Slow
+first_publication: Core

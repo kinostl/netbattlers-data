@@ -1,0 +1,9 @@
+kind: AquaTower
+dmg: '3'
+range: Close
+effect: A massive geyser erupts around you! Doesn’t hurt you. All hit are flung upwards.
+category: Wave
+tags:
+  - Awkward
+  - Slow
+first_publication: Core

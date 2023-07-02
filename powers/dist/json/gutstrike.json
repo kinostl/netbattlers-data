@@ -1,0 +1,9 @@
+{
+  "kind": "GutStrike",
+  "skill": "Gutsy",
+  "resolve": "Upgrade",
+  "effect": "You can roll 1 fewer die on any melee attack to give it Gutsy’s effect.",
+  "eb": "1",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

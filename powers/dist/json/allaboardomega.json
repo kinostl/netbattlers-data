@@ -1,0 +1,9 @@
+{
+  "kind": "AllAboardOmega",
+  "skill": "Speed",
+  "resolve": "Roll",
+  "effect": "Load a Close ally/object into a carriage (max 5). Loaded things move with you.",
+  "eb": "-",
+  "sort": "Omega Virus Power",
+  "first_publication": "Mega Viruses"
+}

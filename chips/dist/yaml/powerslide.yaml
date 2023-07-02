@@ -1,0 +1,10 @@
+kind: PowerSlide
+dmg: '2'
+range: Near
+effect: A sliding kick. You can deal -1 damage to trip the target, making them fall
+  over.
+category: Rush
+tags:
+  - Accurate
+  - Awkward
+first_publication: Core

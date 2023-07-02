@@ -1,0 +1,8 @@
+kind: LockOnNCP
+skill: Sense
+resolve: Cost
+effect: Your next rolled attack is guaranteed Easy and ignores your skill reductions.
+  [Instant]
+eb: '3'
+sort: PowerNCP
+first_publication: Core

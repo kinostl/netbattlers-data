@@ -1,0 +1,7 @@
+kind: JunkShield
+skill: '-'
+resolve: Passive
+effect: When attacked at range, you can spend Stamina to negate incoming damage, 1-to-1.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

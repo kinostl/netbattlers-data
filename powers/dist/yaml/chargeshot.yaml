@@ -1,0 +1,7 @@
+kind: ChargeShot
+skill: LockOn
+resolve: Upgrade
+effect: LockOn can be used to make Shot chips Accurate and ignore Guards.
+eb: '2'
+sort: NPU
+first_publication: Navi Power Upgrades

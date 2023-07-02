@@ -1,0 +1,11 @@
+kind: DarkCannon
+dmg: '5'
+range: Far
+effect: Fires a devastating shot that pierces anything in its path. Bypasses all Guards.
+  Never stops.
+category: Shot
+tags:
+  - Dark
+  - Piercing
+  - Dangerous
+first_publication: DarkChips

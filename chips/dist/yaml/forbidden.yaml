@@ -1,0 +1,9 @@
+kind: Forbidden
+dmg: '-'
+range: Near
+effect: Lays a tripwire over an exit. On activation, it briefly stuns the target &
+  teleports you behind them.
+category: Hazard
+tags:
+  - Awkward
+first_publication: Mystic Lilies

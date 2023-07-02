@@ -1,0 +1,13 @@
+{
+  "kind": "EleGeddon",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Convert an object to your element. Your element slowly spreads, converting everything it touches.",
+  "category": "Hazard",
+  "tags": [
+    "Incident",
+    "Dangerous",
+    "Slow"
+  ],
+  "first_publication": "Mystic Lilies"
+}

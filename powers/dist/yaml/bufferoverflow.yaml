@@ -1,0 +1,8 @@
+kind: BufferOverflow
+skill: CodeInjection
+resolve: Upgrade
+effect: If your next rolled attack deletes, cover all Close to the target with your
+  element.
+eb: '1'
+sort: NPU
+first_publication: Navi Power Upgrades

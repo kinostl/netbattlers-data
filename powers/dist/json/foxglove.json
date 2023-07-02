@@ -1,0 +1,9 @@
+{
+  "kind": "Foxglove",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "When enemies in your element fail a social Charm/Bravery roll, dictate what they say.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mystic Lilies"
+}

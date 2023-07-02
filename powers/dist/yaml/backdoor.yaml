@@ -1,0 +1,8 @@
+kind: Backdoor
+skill: Coding
+resolve: Cost
+effect: Create a Near door that leads to a fake room. The room’s walls count as your
+  body.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

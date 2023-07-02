@@ -1,0 +1,11 @@
+{
+  "kind": "ChainBlast",
+  "dmg": "X",
+  "range": "Near",
+  "effect": "Hits everything Close to the target. X=the number of enemies hit.",
+  "category": "Thrown",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,10 @@
+kind: RiseUp
+dmg: '-'
+range: Near
+effect: Next time you Counter a grounded target, the floor below them launches a range
+  band up.
+category: Hazard
+tags:
+  - Guard
+  - Dangerous
+first_publication: Core

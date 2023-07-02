@@ -1,0 +1,9 @@
+kind: Misdirection
+dmg: '-'
+range: '-'
+effect: Your next 3 rolls/chips can seem to come from wherever you want within their
+  range.
+category: Support
+tags:
+  - Simple
+first_publication: Mystic Lilies

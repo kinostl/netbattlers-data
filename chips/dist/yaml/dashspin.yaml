@@ -1,0 +1,9 @@
+kind: Dashspin
+dmg: '2'
+range: Near
+effect: Roll into a ball and bowl into the target! Speed rolls are downshifted until
+  you stop spinning.
+category: Rush
+tags:
+  - Awkward
+first_publication: Radical Spin

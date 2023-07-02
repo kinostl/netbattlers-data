@@ -1,0 +1,11 @@
+{
+  "kind": "Candle",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Creates a large candle that heals you 1 HP every time you’re attacked.",
+  "category": "Summon",
+  "tags": [
+    "Guard"
+  ],
+  "first_publication": "Core"
+}

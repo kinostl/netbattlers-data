@@ -1,0 +1,8 @@
+kind: AllAboard
+skill: Speed
+resolve: Roll
+effect: Load a Close ally/object into a carriage (max 3). Loaded things move with
+  you.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

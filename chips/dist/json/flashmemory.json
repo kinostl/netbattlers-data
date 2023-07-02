@@ -1,0 +1,11 @@
+{
+  "kind": "FlashMemory",
+  "dmg": "-",
+  "range": "Far",
+  "effect": "Rewind the memory of any number of targets in range up to 10 minutes. They won’t feel a thing.",
+  "category": "Support",
+  "tags": [
+    "Dark"
+  ],
+  "first_publication": "DarkChips"
+}

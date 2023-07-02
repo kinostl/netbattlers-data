@@ -1,0 +1,12 @@
+{
+  "kind": "Thunder",
+  "dmg": "2",
+  "range": "Near",
+  "effect": "If the target is a Navi, random electronics Near their PET experience power fluctuations.",
+  "category": "Shot",
+  "tags": [
+    "Dangerous",
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,10 @@
+kind: HazGuard
+dmg: '-'
+range: '-'
+effect: Next time you resist a hazard, downshift the roll. On 2+ hits, turn the hazard
+  into your element.
+category: Support
+tags:
+  - Guard
+  - Slow
+first_publication: Advanced Support Pack

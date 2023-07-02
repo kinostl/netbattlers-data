@@ -1,0 +1,11 @@
+{
+  "kind": "Decoy",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Summons a hologram of you directly in front of yourself in any pose.",
+  "category": "Summon",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

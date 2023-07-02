@@ -1,0 +1,9 @@
+kind: WirelessMouse
+dmg: '-'
+range: Close
+effect: Tiny scout patrols Near where it’s spawned. If it finds danger, it squeaks
+  and runs to you.
+category: Summon
+tags:
+  - ''
+first_publication: Summer Camp

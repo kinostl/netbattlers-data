@@ -1,0 +1,11 @@
+{
+  "kind": "Kunai",
+  "dmg": "2",
+  "range": "Near",
+  "effect": "Toss a volley of stealthy knives! They fly silently through the air.",
+  "category": "Thrown",
+  "tags": [
+    "Piercing"
+  ],
+  "first_publication": "Core"
+}

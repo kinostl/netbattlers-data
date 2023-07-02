@@ -1,0 +1,11 @@
+{
+  "kind": "BlackWing",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Sinister bats fly at the target! Everyone targeted makes a Bravery roll to resist panicking.",
+  "category": "Wave",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "Recall",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Summons the last Virus you deleted to help you out. It has 1 HP.",
+  "category": "Summon",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

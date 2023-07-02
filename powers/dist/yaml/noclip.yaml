@@ -1,0 +1,7 @@
+kind: NoClip
+skill: Coding
+resolve: Roll
+effect: Pass through a thin structure (walls, floors, pipes, etc).
+eb: '-'
+sort: Power
+first_publication: Core

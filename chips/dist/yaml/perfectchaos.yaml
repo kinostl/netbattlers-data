@@ -1,0 +1,10 @@
+kind: PerfectChaos
+dmg: '-'
+range: Near
+effect: Summon a massive storm! All downshift Bravery rolls and upshift defense rolls
+  while within.
+category: Hazard
+tags:
+  - Dangerous
+  - Slow
+first_publication: Radical Spin

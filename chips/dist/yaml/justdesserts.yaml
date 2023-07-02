@@ -1,0 +1,10 @@
+kind: JustDesserts
+dmg: '-'
+range: Far
+effect: Next time someone says something mean about you, a pie appears and hits their
+  face.
+category: Summon
+tags:
+  - Guard
+  - Dangerous
+first_publication: Cast the Dice

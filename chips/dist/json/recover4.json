@@ -1,0 +1,11 @@
+{
+  "kind": "Recover4",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Recover four HP.",
+  "category": "Support",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

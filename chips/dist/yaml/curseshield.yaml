@@ -1,0 +1,10 @@
+kind: CurseShield
+dmg: '-'
+range: Near
+effect: 'On your next ranged defense: take half dmg (rounded down) and zoom Close
+  to the attacker.'
+category: Rush
+tags:
+  - Guard
+  - Simple
+first_publication: Core

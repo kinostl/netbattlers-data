@@ -1,0 +1,11 @@
+{
+  "kind": "BanishingBlade",
+  "dmg": "1+X",
+  "range": "Close",
+  "effect": "On jack-in, pick a Virus category. X=3 when this chip is used against those Viruses.",
+  "category": "Blade",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Mystic Lilies"
+}

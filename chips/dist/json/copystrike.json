@@ -1,0 +1,11 @@
+{
+  "kind": "CopyStrike",
+  "dmg": "1",
+  "range": "Close",
+  "effect": "Target copies your stat & skill reductions.",
+  "category": "Impact",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,8 @@
+kind: Cataclysm
+skill: Daemon Bond
+resolve: Roll
+effect: 'Project into reality. Pick 1: you are colossal; Full Synchro is endlesly
+  active; you can infect humans.'
+eb: '-'
+sort: Neko
+first_publication: Neko Virus Infection

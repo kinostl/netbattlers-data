@@ -1,0 +1,9 @@
+kind: Firecracker
+dmg: '1'
+range: Near
+effect: Bright, colorful lights fireworks daze the target, halving their Sense (rounding
+  down) for 2 rolls.
+category: Thrown
+tags:
+  - ''
+first_publication: Core

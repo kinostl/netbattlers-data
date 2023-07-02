@@ -1,0 +1,7 @@
+kind: EvilTwin
+skill: Bravery
+resolve: Roll
+effect: Copy a skill & Navi Power from the target. Expires when you get hit.
+eb: '-'
+sort: Virus Power
+first_publication: Core

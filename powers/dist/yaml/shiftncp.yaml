@@ -1,0 +1,7 @@
+kind: ShiftNCP
+skill: Affinity
+resolve: Roll
+effect: Swap places with an abundance of your element in line of sight.
+eb: '3'
+sort: PowerNCP
+first_publication: Core

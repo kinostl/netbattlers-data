@@ -1,0 +1,7 @@
+kind: PopCorn
+skill: '-'
+resolve: Passive
+effect: When your element is exposed to heat, it explodes for 3 damage to all Close.
+eb: '-'
+sort: Virus Power
+first_publication: Core

@@ -1,0 +1,9 @@
+kind: BadApple
+dmg: '-'
+range: Close
+effect: 'An apple curses temp. on bite! Pick 2: go blind; speak all thoughts; panic;
+  hallucinate; turn ugly.'
+category: Summon
+tags:
+  - Slow
+first_publication: Mystic Lilies

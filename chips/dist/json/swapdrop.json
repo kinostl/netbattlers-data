@@ -1,0 +1,11 @@
+{
+  "kind": "SwapDrop",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Swap the position of 2 targets. Targets can be allies or summoned objects.",
+  "category": "Support",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Advanced Support Pack"
+}

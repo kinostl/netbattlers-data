@@ -1,0 +1,11 @@
+{
+  "kind": "IceSlasher",
+  "dmg": "2",
+  "range": "Near",
+  "effect": "Enemies deleted by this turn into frozen blocks shortly afterwards.",
+  "category": "Shot",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "Moneybags",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "On Speed rolls with <2 hits, drop some Zenny. Drop all Zenny on deletion.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

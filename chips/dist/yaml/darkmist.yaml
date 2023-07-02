@@ -1,0 +1,9 @@
+kind: DarkMist
+dmg: '-'
+range: Far
+effect: Black mist isolates the server. No jacking in/out, PET msgs, etc. All seems
+  normal on the outside.
+category: Hazard
+tags:
+  - Dark
+first_publication: DarkChips

@@ -1,0 +1,12 @@
+{
+  "kind": "FluffyDaydream",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Sweet drink! When drank, pick a Bond; heal HP = Bond Lvl+2 & say your true feelings about them.",
+  "category": "Summon",
+  "tags": [
+    "Awkward",
+    "Slow"
+  ],
+  "first_publication": "Silicon Skin"
+}

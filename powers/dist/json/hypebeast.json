@@ -1,0 +1,9 @@
+{
+  "kind": "HypeBeast",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Whenever you or an ally roll 1+ hits, toss a little bit of your element at any Near target.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Cast the Dice"
+}

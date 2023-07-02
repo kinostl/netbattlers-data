@@ -1,0 +1,11 @@
+{
+  "kind": "SwordsDance",
+  "dmg": "X",
+  "range": "Near",
+  "effect": "Slot in a Blade chip, dash into Close range; the chip hits the target & everything in-between.",
+  "category": "Rush",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Core"
+}

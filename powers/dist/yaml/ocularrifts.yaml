@@ -1,0 +1,7 @@
+kind: OcularRifts
+skill: '-'
+resolve: Passive
+effect: Your vision is foggy. Enemies beyond Close are only visible if they are moving.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

@@ -1,0 +1,7 @@
+kind: Underflow
+skill: '-'
+resolve: '-'
+effect: If a roll with zero hits has three or more 1’s, count it as two hits instead.
+eb: '1'
+sort: NCP
+first_publication: Core

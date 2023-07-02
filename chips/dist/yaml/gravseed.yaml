@@ -1,0 +1,9 @@
+kind: GravSeed
+dmg: '-'
+range: Near
+effect: A zero-gravity bubble encompasses everything Close to the target. Expires
+  after a minute.
+category: Hazard
+tags:
+  - Dangerous
+first_publication: Core

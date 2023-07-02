@@ -1,0 +1,8 @@
+kind: MimicStrike
+skill: '-'
+resolve: '-'
+effect: On Near Virus deletion, get its passives until jack-out or next trigger. Can
+  toss all passives.
+eb: '4'
+sort: NCP
+first_publication: Core

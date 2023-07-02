@@ -1,0 +1,12 @@
+{
+  "kind": "MagCoil",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Bring the target into Close range and stun them.",
+  "category": "Impact",
+  "tags": [
+    "Piercing",
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

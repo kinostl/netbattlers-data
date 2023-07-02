@@ -1,0 +1,9 @@
+{
+  "kind": "GravArmorNCP",
+  "skill": "Stamina",
+  "resolve": "Roll",
+  "effect": "Move along or stick to any Close surface, or stick any Close object to you.",
+  "eb": "3",
+  "sort": "PowerNCP",
+  "first_publication": "Core"
+}

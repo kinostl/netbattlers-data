@@ -1,0 +1,7 @@
+kind: Shift
+skill: Affinity
+resolve: Roll
+effect: Swap places with an abundance of your element in line of sight.
+eb: '-'
+sort: Power
+first_publication: Core

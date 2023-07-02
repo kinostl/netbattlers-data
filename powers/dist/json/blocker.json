@@ -1,0 +1,9 @@
+{
+  "kind": "Blocker",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Upshifts frontal attacks.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

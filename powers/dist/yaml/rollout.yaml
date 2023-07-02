@@ -1,0 +1,7 @@
+kind: Rollout
+skill: Strength
+resolve: Roll
+effect: Move Close to a Near grounded target and attack.
+eb: '-'
+sort: Virus Power
+first_publication: Core

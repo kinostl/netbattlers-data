@@ -1,0 +1,13 @@
+{
+  "kind": "Tornado",
+  "dmg": "2",
+  "range": "Near",
+  "effect": "Creates a swirling cyclone that rolls forward, flinging everything in its path.",
+  "category": "Wave",
+  "tags": [
+    "Piercing",
+    "Dangerous",
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

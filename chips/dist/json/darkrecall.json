@@ -1,0 +1,12 @@
+{
+  "kind": "DarkRecall",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Spawn the last Virus you deleted - you control it. Add [Daemon Bond] to its stats. Its HP is full.",
+  "category": "Support",
+  "tags": [
+    "Dark",
+    "Slow"
+  ],
+  "first_publication": "DarkChips"
+}

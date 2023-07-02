@@ -1,0 +1,9 @@
+kind: Judgement
+dmg: '2'
+range: Near
+effect: Holy trumpet blast removes temp. effects (e.g. Guards, stuns, roll shifts)
+  except spent points.
+category: Wave
+tags:
+  - Slow
+first_publication: Tarot

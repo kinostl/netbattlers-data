@@ -1,0 +1,9 @@
+{
+  "kind": "PainTrain",
+  "skill": "Speed",
+  "resolve": "Roll",
+  "effect": "Ram a Near target, damaging and moving Close. You can unload any carriage(s) on them.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

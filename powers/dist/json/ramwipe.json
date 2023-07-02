@@ -1,0 +1,9 @@
+{
+  "kind": "RAMWipe",
+  "skill": "Clear",
+  "resolve": "Upgrade",
+  "effect": "Can instead modify your next attack to remove temporary buffs.",
+  "eb": "1",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

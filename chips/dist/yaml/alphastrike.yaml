@@ -1,0 +1,10 @@
+kind: AlphaStrike
+dmg: '2'
+range: Near
+effect: Cursed envelope! Pick a letter. For 3 rolls, the target can’t use chips starting
+  with that letter.
+category: Thrown
+tags:
+  - Piercing
+  - Slow
+first_publication: Leximancy

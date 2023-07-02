@@ -1,0 +1,9 @@
+kind: Vault
+dmg: '-'
+range: Far
+effect: Fly into the air! A wind burst shoves everything that’s Close to your launch
+  point away.
+category: Rush
+tags:
+  - ''
+first_publication: Core

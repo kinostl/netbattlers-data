@@ -1,0 +1,11 @@
+{
+  "kind": "GutsShoot",
+  "dmg": "X",
+  "range": "Near",
+  "effect": "Toss an ally! X=your ally’s Body score.",
+  "category": "Thrown",
+  "tags": [
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

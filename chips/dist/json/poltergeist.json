@@ -1,0 +1,11 @@
+{
+  "kind": "Poltergeist",
+  "dmg": "2x2",
+  "range": "Near",
+  "effect": "Pick 2 large objects in range that aren’t stuck to a surface; they slam into the target.",
+  "category": "Wave",
+  "tags": [
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

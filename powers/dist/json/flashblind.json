@@ -1,0 +1,9 @@
+{
+  "kind": "FlashBlind",
+  "skill": "Affinity",
+  "resolve": "Cost",
+  "effect": "Flash bright lights, briefly blinding anyone Near.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

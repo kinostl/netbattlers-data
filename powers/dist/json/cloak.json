@@ -1,0 +1,9 @@
+{
+  "kind": "Cloak",
+  "skill": "Sneakrun",
+  "resolve": "Upgrade",
+  "effect": "When you spend a Speed point or roll a crit with Speed, you can briefly go invisible.",
+  "eb": "2",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

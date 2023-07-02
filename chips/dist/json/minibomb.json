@@ -1,0 +1,11 @@
+{
+  "kind": "MiniBomb",
+  "dmg": "1",
+  "range": "Near",
+  "effect": "A tiny blue bomb. Spend 1 Info point: this chip will not be exhausted while jacked in.",
+  "category": "Thrown",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

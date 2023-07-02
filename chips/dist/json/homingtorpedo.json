@@ -1,0 +1,11 @@
+{
+  "kind": "HomingTorpedo",
+  "dmg": "1",
+  "range": "Far",
+  "effect": "Defending against this attack is always Hard. Can find and hit invisible targets.",
+  "category": "Shot",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

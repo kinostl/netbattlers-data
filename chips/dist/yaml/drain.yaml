@@ -1,0 +1,8 @@
+kind: Drain
+dmg: '2'
+range: Near
+effect: Fires needles that heal for damage done.
+category: Shot
+tags:
+  - ''
+first_publication: Core

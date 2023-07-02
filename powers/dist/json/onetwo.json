@@ -1,0 +1,9 @@
+{
+  "kind": "OneTwo",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "You can spend 1 HP to reroll one of your attacks.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

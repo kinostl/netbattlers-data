@@ -1,0 +1,10 @@
+kind: BeatSwipe
+dmg: '-'
+range: Near
+effect: Next time an enemy uses a chip, roll Coding. If your hits > chip dmg, take
+  the chip and use it.
+category: Support
+tags:
+  - Guard
+  - Slow
+first_publication: Advanced Support Pack

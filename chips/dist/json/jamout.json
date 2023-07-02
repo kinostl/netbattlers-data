@@ -1,0 +1,12 @@
+{
+  "kind": "Jamout",
+  "dmg": "X",
+  "range": "Near",
+  "effect": "Rock out with your allies! X=# of players in the jam session (they don’t need the chip).",
+  "category": "Wave",
+  "tags": [
+    "Awkward",
+    "Dangerous"
+  ],
+  "first_publication": "ChitChat"
+}

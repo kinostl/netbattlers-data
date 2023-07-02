@@ -1,0 +1,9 @@
+{
+  "kind": "SurroundSound",
+  "skill": "Playback",
+  "resolve": "Upgrade",
+  "effect": "Your voice can come from any real-world speaker Near your physical jack-in point.",
+  "eb": "1",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

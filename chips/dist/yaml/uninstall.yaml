@@ -1,0 +1,8 @@
+kind: Uninstall
+dmg: '-'
+range: Close
+effect: Disable an NCP on the target for 5 rolls. Choose alphabetically first or last.
+category: Impact
+tags:
+  - ''
+first_publication: Core

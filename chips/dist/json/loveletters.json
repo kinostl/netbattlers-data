@@ -1,0 +1,11 @@
+{
+  "kind": "LoveLetters",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Pick an unused chip in your Folder, heal X HP. X = # of vowels (including Y) in the chip name.",
+  "category": "Support",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Leximancy"
+}

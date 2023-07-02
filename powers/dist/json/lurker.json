@@ -1,0 +1,9 @@
+{
+  "kind": "Lurker",
+  "skill": "Affinity",
+  "resolve": "Cost",
+  "effect": "You are invisible until your next roll.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

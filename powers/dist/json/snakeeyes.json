@@ -1,0 +1,9 @@
+{
+  "kind": "SnakeEyes",
+  "skill": "Glare",
+  "resolve": "Upgrade",
+  "effect": "Briefly stun a target the first time you successfully Glare them.",
+  "eb": "2",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

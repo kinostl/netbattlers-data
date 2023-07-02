@@ -1,0 +1,9 @@
+{
+  "kind": "CoolCat",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "When you roll Charm, you can use your Daemon Bond as your dice pool size. ",
+  "eb": "-",
+  "sort": "Neko",
+  "first_publication": "Neko Virus Infection"
+}

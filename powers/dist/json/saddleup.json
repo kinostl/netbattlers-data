@@ -1,0 +1,9 @@
+{
+  "kind": "SaddleUp",
+  "skill": "Speed",
+  "resolve": "Roll",
+  "effect": "Lasso a Near target into Close range and hop on their back.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

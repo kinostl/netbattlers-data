@@ -1,0 +1,9 @@
+{
+  "kind": "Ventilate",
+  "skill": "Stamina",
+  "resolve": "Cost",
+  "effect": "Eject an object to Near and change your element to something related to it. Lasts 3 rolls.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

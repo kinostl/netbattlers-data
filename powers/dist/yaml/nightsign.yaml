@@ -1,0 +1,8 @@
+kind: NightSign
+skill: Affinity
+resolve: Cost
+effect: Mark a Near target. Removing a Mark requires a Hard Coding roll or jacking
+  out.
+eb: '-'
+sort: Virus Power
+first_publication: Mystic Lilies

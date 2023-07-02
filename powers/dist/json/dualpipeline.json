@@ -1,0 +1,9 @@
+{
+  "kind": "DualPipeline",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "You can use two Shot BattleChips, one right after the other, as a multi-hit attack.",
+  "eb": "3",
+  "sort": "NCP",
+  "first_publication": "Core"
+}

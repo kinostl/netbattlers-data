@@ -1,0 +1,9 @@
+kind: Catcher
+dmg: '-'
+range: Near
+effect: On next full defense vs. a chip, get a copy in your Folder until jack-out.
+category: Summon
+tags:
+  - Guard
+  - Slow
+first_publication: Core

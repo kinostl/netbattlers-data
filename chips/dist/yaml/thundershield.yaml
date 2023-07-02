@@ -1,0 +1,9 @@
+kind: ThunderShield
+dmg: '-'
+range: '-'
+effect: 'Pick 1: electrify your next attack; downshift your next ranged defense; reroll
+  a Speed roll.'
+category: Support
+tags:
+  - Guard
+first_publication: Radical Spin

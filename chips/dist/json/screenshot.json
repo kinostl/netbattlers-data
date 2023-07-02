@@ -1,0 +1,11 @@
+{
+  "kind": "ScreenShot",
+  "dmg": "3",
+  "range": "Near",
+  "effect": "Camera beam! If this deals 3 dmg, send a photo of the target being hit to an email of your choice.",
+  "category": "Shot",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Mudslurp"
+}

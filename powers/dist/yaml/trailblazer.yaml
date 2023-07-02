@@ -1,0 +1,8 @@
+kind: Trailblazer
+skill: '-'
+resolve: '-'
+effect: When you move range bands with a chip or roll, your element trails behind
+  you.
+eb: '2'
+sort: NCP
+first_publication: Core

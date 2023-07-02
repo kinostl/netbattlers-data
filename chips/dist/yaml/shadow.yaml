@@ -1,0 +1,8 @@
+kind: Shadow
+dmg: '-'
+range: '-'
+effect: For a minute, you’re impossible to detect while in darkness.
+category: Support
+tags:
+  - Simple
+first_publication: Core

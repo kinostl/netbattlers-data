@@ -1,0 +1,8 @@
+kind: PartyFoul
+skill: Speed
+resolve: Cost
+effect: Next time you would take dmg, you zoom away instead, leaving the area entirely.
+  [Instant]
+eb: '-'
+sort: Virus Power
+first_publication: Cast the Dice

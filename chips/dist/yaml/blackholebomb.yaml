@@ -1,0 +1,11 @@
+kind: BlackHoleBomb
+dmg: '3'
+range: Near
+effect: Everything Near the target is sucked Close to it. Then it blasts for 4 Piercing
+  dmg! (User unaffected.)
+category: Thrown
+tags:
+  - Mega
+  - Accurate
+  - Dangerous
+first_publication: Core

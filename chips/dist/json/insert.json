@@ -1,0 +1,11 @@
+{
+  "kind": "Insert",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Creates a large amount of a Near ally’s element.",
+  "category": "Summon",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

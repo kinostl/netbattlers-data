@@ -1,0 +1,10 @@
+kind: DarkPlus
+dmg: '-'
+range: '-'
+effect: On next roll, add 2x[Daemon Bond] dice. If your Daemon Bond is your highest
+  Bond, 3x instead.
+category: Support
+tags:
+  - Dark
+  - Simple
+first_publication: DarkChips

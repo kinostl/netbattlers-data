@@ -1,0 +1,9 @@
+kind: SeedStage
+dmg: '-'
+range: '-'
+effect: Your next Hazard chip with “Seed” in its name instead slowly spreads to Near
+  from you.
+category: Support
+tags:
+  - Simple
+first_publication: Core

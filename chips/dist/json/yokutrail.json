@@ -1,0 +1,11 @@
+{
+  "kind": "YokuTrail",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Dash a range band through the air, leaving a trail of platforms that will disappear in a minute.",
+  "category": "Rush",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,8 @@
+kind: Swarm
+skill: Strength
+resolve: Cost
+effect: Launch latching worms at a Near target. The worms disable powers/NCPs until
+  removed.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

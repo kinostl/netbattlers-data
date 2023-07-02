@@ -1,0 +1,11 @@
+{
+  "kind": "Silence",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Summons a musical program that silences all Near sound until it’s broken.",
+  "category": "Summon",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

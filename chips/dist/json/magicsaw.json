@@ -1,0 +1,11 @@
+{
+  "kind": "MagicSaw",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Harmlessly bisect an object/ally! Parts rejoin when you say “presto” or a minute passes.",
+  "category": "Blade",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Cast the Dice"
+}

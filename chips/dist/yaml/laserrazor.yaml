@@ -1,0 +1,9 @@
+kind: LaserRazor
+dmg: '3'
+range: Close
+effect: A glowing razor made of raw energy. It can gradually burn through any material.
+category: Blade
+tags:
+  - Dangerous
+  - Slow
+first_publication: Core

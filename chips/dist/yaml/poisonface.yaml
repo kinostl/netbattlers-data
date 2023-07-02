@@ -1,0 +1,10 @@
+kind: PoisonFace
+dmg: '-'
+range: '-'
+effect: Cursed face paint! On next Charm/Bravery roll, poisons the target, upshifting
+  their next 3 rolls.
+category: Support
+tags:
+  - Simple
+  - Dangerous
+first_publication: Advanced Support Pack

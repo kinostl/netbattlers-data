@@ -1,0 +1,9 @@
+{
+  "kind": "Gutsy",
+  "skill": "Strength",
+  "resolve": "Roll",
+  "effect": "Launch a Close target one range band in any direction.",
+  "eb": "-",
+  "sort": "Power",
+  "first_publication": "Core"
+}

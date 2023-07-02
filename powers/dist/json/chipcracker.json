@@ -1,0 +1,9 @@
+{
+  "kind": "ChipCracker",
+  "skill": "Foresight",
+  "resolve": "Upgrade",
+  "effect": "If you pick Mind, you can also roll Info to defend against BattleChips.",
+  "eb": "1",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

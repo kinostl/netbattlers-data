@@ -1,0 +1,9 @@
+kind: XIII-Death
+dmg: '3'
+range: Near
+effect: Charge Close on an ivory horse! If this would delete the target, it wipes
+  their memories instead.
+category: Rush
+tags:
+  - ''
+first_publication: Tarot

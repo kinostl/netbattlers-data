@@ -1,0 +1,7 @@
+kind: ShatterNCP
+skill: Strength
+resolve: Roll
+effect: Destroy a Close structure or piece of terrain.
+eb: '3'
+sort: PowerNCP
+first_publication: Core

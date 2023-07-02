@@ -1,0 +1,9 @@
+{
+  "kind": "Illusion",
+  "skill": "Afterimages",
+  "resolve": "Upgrade",
+  "effect": "Spend a reroll to give a transient, incorporeal hologram of you 1 order.",
+  "eb": "2",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "TallTail",
+  "skill": "Strength",
+  "resolve": "Roll",
+  "effect": "Use your tail to grab something Near and drag it Close.",
+  "eb": "-",
+  "sort": "Neko",
+  "first_publication": "Neko Virus Infection"
+}

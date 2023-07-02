@@ -1,0 +1,8 @@
+kind: Assimilation
+skill: '-'
+resolve: Passive
+effect: Add +1 to a stat when you absorb a piece of Mystery Data. Drop the data on
+  deletion.
+eb: '-'
+sort: Virus Power
+first_publication: Radical Spin

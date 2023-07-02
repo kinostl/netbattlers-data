@@ -1,0 +1,7 @@
+kind: DisruptionNCP
+skill: Coding
+resolve: Roll
+effect: Pick a Near target; disables their last used power/NCP until they roll 3 times.
+eb: '3'
+sort: PowerNCP
+first_publication: Core

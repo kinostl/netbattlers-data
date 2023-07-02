@@ -1,0 +1,13 @@
+{
+  "kind": "XVI-TheTower",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Malevolent cloud! GM picks 3 objects and up to 3 hostile targets to hit with shattering 3-dmg bolts.",
+  "category": "Summon",
+  "tags": [
+    "Piercing",
+    "Awkward",
+    "Dangerous"
+  ],
+  "first_publication": "Tarot"
+}

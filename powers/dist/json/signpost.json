@@ -1,0 +1,9 @@
+{
+  "kind": "SignPost",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "You can leave a sign, similar to a BBS post, anywhere online.",
+  "eb": "1",
+  "sort": "NCP",
+  "first_publication": "Core"
+}

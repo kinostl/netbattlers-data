@@ -1,0 +1,7 @@
+kind: PassengerMode
+skill: '-'
+resolve: '-'
+effect: When you use Rush chips, you can take a Close target with you.
+eb: '2'
+sort: NCP
+first_publication: Core

@@ -1,0 +1,9 @@
+{
+  "kind": "InNumbers",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Your Strength always equals half your HP, rounded up. Changing one changes the other.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

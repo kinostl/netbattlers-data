@@ -1,0 +1,12 @@
+{
+  "kind": "AntiNavi",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Name a skill. On your next opposed roll, if an opponent uses that skill, roll +4 dice.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Advanced Support Pack"
+}

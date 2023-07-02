@@ -1,0 +1,8 @@
+kind: Catmosphere
+skill: '-'
+resolve: Passive
+effect: For every roll, roll an extra die for every other Near Navi/Virus infected
+  with the Neko Virus.
+eb: '-'
+sort: Neko
+first_publication: Neko Virus Infection

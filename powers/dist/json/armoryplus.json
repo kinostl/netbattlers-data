@@ -1,0 +1,9 @@
+{
+  "kind": "ArmoryPlus",
+  "skill": "ArmorChange",
+  "resolve": "Upgrade",
+  "effect": "Can instead choose these effects: loud; decorated; buoyant; flammable; or ugly.",
+  "eb": "2",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "Claws&Effect",
+  "skill": "Strength",
+  "resolve": "Roll",
+  "effect": "Shred a Close target, dealing damage, destroying their Guard, and wrecking their look.",
+  "eb": "-",
+  "sort": "Neko",
+  "first_publication": "Neko Virus Infection"
+}

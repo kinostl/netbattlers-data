@@ -1,0 +1,11 @@
+{
+  "kind": "Temperance",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Calm, shallow water rises. Anyone inside always rolls at least 4 dice. Non-hostile rolls only.",
+  "category": "Hazard",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Tarot"
+}

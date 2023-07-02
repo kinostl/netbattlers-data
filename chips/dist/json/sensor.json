@@ -1,0 +1,12 @@
+{
+  "kind": "Sensor",
+  "dmg": "2",
+  "range": "Close",
+  "effect": "A motion-sensing eye stuns the first enemy it sees and alerts you. Takes a minute to open.",
+  "category": "Summon",
+  "tags": [
+    "Accurate",
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

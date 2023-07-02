@@ -1,0 +1,11 @@
+{
+  "kind": "DashingGrace",
+  "dmg": "-",
+  "range": "Far",
+  "effect": "Zip Close and expose the target. If an ally rolls to attack the target next, they deal +2 damage.",
+  "category": "Rush",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Mystic Lilies"
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "Catapult",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Slot in a Thrown chip; it has Shot chip properties and +1 damage to its first hit.",
+  "category": "Shot",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Core"
+}

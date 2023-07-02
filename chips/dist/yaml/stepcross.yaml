@@ -1,0 +1,9 @@
+kind: StepCross
+dmg: '-'
+range: Near
+effect: Next time an ally is attacked by a melee attack, warp in between and parry
+  with a 3-dmg slash.
+category: Rush
+tags:
+  - Guard
+first_publication: Core

@@ -1,0 +1,8 @@
+kind: Specialist
+skill: Rally
+resolve: Upgrade
+effect: On jack-in, pick any skill. Rally can add 3 dice to an ally roll with that
+  skill instead.
+eb: '2'
+sort: NPU
+first_publication: Navi Power Upgrades

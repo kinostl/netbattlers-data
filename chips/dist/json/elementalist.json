@@ -1,0 +1,11 @@
+{
+  "kind": "EleMentalist",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Write any element down, tell others its 1st letter. If a player guesses it 1st try, summon lots of it!",
+  "category": "Summon",
+  "tags": [
+    ""
+  ],
+  "first_publication": "ChitChat"
+}

@@ -1,0 +1,9 @@
+kind: XVIII-TheMoon
+dmg: '-'
+range: Near
+effect: 'Dream bomb! Target briefly (pick 1): can’t see allies; sees you as friendly;
+  sees you as terrifying.'
+category: Thrown
+tags:
+  - Slow
+first_publication: Tarot

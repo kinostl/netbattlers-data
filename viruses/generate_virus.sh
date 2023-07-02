@@ -1,4 +1,6 @@
 #!/usr/bin/sh
+wget -O viruses.csv "https://docs.google.com/spreadsheets/d/1p9SII_sEwtJMgT0F86ZadNENNoGZGsdRjmjYOwEcFEI/gviz/tq?tqx=out:csv&sheet=Viruses"
+
 JS_OUT=`sqlite3 < generate_virus.sql`
 mkdir -p dist/json/
 mkdir -p dist/yaml/
@@ -17,5 +19,4 @@ do
     IFS='
     '
 done
-rm dist/json/.json
-rm dist/yaml/.yaml
+rm viruses.csv

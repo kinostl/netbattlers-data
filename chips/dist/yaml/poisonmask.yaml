@@ -1,0 +1,10 @@
+kind: PoisonMask
+dmg: '-'
+range: '-'
+effect: Evil metal mask! +3 dice next defense; fails to Piercing. Until then, it emits
+  hazardous poison.
+category: Support
+tags:
+  - Guard
+  - Dangerous
+first_publication: Advanced Support Pack

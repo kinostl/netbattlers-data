@@ -1,0 +1,9 @@
+{
+  "kind": "CatBurglar",
+  "skill": "Charm",
+  "resolve": "Roll",
+  "effect": "Pickpocket something off a Close target. Pickpocketing Viruses takes their chip data.",
+  "eb": "-",
+  "sort": "Neko",
+  "first_publication": "Neko Virus Infection"
+}

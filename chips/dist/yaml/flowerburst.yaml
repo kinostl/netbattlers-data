@@ -1,0 +1,9 @@
+kind: FlowerBurst
+dmg: '-'
+range: Near
+effect: Magical petals! When affected targets fail social Charm/Bravery rolls, you
+  dictate what they say.
+category: Wave
+tags:
+  - ''
+first_publication: Mystic Lilies

@@ -1,0 +1,11 @@
+{
+  "kind": "DictionaryAttack",
+  "dmg": "1",
+  "range": "Close",
+  "effect": "Paper rapier! Pick a letter; if the target’s element includes that letter, disable it for 3 rolls.",
+  "category": "Blade",
+  "tags": [
+    "Accurate"
+  ],
+  "first_publication": "Leximancy"
+}

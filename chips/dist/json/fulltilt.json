@@ -1,0 +1,12 @@
+{
+  "kind": "FullTilt",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Pick an object: it tilts to a direction (you pick) for a minute. Heavy objects tilt very gradually.",
+  "category": "Hazard",
+  "tags": [
+    "Awkward",
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

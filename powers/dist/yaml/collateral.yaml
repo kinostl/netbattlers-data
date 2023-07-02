@@ -1,0 +1,7 @@
+kind: Collateral
+skill: '-'
+resolve: Passive
+effect: When you miss an attack, a structure nearby the target is destroyed.
+eb: '-'
+sort: Virus Power
+first_publication: Core

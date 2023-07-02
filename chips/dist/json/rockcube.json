@@ -1,0 +1,11 @@
+{
+  "kind": "RockCube",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Summons a large cube of stone in front of the Navi.",
+  "category": "Summon",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

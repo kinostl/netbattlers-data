@@ -1,0 +1,8 @@
+kind: PopUp
+dmg: '-'
+range: Close
+effect: Creates a foxhole right beneath your feet.
+category: Hazard
+tags:
+  - ''
+first_publication: Core

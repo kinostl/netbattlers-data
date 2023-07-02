@@ -1,0 +1,9 @@
+kind: VarGun
+dmg: '2'
+range: Near
+effect: 'Spend 1 Info to pick 2: is Accurate; is Piercing; range is Far; covers target
+  with your element.'
+category: Shot
+tags:
+  - ''
+first_publication: Core

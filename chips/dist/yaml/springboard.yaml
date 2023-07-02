@@ -1,0 +1,9 @@
+kind: Springboard
+dmg: '-'
+range: Close
+effect: An easily-concealable springboard launches targets a range band when stepped
+  on.
+category: Hazard
+tags:
+  - ''
+first_publication: Core

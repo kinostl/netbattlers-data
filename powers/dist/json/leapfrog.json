@@ -1,0 +1,9 @@
+{
+  "kind": "LeapFrog",
+  "skill": "Speed",
+  "resolve": "Roll",
+  "effect": "Melee attack someone Near and move Close; downshift if you just damaged someone else.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

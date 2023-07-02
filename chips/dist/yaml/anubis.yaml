@@ -1,0 +1,9 @@
+kind: Anubis
+dmg: '-'
+range: Close
+effect: Summons a sinister statue in front of you. All Near it upshift all defense
+  rolls.
+category: Summon
+tags:
+  - Dangerous
+first_publication: Core

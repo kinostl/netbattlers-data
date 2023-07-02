@@ -1,0 +1,7 @@
+kind: ArmorChangeNCP
+skill: Stamina
+resolve: Roll
+effect: Your body is briefly (pick 1) superhot; icy; superheavy; camouflaged; or luminous.
+eb: '3'
+sort: PowerNCP
+first_publication: Core

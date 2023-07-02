@@ -1,0 +1,9 @@
+{
+  "kind": "Hardcore",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Can use a Cost Power right after being deleted.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

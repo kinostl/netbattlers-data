@@ -1,0 +1,7 @@
+kind: Custom+3
+skill: '-'
+resolve: '-'
+effect: +3 maximum BattleChips in your Folder.
+eb: '3'
+sort: BoostNCP
+first_publication: Core

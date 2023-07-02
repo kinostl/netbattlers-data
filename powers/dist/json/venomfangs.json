@@ -1,0 +1,9 @@
+{
+  "kind": "VenomFangs",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Your attacks disable passive Virus/NCP abilities for 2 rolls. (Stat/skill/Folder/HP changes unaffected.)",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

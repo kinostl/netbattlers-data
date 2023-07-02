@@ -1,0 +1,9 @@
+{
+  "kind": "SystemCall",
+  "skill": "Bravery",
+  "resolve": "Roll",
+  "effect": "Convince one or more Near targets to focus their hostile attention on you.",
+  "eb": "-",
+  "sort": "Power",
+  "first_publication": "Core"
+}

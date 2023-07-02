@@ -1,0 +1,9 @@
+{
+  "kind": "IceBlocker",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "When on your element, double your dice for defense rolls.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

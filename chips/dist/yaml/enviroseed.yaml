@@ -1,0 +1,9 @@
+kind: EnviroSeed
+dmg: '-'
+range: Near
+effect: 'Throws a huge seed that spreads (pick 1: dirt; grass; sand; snow) all around
+  where it lands.'
+category: Hazard
+tags:
+  - ''
+first_publication: Core

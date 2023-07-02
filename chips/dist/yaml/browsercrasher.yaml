@@ -1,0 +1,9 @@
+kind: BrowserCrasher
+dmg: '-'
+range: Near
+effect: A light blast blocks communication between Navis & NetOps. Normal NetOp Coding
+  to fix.
+category: Wave
+tags:
+  - Slow
+first_publication: Core

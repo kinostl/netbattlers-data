@@ -1,0 +1,9 @@
+kind: Moonlight
+dmg: '-'
+range: Near
+effect: Summons a moonbeam from the sky. You are invisible as long as you stay within
+  it.
+category: Summon
+tags:
+  - ''
+first_publication: Mystic Lilies

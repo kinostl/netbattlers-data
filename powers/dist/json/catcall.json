@@ -1,0 +1,9 @@
+{
+  "kind": "CatCall",
+  "skill": "Charm",
+  "resolve": "Roll",
+  "effect": "Telepathically communicate with a Far target as long as they also have a Neko Virus bond.",
+  "eb": "-",
+  "sort": "Neko",
+  "first_publication": "Neko Virus Infection"
+}

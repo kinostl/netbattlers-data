@@ -1,0 +1,7 @@
+kind: MirrorMove
+skill: Affinity
+resolve: Roll
+effect: Copy the last Navi Power you saw. Hits rolled = number of times usable.
+eb: '-'
+sort: Virus Power
+first_publication: Core

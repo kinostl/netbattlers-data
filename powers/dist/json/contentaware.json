@@ -1,0 +1,9 @@
+{
+  "kind": "ContentAware",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "You can get a 3-word description of anyone’s social media profile (if it’s public).",
+  "eb": "1",
+  "sort": "NCP",
+  "first_publication": "Core"
+}

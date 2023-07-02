@@ -1,0 +1,9 @@
+kind: OpenYourHeart
+dmg: '-'
+range: '-'
+effect: Charge your power, add +1 die per HP missing to your next Soul roll. Collapse
+  after the roll.
+category: Support
+tags:
+  - Slow
+first_publication: Radical Spin

@@ -1,0 +1,8 @@
+kind: SpoolUp
+skill: '-'
+resolve: Passive
+effect: Can spend 1 HP and a few seconds to make your next attack hit again. This
+  stacks.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

@@ -1,0 +1,9 @@
+kind: HoloHost
+dmg: '-'
+range: Close
+effect: Adaptive hologram! When someone Near tells a story, it illustrates their words
+  and adds subtitles.
+category: Summon
+tags:
+  - Simple
+first_publication: Cast the Dice

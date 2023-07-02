@@ -1,0 +1,11 @@
+{
+  "kind": "TundraSpotlight",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Casts you in a rainbow light that draws attention and downshifts your next Soul roll.",
+  "category": "Support",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Core"
+}

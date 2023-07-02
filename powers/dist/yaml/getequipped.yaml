@@ -1,0 +1,8 @@
+kind: GetEquipped
+skill: Affinity
+resolve: Cost
+effect: Give a Near ally a huge weapon. Next time they attack, they roll at least
+  5 dice.
+eb: '-'
+sort: Virus Power
+first_publication: Core

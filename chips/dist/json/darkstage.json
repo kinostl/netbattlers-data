@@ -1,0 +1,13 @@
+{
+  "kind": "DarkStage",
+  "dmg": "-",
+  "range": "Far",
+  "effect": "Pick 2: change gravity; shatter the terrain; spawn several black obelisks where you please.",
+  "category": "Hazard",
+  "tags": [
+    "Dark",
+    "Dangerous",
+    "Slow"
+  ],
+  "first_publication": "DarkChips"
+}

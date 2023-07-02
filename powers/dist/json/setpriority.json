@@ -1,0 +1,9 @@
+{
+  "kind": "SetPriority",
+  "skill": "Bravery",
+  "resolve": "Cost",
+  "effect": "Whip a Close target for 1 dmg. Covers them in your element. They get +3 dice to their next roll.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mystic Lilies"
+}

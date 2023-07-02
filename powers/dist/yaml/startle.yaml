@@ -1,0 +1,7 @@
+kind: Startle
+skill: Bravery
+resolve: Roll
+effect: Upshift a Close target’s next 3 Mind rolls.
+eb: '-'
+sort: Virus Power
+first_publication: Core

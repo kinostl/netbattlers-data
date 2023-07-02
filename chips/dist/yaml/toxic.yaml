@@ -1,0 +1,9 @@
+kind: Toxic
+dmg: '-'
+range: Near
+effect: Throws a noxious ball that bursts on impact, creating a cloud of corrosive,
+  poisonous gas.
+category: Hazard
+tags:
+  - Dangerous
+first_publication: Core

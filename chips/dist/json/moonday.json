@@ -1,0 +1,12 @@
+{
+  "kind": "MoonDay",
+  "dmg": "-",
+  "range": "-",
+  "effect": "A crescent moon hangs in the sky. All bonded to the Neko Virus roll double dice for Soul rolls.",
+  "category": "Hazard",
+  "tags": [
+    "Dark",
+    "Slow"
+  ],
+  "first_publication": "Neko Virus"
+}

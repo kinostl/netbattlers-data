@@ -1,0 +1,11 @@
+{
+  "kind": "StaticSeed",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "A big seed creates a hazy cloud of static that jams PET signals (e.g. sending chips).",
+  "category": "Hazard",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

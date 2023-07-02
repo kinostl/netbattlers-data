@@ -1,0 +1,12 @@
+{
+  "kind": "ElementalSonicWave",
+  "dmg": "2xX",
+  "range": "Near",
+  "effect": "Magic sword! X=1+Near Bonded allies. Target is hit with your + Near Bonded allies’ elements.",
+  "category": "Blade",
+  "tags": [
+    "Mega",
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

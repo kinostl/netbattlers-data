@@ -1,0 +1,7 @@
+kind: ShockwaveNCP
+skill: Strength
+resolve: Roll
+effect: A ranged attack that only moves through surfaces. It can hit one Near target.
+eb: '3'
+sort: PowerNCP
+first_publication: Core

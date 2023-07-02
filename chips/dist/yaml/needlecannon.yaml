@@ -1,0 +1,8 @@
+kind: NeedleCannon
+dmg: 1x4
+range: Near
+effect: Fire a volley of tiny needles.
+category: Shot
+tags:
+  - Accurate
+first_publication: Core

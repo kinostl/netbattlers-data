@@ -1,0 +1,7 @@
+kind: Artifact
+skill: Affinity
+resolve: Cost
+effect: Draw a sigil. Any touching it take half damage. Round up.
+eb: '-'
+sort: Virus Power
+first_publication: Core

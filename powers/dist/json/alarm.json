@@ -1,0 +1,9 @@
+{
+  "kind": "Alarm",
+  "skill": "Bravery",
+  "resolve": "Cost",
+  "effect": "Loudly tell a Near ally where a Near target is. Downshifts their next roll vs. the target. [Instant]",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

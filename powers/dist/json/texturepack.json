@@ -1,0 +1,9 @@
+{
+  "kind": "TexturePack",
+  "skill": "MapEdit",
+  "resolve": "Upgrade",
+  "effect": "Structures can be bouncy, sticky, floating, slippery, magnetic, or gelatinous.",
+  "eb": "2",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "XIX-TheSun",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Revealing light (pick 2): exposes invisible/disguised targets; shows everyone’s Max HP; highlights liars.",
+  "category": "Hazard",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Tarot"
+}

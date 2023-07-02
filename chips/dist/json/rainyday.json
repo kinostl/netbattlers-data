@@ -1,0 +1,11 @@
+{
+  "kind": "RainyDay",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Calls down a torrential downpour from a solid, squishy raincloud.",
+  "category": "Summon",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

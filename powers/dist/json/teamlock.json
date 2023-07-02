@@ -1,0 +1,9 @@
+{
+  "kind": "TeamLock",
+  "skill": "GravArmor",
+  "resolve": "Upgrade",
+  "effect": "When you stick to a surface, any Close allies can gravity-latch onto your body.",
+  "eb": "1",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

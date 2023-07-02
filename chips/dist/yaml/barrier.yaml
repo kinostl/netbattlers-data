@@ -1,0 +1,10 @@
+kind: Barrier
+dmg: '-'
+range: '-'
+effect: Next time you fail to defend against an attack, a barrier nullifies all damage
+  and effects.
+category: Support
+tags:
+  - Guard
+  - Slow
+first_publication: Core

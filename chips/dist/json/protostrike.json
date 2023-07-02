@@ -1,0 +1,12 @@
+{
+  "kind": "ProtoStrike",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Next time you counter, warp Close behind the attacker and slash for 3 damage.",
+  "category": "Blade",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Summer Camp"
+}

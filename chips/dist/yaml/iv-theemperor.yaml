@@ -1,0 +1,9 @@
+kind: IV-TheEmperor
+dmg: '3'
+range: Close
+effect: King’s trident! If this doesn’t delete, upshift your next 2 rolls unless they
+  are Strength or Bravery.
+category: Blade
+tags:
+  - Piercing
+first_publication: Tarot

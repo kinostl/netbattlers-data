@@ -1,0 +1,9 @@
+kind: MetalStage
+dmg: '-'
+range: Near
+effect: Surfaces of your choice turn to hard metal, resisting damage and conducting
+  electricity.
+category: Hazard
+tags:
+  - ''
+first_publication: Core

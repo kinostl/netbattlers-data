@@ -1,0 +1,8 @@
+kind: Inhale
+skill: Coding
+resolve: Roll
+effect: Suck in up to 3 Near objects. Every object inside you adds 1 Stamina; max
+  9.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

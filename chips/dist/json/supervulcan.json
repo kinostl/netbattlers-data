@@ -1,0 +1,12 @@
+{
+  "kind": "SuperVulcan",
+  "dmg": "2x4",
+  "range": "Near",
+  "effect": "A golden gun fires a barrage of bullets.",
+  "category": "Shot",
+  "tags": [
+    "Mega",
+    "Piercing"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,12 @@
+{
+  "kind": "KineticTypography",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Turn into text! You’re 2D and can only move on surfaces. Expires after a minute or taking dmg.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Awkward"
+  ],
+  "first_publication": "Mudslurp"
+}

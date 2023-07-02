@@ -1,0 +1,7 @@
+kind: EleMixup
+skill: Coding
+resolve: Roll
+effect: Swap 2+ Near targets’ elements. Lasts 3 rolls.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

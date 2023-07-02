@@ -1,0 +1,8 @@
+kind: AreaGrab
+dmg: '-'
+range: Near
+effect: A forcefield briefly stops enemies from moving a range band away.
+category: Hazard
+tags:
+  - ''
+first_publication: Core

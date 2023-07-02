@@ -1,0 +1,11 @@
+{
+  "kind": "SnakeCharmer",
+  "dmg": "2",
+  "range": "Near",
+  "effect": "Snakes rush! Spend 1 Charm to pick 2: hits twice; is Accurate; your element is briefly Snakes.",
+  "category": "Summon",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

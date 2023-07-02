@@ -1,0 +1,8 @@
+kind: ControlA
+skill: Control
+resolve: Upgrade
+effect: Detonate all abundances of your element in Near range, damaging all Close
+  to one.
+eb: '2'
+sort: NPU
+first_publication: Navi Power Upgrades

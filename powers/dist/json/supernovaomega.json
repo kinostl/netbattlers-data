@@ -1,0 +1,9 @@
+{
+  "kind": "SupernovaOmega",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "After rolling Affinity, gain 2 Affinity, lose 2 HP, and greatly increase the server’s temperature.",
+  "eb": "-",
+  "sort": "Omega Virus Power",
+  "first_publication": "Mega Viruses"
+}

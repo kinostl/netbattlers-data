@@ -1,0 +1,7 @@
+kind: Touché
+skill: Coding
+resolve: Roll
+effect: Knocks the alphabetically first BattleChip out of the target’s Folder.
+eb: '-'
+sort: Virus Power
+first_publication: Core

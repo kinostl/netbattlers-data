@@ -1,0 +1,8 @@
+kind: Nullifier
+dmg: '2'
+range: Close
+effect: Target is temporarily unable to use their element.
+category: Impact
+tags:
+  - ''
+first_publication: Core

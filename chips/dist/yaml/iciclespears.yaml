@@ -1,0 +1,10 @@
+kind: IcicleSpears
+dmg: '2'
+range: Near
+effect: Anyone touching a frozen surface is hit by massive icicle spikes erupting
+  from the ice.
+category: Hazard
+tags:
+  - Piercing
+  - Dangerous
+first_publication: Core

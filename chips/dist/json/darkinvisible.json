@@ -1,0 +1,13 @@
+{
+  "kind": "DarkInvisible",
+  "dmg": "-",
+  "range": "-",
+  "effect": "For the next 2x[Daemon Bond] rolls, you become an invisible, invincible specter.",
+  "category": "Support",
+  "tags": [
+    "Dark",
+    "Guard",
+    "Simple"
+  ],
+  "first_publication": "DarkChips"
+}

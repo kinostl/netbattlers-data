@@ -1,0 +1,11 @@
+{
+  "kind": "Dominion",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "3 ghost servants! They are slow & vanish when hurt, but look & act haunting. One order each.",
+  "category": "Summon",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Mystic Lilies"
+}

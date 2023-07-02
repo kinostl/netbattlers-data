@@ -1,0 +1,7 @@
+kind: HyperBomber
+skill: Splash
+resolve: Upgrade
+effect: Splash can use AP rounds, downshifting Speed and upshifting Stamina defense.
+eb: '3'
+sort: NPU
+first_publication: Navi Power Upgrades

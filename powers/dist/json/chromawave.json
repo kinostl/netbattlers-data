@@ -1,0 +1,9 @@
+{
+  "kind": "ChromaWave",
+  "skill": "Strength",
+  "resolve": "Roll",
+  "effect": "Make a ranged attack on a Near target, covering them with all elements you control.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

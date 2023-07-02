@@ -1,0 +1,8 @@
+kind: Combine
+skill: '-'
+resolve: Passive
+effect: Close allies can equip you, adding your skills, element, and other powers
+  to theirs.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

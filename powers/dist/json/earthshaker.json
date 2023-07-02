@@ -1,0 +1,9 @@
+{
+  "kind": "Earthshaker",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Briefly stun anyone you land Close to.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

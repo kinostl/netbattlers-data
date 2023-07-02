@@ -1,0 +1,9 @@
+kind: Spice
+dmg: '-'
+range: Near
+effect: 'Spore cloud! Pick 2 effects: Mind -1; speech slurs; sprouts mushrooms; very
+  flammable.'
+category: Wave
+tags:
+  - Piercing
+first_publication: Core

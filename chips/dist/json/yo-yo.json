@@ -1,0 +1,11 @@
+{
+  "kind": "Yo-Yo",
+  "dmg": "2x2",
+  "range": "Near",
+  "effect": "Shoot a razor yo-yo! Spend 1 Sense to make this Piercing.",
+  "category": "Shot",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

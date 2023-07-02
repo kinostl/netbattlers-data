@@ -1,0 +1,7 @@
+kind: NetTunnel
+skill: Speed
+resolve: Roll
+effect: Tunnel through an object to somewhere Near.
+eb: '-'
+sort: Virus Power
+first_publication: Core

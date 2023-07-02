@@ -1,0 +1,9 @@
+{
+  "kind": "JumpJetsNCP",
+  "skill": "Speed",
+  "resolve": "Roll",
+  "effect": "Launch a range band in any direction off of a surface.",
+  "eb": "3",
+  "sort": "PowerNCP",
+  "first_publication": "Core"
+}

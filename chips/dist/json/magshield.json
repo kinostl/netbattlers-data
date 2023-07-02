@@ -1,0 +1,12 @@
+{
+  "kind": "MagShield",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Downshift your next Stamina defense. If you take 0 dmg, drag the attacker Close & stun them.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Advanced Support Pack"
+}

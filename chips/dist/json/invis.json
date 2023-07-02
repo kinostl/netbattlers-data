@@ -1,0 +1,11 @@
+{
+  "kind": "Invis",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Become invisible for several seconds.",
+  "category": "Support",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Core"
+}

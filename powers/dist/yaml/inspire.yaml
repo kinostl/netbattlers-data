@@ -1,0 +1,7 @@
+kind: Inspire
+skill: Rally
+resolve: Upgrade
+effect: Rally can instead let an ally reroll two dice on a Soul roll.
+eb: '1'
+sort: NPU
+first_publication: Navi Power Upgrades

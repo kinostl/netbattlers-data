@@ -1,0 +1,12 @@
+{
+  "kind": "AntiMelee",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Next time you’re melee attacked, downshift parrying. On parry win, they fly a range band away.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Advanced Support Pack"
+}

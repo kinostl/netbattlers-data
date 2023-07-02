@@ -1,0 +1,10 @@
+kind: PrankZapper
+dmg: '-'
+range: Close
+effect: Next thing you touch vibrates loudly for a minute. (If it’s a Navi, it also
+  affects their PET.)
+category: Impact
+tags:
+  - Guard
+  - Simple
+first_publication: Cast the Dice

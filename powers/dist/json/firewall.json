@@ -1,0 +1,9 @@
+{
+  "kind": "Firewall",
+  "skill": "Coding",
+  "resolve": "Roll",
+  "effect": "Put a temporary door on a Near entrance that blocks known enemies.",
+  "eb": "-",
+  "sort": "Power",
+  "first_publication": "Core"
+}

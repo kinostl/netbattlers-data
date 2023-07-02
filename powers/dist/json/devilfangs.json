@@ -1,0 +1,9 @@
+{
+  "kind": "DevilFangs",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "Delete an enemy to heal = its max HP. No other healing, even jack-out. Need full HP to uninstall.",
+  "eb": "2",
+  "sort": "NCP",
+  "first_publication": "Mystic Lilies"
+}

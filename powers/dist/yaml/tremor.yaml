@@ -1,0 +1,7 @@
+kind: Tremor
+skill: Shockwave
+resolve: Upgrade
+effect: Deal one less damage to knock the target over.
+eb: '2'
+sort: NPU
+first_publication: Navi Power Upgrades

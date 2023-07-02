@@ -1,0 +1,8 @@
+kind: WhiteWeb
+dmg: '-'
+range: Near
+effect: Shoots a large, sticky web.
+category: Hazard
+tags:
+  - Slow
+first_publication: Core

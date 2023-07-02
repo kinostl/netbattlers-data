@@ -1,0 +1,11 @@
+{
+  "kind": "Autoplay",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Put a shiny music note on a surface. On touch, a loud music video deafens & blinds all Close.",
+  "category": "Hazard",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Mudslurp"
+}

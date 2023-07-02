@@ -1,0 +1,9 @@
+{
+  "kind": "MixedBlessing",
+  "skill": "Charm",
+  "resolve": "Cost",
+  "effect": "Pick a Near Virus ally — they get +3 dice to all rolls, but lose 2 HP per roll until deletion. [Instant]",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

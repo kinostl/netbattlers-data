@@ -1,0 +1,9 @@
+{
+  "kind": "Hypnotize",
+  "skill": "Charm",
+  "resolve": "Roll",
+  "effect": "Gradually lull a Close target to sleep.",
+  "eb": "-",
+  "sort": "Power",
+  "first_publication": "Core"
+}

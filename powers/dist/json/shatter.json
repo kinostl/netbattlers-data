@@ -1,0 +1,9 @@
+{
+  "kind": "Shatter",
+  "skill": "Strength",
+  "resolve": "Roll",
+  "effect": "Destroy a Close structure or piece of terrain.",
+  "eb": "-",
+  "sort": "Power",
+  "first_publication": "Core"
+}

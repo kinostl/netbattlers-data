@@ -1,0 +1,8 @@
+kind: Whirlpool
+dmg: '-'
+range: Close
+effect: Summons a vortex to slowly drag targets in.
+category: Hazard
+tags:
+  - Slow
+first_publication: Core

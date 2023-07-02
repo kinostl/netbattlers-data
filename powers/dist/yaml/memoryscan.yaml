@@ -1,0 +1,7 @@
+kind: MemoryScan
+skill: Info
+resolve: Roll
+effect: Scan a Close Virus/object to reveal the target’s recent memories/interactions.
+eb: '-'
+sort: Power
+first_publication: Core

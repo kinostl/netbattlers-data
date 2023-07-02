@@ -1,0 +1,9 @@
+{
+  "kind": "SnapDragon",
+  "skill": "Affinity",
+  "resolve": "Cost",
+  "effect": "Ask every Near stunned enemy a question. If they lie (even by omission), they light on fire.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

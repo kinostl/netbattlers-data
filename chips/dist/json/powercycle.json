@@ -1,0 +1,11 @@
+{
+  "kind": "PowerCycle",
+  "dmg": "1",
+  "range": "Close",
+  "effect": "Reboots Viruses, momentarily disabling them and wiping their short-term memory.",
+  "category": "Impact",
+  "tags": [
+    "Piercing"
+  ],
+  "first_publication": "Core"
+}

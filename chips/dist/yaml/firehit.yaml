@@ -1,0 +1,9 @@
+kind: FireHit
+dmg: 2x2
+range: Close
+effect: Slams the target with two fiery punches.
+category: Impact
+tags:
+  - Piercing
+  - Dangerous
+first_publication: Core

@@ -1,0 +1,9 @@
+{
+  "kind": "BlastOff",
+  "skill": "JumpJets",
+  "resolve": "Upgrade",
+  "effect": "JumpJets covers all enemies Close to your launch point with your element.",
+  "eb": "2",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

@@ -1,0 +1,7 @@
+kind: PoisonMist
+skill: Affinity
+resolve: Cost
+effect: Enemies within your element upshift their next defense roll.
+eb: '-'
+sort: Virus Power
+first_publication: Core

@@ -1,0 +1,11 @@
+{
+  "kind": "DarkWorm",
+  "dmg": "4+X",
+  "range": "Near",
+  "effect": "Burrow and devour. X=[Daemon Bond]. On hit, attack another target until you have hit X targets.",
+  "category": "Rush",
+  "tags": [
+    "Dark"
+  ],
+  "first_publication": "DarkChips"
+}

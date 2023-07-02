@@ -1,0 +1,8 @@
+kind: ThrillerNight
+skill: Charm
+resolve: Roll
+effect: Dance to resurrect a deleted Near Virus ally. HP = hits. Replace their element
+  with yours.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

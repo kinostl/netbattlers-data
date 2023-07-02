@@ -1,0 +1,7 @@
+kind: Tamer
+skill: Overwrite
+resolve: Upgrade
+effect: If a Virus is near deletion, you can permanently tame them (1 Virus at a time).
+eb: '3'
+sort: NPU
+first_publication: Navi Power Upgrades

@@ -1,0 +1,8 @@
+kind: Grappler
+dmg: '1'
+range: Near
+effect: Drags the target into Close range.
+category: Shot
+tags:
+  - ''
+first_publication: Core

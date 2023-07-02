@@ -1,0 +1,11 @@
+{
+  "kind": "Uptempo",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "A blaring, frenzied beat! All in range downshift their next 3 Speed rolls. Objects also accelerate.",
+  "category": "Hazard",
+  "tags": [
+    "Dangerous"
+  ],
+  "first_publication": "Mystic Lilies"
+}

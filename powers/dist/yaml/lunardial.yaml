@@ -1,0 +1,7 @@
+kind: LunarDial
+skill: '-'
+resolve: '-'
+effect: When you win a parry, you can freeze time long enough for one more roll/BattleChip.
+eb: '4'
+sort: NCP
+first_publication: Mystic Lilies

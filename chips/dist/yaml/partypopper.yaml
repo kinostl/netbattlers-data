@@ -1,0 +1,10 @@
+kind: PartyPopper
+dmg: '-'
+range: '-'
+effect: Next time you win an opposed roll, fly a range band up and toss a lot of confetti.
+  Yay!
+category: Rush
+tags:
+  - Guard
+  - Simple
+first_publication: Cast the Dice

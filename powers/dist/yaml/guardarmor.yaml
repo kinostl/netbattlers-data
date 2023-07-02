@@ -1,0 +1,7 @@
+kind: GuardArmor
+skill: ArmorChange
+resolve: Upgrade
+effect: When you have a Guard chip active, downshift ArmorChange rolls.
+eb: '1'
+sort: NPU
+first_publication: Navi Power Upgrades

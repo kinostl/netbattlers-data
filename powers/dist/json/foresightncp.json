@@ -1,0 +1,9 @@
+{
+  "kind": "ForesightNCP",
+  "skill": "Info",
+  "resolve": "Roll",
+  "effect": "On jack-in, pick a stat; you can roll Info to defend against any attack rolls using it.",
+  "eb": "3",
+  "sort": "PowerNCP",
+  "first_publication": "Core"
+}

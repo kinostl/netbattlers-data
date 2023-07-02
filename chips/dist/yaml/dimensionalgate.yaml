@@ -1,0 +1,9 @@
+kind: DimensionalGate
+dmg: '-'
+range: Near
+effect: A mystic gate! The GM names 4 random elements, you pick which 2 come out of
+  the gate.
+category: Wave
+tags:
+  - Dangerous
+first_publication: Core

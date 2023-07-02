@@ -1,0 +1,8 @@
+kind: DiffusalCannon
+dmg: X
+range: Near
+effect: Add 1 damage for every stat and skill point reduction you have. Max 5.
+category: Shot
+tags:
+  - ''
+first_publication: Core

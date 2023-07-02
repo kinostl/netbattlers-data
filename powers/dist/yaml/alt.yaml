@@ -1,0 +1,7 @@
+kind: Alt
+skill: Affinity
+resolve: Roll
+effect: Consume all of your element to create a minion with one purpose.
+eb: '-'
+sort: Power
+first_publication: Core

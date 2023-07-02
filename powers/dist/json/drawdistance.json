@@ -1,0 +1,9 @@
+{
+  "kind": "DrawDistance",
+  "skill": "Affinity",
+  "resolve": "Roll",
+  "effect": "Enemies can’t see you or allies in your element unless they are Close.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

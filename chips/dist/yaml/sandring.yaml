@@ -1,0 +1,8 @@
+kind: SandRing
+dmg: '1'
+range: Close
+effect: A hidden pitfall trap forms in front of you.
+category: Hazard
+tags:
+  - Slow
+first_publication: Core

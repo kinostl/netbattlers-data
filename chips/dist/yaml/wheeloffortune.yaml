@@ -1,0 +1,9 @@
+kind: WheelOfFortune
+dmg: '3'
+range: Near
+effect: Karmic wheel of spikes! After the target rolls once, they can use a copy of
+  this chip once.
+category: Thrown
+tags:
+  - ''
+first_publication: Tarot

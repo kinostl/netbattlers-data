@@ -1,0 +1,7 @@
+kind: ForceRefresh
+skill: Refresh
+resolve: Upgrade
+effect: Can instead reduce Max HP by 2 to use Refresh. Resets on jack-out.
+eb: '2'
+sort: NPU
+first_publication: Navi Power Upgrades

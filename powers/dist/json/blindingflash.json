@@ -1,0 +1,9 @@
+{
+  "kind": "BlindingFlash",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Attacks blind, upshifting target’s next Sense roll.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

@@ -1,0 +1,9 @@
+kind: CrystalBlade
+dmg: '2'
+range: Close
+effect: A gleaming crystal blade. Can instead be used to reveal & stun Near invisible
+  targets.
+category: Blade
+tags:
+  - ''
+first_publication: Core

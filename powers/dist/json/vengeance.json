@@ -1,0 +1,9 @@
+{
+  "kind": "Vengeance",
+  "skill": "Bravery",
+  "resolve": "Roll",
+  "effect": "Use Bravery to melee attack a Close target that recently attacked an ally.",
+  "eb": "-",
+  "sort": "Power",
+  "first_publication": "Core"
+}

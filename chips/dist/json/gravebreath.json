@@ -1,0 +1,12 @@
+{
+  "kind": "GraveBreath",
+  "dmg": "-",
+  "range": "Far",
+  "effect": "Sinister breath bathes the server. Others suffer your bugs and lose 1 HP each time they roll.",
+  "category": "Hazard",
+  "tags": [
+    "Dark",
+    "Slow"
+  ],
+  "first_publication": "DarkChips"
+}

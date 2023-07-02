@@ -1,0 +1,9 @@
+{
+  "kind": "ReversePolarity",
+  "skill": "GravArmor",
+  "resolve": "Upgrade",
+  "effect": "GravArmor can drag a Near object or airborne target into Close range.",
+  "eb": "3",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

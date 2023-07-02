@@ -1,0 +1,10 @@
+kind: XXI-TheWorld
+dmg: '-'
+range: Far
+effect: Can use the elements of all in range for 5 rolls. Roll Xd6 to summon/manipulate;
+  X=Bond Points.
+category: Support
+tags:
+  - Mega
+  - Simple
+first_publication: Tarot

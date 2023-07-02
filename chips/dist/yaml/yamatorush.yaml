@@ -1,0 +1,9 @@
+kind: YamatoRush
+dmg: '2'
+range: Near
+effect: Spear soldiers! Can spend 1 Bravery to upshift defense or give the soldiers
+  another order.
+category: Wave
+tags:
+  - ''
+first_publication: Core

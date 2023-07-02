@@ -1,0 +1,10 @@
+kind: ShadowFreeze
+dmg: '-'
+range: Near
+effect: Briefly freeze targets! Can spend 1 Coding to make this a Shot that ignores
+  walls
+category: Wave
+tags:
+  - Piercing
+  - Dangerous
+first_publication: Summer Camp

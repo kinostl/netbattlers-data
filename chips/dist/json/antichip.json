@@ -1,0 +1,12 @@
+{
+  "kind": "AntiChip",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Pick a chip category. Next time an enemy uses that category, take their chip and use it yourself.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Advanced Support Pack"
+}

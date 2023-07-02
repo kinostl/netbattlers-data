@@ -1,0 +1,9 @@
+{
+  "kind": "BlindModeNCP",
+  "skill": "Sense",
+  "resolve": "Roll",
+  "effect": "Find a target with extrasensory means (e.g. thermal imaging, echolocation).",
+  "eb": "3",
+  "sort": "PowerNCP",
+  "first_publication": "Core"
+}

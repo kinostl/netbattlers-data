@@ -1,0 +1,7 @@
+kind: CashOut
+skill: '-'
+resolve: '-'
+effect: Spend 600z to add one die to a roll. (Use before rolling.) Max +4 to a roll.
+eb: '2'
+sort: NCP
+first_publication: Core

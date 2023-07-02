@@ -1,0 +1,9 @@
+{
+  "kind": "ProgRadar",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "Beeps depending on proximity to nearest Prog.",
+  "eb": "1",
+  "sort": "NCP",
+  "first_publication": "Core"
+}

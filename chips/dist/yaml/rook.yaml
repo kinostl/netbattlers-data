@@ -1,0 +1,9 @@
+kind: Rook
+dmg: '-'
+range: Close
+effect: Creates a 15-foot stone tower with battlements. Easily climbable.
+category: Summon
+tags:
+  - Awkward
+  - Slow
+first_publication: Core

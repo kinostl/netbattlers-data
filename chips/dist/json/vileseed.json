@@ -1,0 +1,11 @@
+{
+  "kind": "VileSeed",
+  "dmg": "3",
+  "range": "Near",
+  "effect": "A subtle, burrowing seed! After time passes, the user can control the target’s body, then mind.",
+  "category": "Shot",
+  "tags": [
+    "Incident"
+  ],
+  "first_publication": "Mystic Lilies"
+}

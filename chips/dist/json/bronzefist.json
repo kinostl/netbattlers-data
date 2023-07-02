@@ -1,0 +1,11 @@
+{
+  "kind": "BronzeFist",
+  "dmg": "2",
+  "range": "Close",
+  "effect": "A parrying gauntlet. Can instead turn the next time you fail a melee parry into a tie.",
+  "category": "Impact",
+  "tags": [
+    "Guard"
+  ],
+  "first_publication": "Core"
+}

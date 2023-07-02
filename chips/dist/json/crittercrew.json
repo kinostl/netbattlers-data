@@ -1,0 +1,11 @@
+{
+  "kind": "CritterCrew",
+  "dmg": "-",
+  "range": "Close",
+  "effect": "Small animals come to help! They’re small, cute, nonviolent, brave, and take simple orders.",
+  "category": "Summon",
+  "tags": [
+    ""
+  ],
+  "first_publication": "ChitChat"
+}

@@ -1,0 +1,9 @@
+kind: EchoChamber
+dmg: '-'
+range: Close
+effect: Pick an ally in range that’s making an opposed roll; you can reroll their
+  failed dice.
+category: Support
+tags:
+  - Awkward
+first_publication: Mystic Lilies

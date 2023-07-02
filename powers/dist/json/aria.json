@@ -1,0 +1,9 @@
+{
+  "kind": "Aria",
+  "skill": "Affinity",
+  "resolve": "Cost",
+  "effect": "When a Near ally is about to be deleted, they survive at 1 HP. [Instant]",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mystic Lilies"
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "Us",
+  "skill": "Bravery",
+  "resolve": "Roll",
+  "effect": "Fling all Close allies at a Near target, sending them arcing through the air to Close range.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Underground Broadcast"
+}

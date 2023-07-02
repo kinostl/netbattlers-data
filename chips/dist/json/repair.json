@@ -1,0 +1,11 @@
+{
+  "kind": "Repair",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "Fix a broken structure.",
+  "category": "Support",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

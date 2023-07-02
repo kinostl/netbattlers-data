@@ -1,0 +1,11 @@
+{
+  "kind": "CandyWave",
+  "dmg": "2",
+  "range": "Near",
+  "effect": "Spend 1 Charm to pick 1: candy is sticky; candy is big and bouncy; Viruses really want to eat it.",
+  "category": "Wave",
+  "tags": [
+    ""
+  ],
+  "first_publication": "Core"
+}

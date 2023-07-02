@@ -1,0 +1,7 @@
+kind: WarpNCP
+skill: Speed
+resolve: Cost
+effect: Instantly move up to one range band. [Instant]
+eb: '3'
+sort: PowerNCP
+first_publication: Core

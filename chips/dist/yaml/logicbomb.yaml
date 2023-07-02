@@ -1,0 +1,8 @@
+kind: LogicBomb
+dmg: '2'
+range: Near
+effect: A code bomb full of malicious programming. Must roll Coding to defend.
+category: Thrown
+tags:
+  - ''
+first_publication: Core

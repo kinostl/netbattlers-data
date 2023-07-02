@@ -1,0 +1,8 @@
+kind: WithABang
+skill: '-'
+resolve: Passive
+effect: Allies you use powers on will blast into their element on deletion, dealing
+  3 dmg to all Close.
+eb: '-'
+sort: Virus Power
+first_publication: Mega Viruses

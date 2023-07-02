@@ -1,0 +1,10 @@
+kind: PoisonParadise
+dmg: '-'
+range: Near
+effect: Pick a hazard - it is disguised as something enticing and inviting. Disguise
+  expires on touch.
+category: Hazard
+tags:
+  - Awkward
+  - Slow
+first_publication: Silicon Skin

@@ -1,0 +1,12 @@
+{
+  "kind": "Masquerade",
+  "dmg": "-",
+  "range": "Near",
+  "effect": "After a flashy pose, you and allies gain elegant outfits that conceal your identities.",
+  "category": "Support",
+  "tags": [
+    "Awkward",
+    "Slow"
+  ],
+  "first_publication": "Summer Camp"
+}

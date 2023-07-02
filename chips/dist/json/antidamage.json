@@ -1,0 +1,12 @@
+{
+  "kind": "AntiDamage",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Next defense, swap places with a Near object & take 0 dmg. Fails vs. Accurate chips/LockOn.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Advanced Support Pack"
+}

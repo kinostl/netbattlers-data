@@ -1,0 +1,12 @@
+{
+  "kind": "HangedMan",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Next time you’re attacked, don’t defend. Damage you take = X. Next Mind roll gets +X dice.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Tarot"
+}

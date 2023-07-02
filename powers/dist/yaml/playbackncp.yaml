@@ -1,0 +1,7 @@
+kind: PlaybackNCP
+skill: Charm
+resolve: Roll
+effect: Imitate someone else’s voice.
+eb: '3'
+sort: PowerNCP
+first_publication: Core

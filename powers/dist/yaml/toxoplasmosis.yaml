@@ -1,0 +1,8 @@
+kind: Toxoplasmosis
+skill: '-'
+resolve: Passive
+effect: When someone touches Element you summoned, they gain a bond level with the
+  Neko Virus.
+eb: '-'
+sort: Neko
+first_publication: Neko Virus Infection

@@ -1,0 +1,9 @@
+kind: LightningRod
+dmg: '1'
+range: Near
+effect: The next time the target’s attacked, a 2-damage bolt of lightning adds to
+  the damage.
+category: Thrown
+tags:
+  - Awkward
+first_publication: Core

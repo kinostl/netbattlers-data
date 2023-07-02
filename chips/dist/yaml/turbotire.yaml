@@ -1,0 +1,9 @@
+kind: TurboTire
+dmg: '3'
+range: Near
+effect: Roll into Close range on a flaming wheel; the wheel burns and bounces around
+  afterwards.
+category: Rush
+tags:
+  - Dangerous
+first_publication: Core

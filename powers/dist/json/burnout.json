@@ -1,0 +1,9 @@
+{
+  "kind": "Burnout",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Can spend 1 HP to move a range band after any roll.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

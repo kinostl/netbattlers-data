@@ -1,0 +1,9 @@
+{
+  "kind": "Telltale",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Always leave a trail of your element behind you.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "ChitChat"
+}

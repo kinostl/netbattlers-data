@@ -1,0 +1,8 @@
+kind: RingOut
+skill: Affinity
+resolve: Roll
+effect: Warp a Near target touching your element to another Near instance of your
+  element.
+eb: '-'
+sort: Virus Power
+first_publication: Core

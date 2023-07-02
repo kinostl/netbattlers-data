@@ -1,0 +1,7 @@
+kind: VaporWave
+skill: '-'
+resolve: '-'
+effect: When you use a Wave chip and it hits 2+ enemies, your element covers them.
+eb: '2'
+sort: NCP
+first_publication: Core

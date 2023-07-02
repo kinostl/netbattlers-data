@@ -1,0 +1,9 @@
+{
+  "kind": "EleMercy",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "When you’re hurt, spawn your element Close.",
+  "eb": "-",
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

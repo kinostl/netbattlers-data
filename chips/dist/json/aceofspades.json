@@ -1,0 +1,12 @@
+{
+  "kind": "AceOfSpades",
+  "dmg": "-",
+  "range": "-",
+  "effect": "Next time you lose an opposed roll and at least one of your dice reads 1, change all 1s to 6s.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Mystic Lilies"
+}

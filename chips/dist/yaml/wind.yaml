@@ -1,0 +1,8 @@
+kind: Wind
+dmg: '-'
+range: Near
+effect: Summons a gust of wind to blow targets towards or away from you.
+category: Summon
+tags:
+  - ''
+first_publication: Core

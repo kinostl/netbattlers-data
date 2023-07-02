@@ -1,0 +1,9 @@
+{
+  "kind": "Blowback",
+  "skill": "Followthrough",
+  "resolve": "Upgrade",
+  "effect": "One target can be Near range if you pick a Close target to launch at them.",
+  "eb": "2",
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

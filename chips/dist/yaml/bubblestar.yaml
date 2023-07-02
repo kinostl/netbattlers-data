@@ -1,0 +1,8 @@
+kind: BubbleStar
+dmg: '-'
+range: Near
+effect: Seals the target in a floating bubble.
+category: Support
+tags:
+  - Awkward
+first_publication: Core

@@ -1,0 +1,9 @@
+kind: VII-TheChariot
+dmg: '3'
+range: Near
+effect: Charge Close! Roll Normal Bravery; if you fail, this is Dangerous. If you
+  crit, this is Piercing.
+category: Rush
+tags:
+  - Awkward
+first_publication: Tarot

@@ -1,0 +1,7 @@
+kind: Touchdown
+skill: Strength
+resolve: Roll
+effect: Throw a Close target into a different, Near target; both take damage.
+eb: '-'
+sort: Virus Power
+first_publication: Core
