@@ -1,0 +1,37 @@
+{
+  "kind": "Cactikil",
+  "desc": "Cactikil Viruses are rooted in place. They toss their rolling, spikey heads at enemies.",
+  "element": "Cacti",
+  "category": "Striker",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 3,
+    "strength": 1,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 3,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 0
+  },
+  "powers": [
+    "Rollout",
+    "Dullahan",
+    "Treehugger",
+    null
+  ],
+  "tags": [
+    "Immobile"
+  ],
+  "hp": "4",
+  "drops": [
+    "Cactiball",
+    null
+  ],
+  "first_publication": "Core",
+  "art": "",
+  "artist": ""
+}

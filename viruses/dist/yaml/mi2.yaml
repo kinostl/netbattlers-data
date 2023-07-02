@@ -1,0 +1,32 @@
+kind: Mi2
+desc: A cat-like Virus with a digital display helmet. It copies others’ elements and
+  manipulates them. Its fur color changes with its element.
+element: Imitation
+category: Wrecker
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 3
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 2
+  charm: 4
+  bravery: 0
+  affinity: 3
+powers:
+  - Copycat
+  - null
+  - null
+  - null
+tags:
+  - None
+hp: '3'
+drops:
+  - DimensionalGate
+  - GhostSeed
+first_publication: Core
+art: https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/Mi2.png
+artist: Riv

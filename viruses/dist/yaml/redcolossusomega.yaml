@@ -1,0 +1,32 @@
+kind: RedColossusOmega
+desc: Slow and nearly-invincible, the RedColossus is towering and crystaline. It shakes
+  the earth as it walks. Run. Don’t let it find you.
+element: Crystals
+category: Striker
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 9
+  strength: 6
+  speed: 0
+  stamina: 6
+  soul: 1
+  charm: 0
+  bravery: 6
+  affinity: 0
+powers:
+  - Shatter
+  - BloodstoneOmega
+  - OcularRifts
+  - AbyssalRoar
+tags:
+  - Mega
+hp: '13'
+drops:
+  - MeteorKnuckle
+  - null
+first_publication: Mega Viruses
+art: ''
+artist: ''

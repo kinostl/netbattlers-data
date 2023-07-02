@@ -1,0 +1,33 @@
+kind: Choppy
+desc: Choppy Viruses look like small military helicopters. Their floodlights intimidate
+  targets and their bombs demolish anything in their way.
+element: Bombs
+category: Artillery
+skills:
+  mind: 2
+  sense: 2
+  info: 0
+  coding: 0
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 2
+  charm: 0
+  bravery: 4
+  affinity: 2
+powers:
+  - Protect
+  - Serve
+  - null
+  - null
+tags:
+  - Inanimate
+  - Flying
+hp: '7'
+drops:
+  - AirRaid
+  - AirStrike
+first_publication: Underground Broadcast
+art: ''
+artist: ''

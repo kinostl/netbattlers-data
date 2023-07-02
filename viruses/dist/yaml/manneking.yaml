@@ -1,0 +1,32 @@
+kind: Manneking
+desc: A mannequin-like Virus in ostentatious, setting-appropriate clothes. Strikes
+  fashionable poses while nobody’s looking.
+element: Showbiz
+category: Support
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 4
+  charm: 0
+  bravery: 0
+  affinity: 0
+powers:
+  - Poser
+  - Shy
+  - null
+  - null
+tags:
+  - None
+hp: '3'
+drops:
+  - StyleSword
+  - TundraSpotlight
+first_publication: Core
+art: ''
+artist: ''

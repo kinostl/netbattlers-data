@@ -1,0 +1,33 @@
+kind: SirenSong
+desc: SirenSong Viruses look like huge alarm sirens with several bendy robotic arms.
+  They toss their allies to swarm anyone that resists.
+element: Alarms
+category: Support
+skills:
+  mind: 1
+  sense: 3
+  info: 0
+  coding: 0
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 2
+  charm: 0
+  bravery: 3
+  affinity: 4
+powers:
+  - Us
+  - Them
+  - null
+  - null
+tags:
+  - Inanimate
+  - Immobile
+hp: '5'
+drops:
+  - GoingRoad
+  - Sensor
+first_publication: Underground Broadcast
+art: ''
+artist: ''

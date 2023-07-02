@@ -1,0 +1,37 @@
+{
+  "kind": "Lurker",
+  "desc": "Jet-black Lurkers have red amulets around their neck. They hunt Navis from the shadows, reappearing at vulnerable moments to strike.",
+  "element": "Shadows",
+  "category": "Striker",
+  "skills": {
+    "mind": 2,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 3,
+    "strength": 0,
+    "speed": 2,
+    "stamina": 0,
+    "soul": 2,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 3
+  },
+  "powers": [
+    "Warp",
+    "NightSign",
+    "Stalker",
+    null
+  ],
+  "tags": [
+    "None"
+  ],
+  "hp": "4",
+  "drops": [
+    "Apparition",
+    "Forbidden"
+  ],
+  "first_publication": "Mystic Lilies",
+  "art": "",
+  "artist": ""
+}

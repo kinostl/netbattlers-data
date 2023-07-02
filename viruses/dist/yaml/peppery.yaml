@@ -1,0 +1,31 @@
+kind: Peppery
+desc: The Appley Virus’s distant cousin invigorates other Viruses with its spicy nature.
+element: Spice
+category: Support
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 2
+  charm: 0
+  bravery: 2
+  affinity: 3
+powers:
+  - Vengeance
+  - Seasoning
+  - Aftertaste
+  - null
+tags:
+  - None
+hp: '4'
+drops:
+  - SeedStage
+  - Spice
+first_publication: Core
+art: ''
+artist: ''

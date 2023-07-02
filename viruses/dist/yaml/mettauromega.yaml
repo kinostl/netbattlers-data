@@ -1,0 +1,32 @@
+kind: MettaurOmega
+desc: MettaurΩ’s small size hides its power. Its pickaxe cracks surfaces with its
+  shockwaves.
+element: Mining
+category: Wrecker
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 2
+  strength: 2
+  speed: 0
+  stamina: 2
+  soul: 1
+  charm: 0
+  bravery: 0
+  affinity: 0
+powers:
+  - Shockwave
+  - Reflect
+  - BreakAttack
+  - null
+tags:
+  - None
+hp: '5'
+drops:
+  - BigWave
+  - Geddon2
+first_publication: Core
+art: ''
+artist: ''

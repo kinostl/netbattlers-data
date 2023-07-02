@@ -1,0 +1,32 @@
+kind: MuteAnt
+desc: MuteAnt Viruses are cold gray trumpet Viruses. They play cacophonic tunes to
+  make Navis miserable.
+element: Noise
+category: Disruption
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 1
+  strength: 0
+  speed: 2
+  stamina: 0
+  soul: 4
+  charm: 0
+  bravery: 0
+  affinity: 0
+powers:
+  - Ensemble
+  - Fermata
+  - Tacet
+  - null
+tags:
+  - None
+hp: '3'
+drops:
+  - Silence
+  - Timpani
+first_publication: Core
+art: https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/muteant.png
+artist: GSK Bladez

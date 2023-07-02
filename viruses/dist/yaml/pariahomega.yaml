@@ -1,0 +1,32 @@
+kind: PariahOmega
+desc: Viruses made to resemble elegant statues, the Pariah hides in plain sight before
+  tearing its unaware prey apart with supernatural speed.
+element: Stone
+category: Striker
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 4
+  body: 9
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 5
+  charm: 0
+  bravery: 6
+  affinity: 0
+powers:
+  - BlinkStep
+  - DreadOmega
+  - Scopophobia
+  - OpticalExploit
+tags:
+  - Mega
+hp: '9'
+drops:
+  - Paranoia
+  - null
+first_publication: The Walls Will Swallow You
+art: ''
+artist: ''

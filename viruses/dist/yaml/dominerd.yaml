@@ -1,0 +1,31 @@
+kind: Dominerd
+desc: Dominerd Viruses hide from sight, revealing themselves to punish attackers.
+element: Shadows
+category: Support
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 4
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 1
+  charm: 0
+  bravery: 6
+  affinity: 3
+powers:
+  - Bodyguard
+  - Lurker
+  - Jumpscare
+  - null
+tags:
+  - None
+hp: '4'
+drops:
+  - BurstRevenge
+  - CurseShield
+first_publication: Core
+art: ''
+artist: ''

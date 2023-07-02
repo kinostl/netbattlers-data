@@ -1,0 +1,32 @@
+kind: Skimmer
+desc: A bag-shaped Virus with spider legs. The more Zenny it stores after skimming
+  a transaction, the louder it jingles as it runs.
+element: Greed
+category: Disruption
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 4
+  body: 2
+  strength: 0
+  speed: 2
+  stamina: 0
+  soul: 1
+  charm: 0
+  bravery: 0
+  affinity: 0
+powers:
+  - Sneakrun
+  - Skim
+  - Moneybags
+  - null
+tags:
+  - Inanimate
+hp: '2'
+drops:
+  - CashFlow
+  - GoldFist
+first_publication: Core
+art: ''
+artist: ''

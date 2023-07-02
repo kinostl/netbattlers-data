@@ -1,0 +1,38 @@
+{
+  "kind": "SlashdanceOmega",
+  "desc": "A cursed sword Virus! Slashdances’ runic malware can download ally elements, then punish enemies with air-cutting projectile slices.",
+  "element": "Blades",
+  "category": "Disruption",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 4,
+    "strength": 3,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 3
+  },
+  "powers": [
+    "ChromaWave",
+    "Resonate",
+    "Blademaster",
+    "Followthrough"
+  ],
+  "tags": [
+    "Mega",
+    "Hovering"
+  ],
+  "hp": "7",
+  "drops": [
+    "ElementalSonicWave",
+    null
+  ],
+  "first_publication": "Mega Viruses",
+  "art": "",
+  "artist": ""
+}

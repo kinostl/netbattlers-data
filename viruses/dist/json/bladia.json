@@ -1,0 +1,38 @@
+{
+  "kind": "Bladia",
+  "desc": "These animated suits of armor ambush strong hosts to possess them. Unlucky victims are slowly drained of life unless rescued.",
+  "element": "Metal",
+  "category": "Striker",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 4,
+    "body": 2,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 3,
+    "affinity": 3
+  },
+  "powers": [
+    "IronMaiden",
+    "IronCradle",
+    "IronBull",
+    null
+  ],
+  "tags": [
+    "Mega",
+    "Inanimate"
+  ],
+  "hp": "4",
+  "drops": [
+    "SpiritSword",
+    "Possession"
+  ],
+  "first_publication": "Mega Viruses",
+  "art": "",
+  "artist": ""
+}

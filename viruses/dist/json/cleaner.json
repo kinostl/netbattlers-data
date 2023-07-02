@@ -1,0 +1,38 @@
+{
+  "kind": "Cleaner",
+  "desc": "Cleaner Viruses look like giant sentient paint rollers. They sweep away art, elements, and damage to the area.",
+  "element": "White Paint",
+  "category": "Wrecker",
+  "skills": {
+    "mind": 3,
+    "sense": 0,
+    "info": 0,
+    "coding": 1,
+    "body": 2,
+    "strength": 0,
+    "speed": 2,
+    "stamina": 0,
+    "soul": 2,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 4
+  },
+  "powers": [
+    "Law",
+    "Order",
+    null,
+    null
+  ],
+  "tags": [
+    "Inanimate",
+    "Hovering"
+  ],
+  "hp": "3",
+  "drops": [
+    "Nullifier",
+    "Repair"
+  ],
+  "first_publication": "Underground Broadcast",
+  "art": "",
+  "artist": ""
+}

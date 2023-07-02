@@ -1,0 +1,32 @@
+kind: Basher
+desc: A towering triple-barrelled turret manned by three tiny fires. Locks onto Navis
+  and fires dangerous explosive rounds.
+element: Explosions
+category: Artillery
+skills:
+  mind: 1
+  sense: 4
+  info: 0
+  coding: 0
+  body: 1
+  strength: 0
+  speed: 0
+  stamina: 3
+  soul: 1
+  charm: 0
+  bravery: 0
+  affinity: 0
+powers:
+  - LockOn
+  - Splash
+  - null
+  - null
+tags:
+  - Immobile
+hp: '5'
+drops:
+  - Magnum
+  - SeekBomb
+first_publication: Core
+art: ''
+artist: ''

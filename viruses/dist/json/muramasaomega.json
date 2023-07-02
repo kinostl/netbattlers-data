@@ -1,0 +1,39 @@
+{
+  "kind": "MuramasaOmega",
+  "desc": "The Muramasa Virus is advanced metamorphic data. It shifts into the perfect weapon for its wielder, but power comes at a price...",
+  "element": "Hellfire",
+  "category": "Support",
+  "skills": {
+    "mind": 1,
+    "sense": 3,
+    "info": 0,
+    "coding": 0,
+    "body": 2,
+    "strength": 3,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 3
+  },
+  "powers": [
+    "ForbiddenArt",
+    "PowerDrainOmega",
+    "Combine",
+    "Deathwish"
+  ],
+  "tags": [
+    "Mega",
+    "Inanimate",
+    "Immobile"
+  ],
+  "hp": "5",
+  "drops": [
+    "VanishingWorld",
+    null
+  ],
+  "first_publication": "Mega Viruses",
+  "art": "",
+  "artist": ""
+}

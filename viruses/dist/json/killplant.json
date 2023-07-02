@@ -1,0 +1,37 @@
+{
+  "kind": "KillPlant",
+  "desc": "KillPlants are tall Viruses that spit huge seeds. After a delay, the seeds explode.",
+  "element": "Plants",
+  "category": "Artillery",
+  "skills": {
+    "mind": 1,
+    "sense": 3,
+    "info": 0,
+    "coding": 0,
+    "body": 2,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 2,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 2
+  },
+  "powers": [
+    "Splash",
+    "Shift",
+    "Germination",
+    null
+  ],
+  "tags": [
+    "None"
+  ],
+  "hp": "5",
+  "drops": [
+    "TreeBomb",
+    "WoodTower"
+  ],
+  "first_publication": "Core",
+  "art": "https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/killplant.png",
+  "artist": "GSK Bladez"
+}
