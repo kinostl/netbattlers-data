@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Mega;Hovering
-hp: '10'
+hp: 10
 drops:
   - GunDelSol
   - XIX-TheSun

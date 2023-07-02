@@ -23,7 +23,7 @@ powers:
   - Swarm
 tags:
   - Mega
-hp: '12'
+hp: 12
 drops:
   - ElementSurge
   - null

@@ -23,7 +23,7 @@ powers:
   - IronCurtain
 tags:
   - Mega;Inanimate
-hp: '7'
+hp: 7
 drops:
   - SealingRites
   - null

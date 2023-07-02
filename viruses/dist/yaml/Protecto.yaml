@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Immobile;Inanimate
-hp: '10'
+hp: 10
 drops:
   - Rook
   - null

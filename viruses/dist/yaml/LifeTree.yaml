@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Immobile
-hp: '6'
+hp: 6
 drops:
   - GreenCarpet
   - LeafShield

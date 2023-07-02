@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Inanimate;Hovering
-hp: '4'
+hp: 4
 drops:
   - Boomer
   - CopyDamage

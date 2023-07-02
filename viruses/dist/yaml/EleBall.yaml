@@ -22,7 +22,7 @@ powers:
   - null
 tags:
   - Hovering
-hp: '4'
+hp: 4
 drops:
   - Plasma
   - Thunder

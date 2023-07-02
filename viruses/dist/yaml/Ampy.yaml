@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - None
-hp: '2'
+hp: 2
 drops:
   - AnnihilatingRoar
   - PristineBeat

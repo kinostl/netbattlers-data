@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Immobile
-hp: '4'
+hp: 4
 drops:
   - Cactiball
   - null

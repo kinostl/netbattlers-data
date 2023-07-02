@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Mega;Hovering
-hp: '4'
+hp: 4
 drops:
   - ChromaSword
   - InstantKarma

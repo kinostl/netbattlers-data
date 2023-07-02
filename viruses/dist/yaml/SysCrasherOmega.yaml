@@ -23,7 +23,7 @@ powers:
   - Spreader
 tags:
   - Mega
-hp: '8'
+hp: 8
 drops:
   - BlackHoleBomb
   - null

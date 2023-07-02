@@ -26,7 +26,7 @@
   "tags": [
     "Mega"
   ],
-  "hp": "10",
+  "hp": 10,
   "drops": [
     "GeminiTwin",
     "KnuckleSpikes"

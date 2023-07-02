@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - None
-hp: '3'
+hp: 3
 drops:
   - Misdirection
   - Possession

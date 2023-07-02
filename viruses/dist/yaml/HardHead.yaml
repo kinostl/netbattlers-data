@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Inanimate;Immobile
-hp: '4'
+hp: 4
 drops:
   - IceBall
   - LavaBall

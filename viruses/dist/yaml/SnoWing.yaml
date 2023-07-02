@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Flying
-hp: '4'
+hp: 4
 drops:
   - PerfectFreeze
   - VanishingMist

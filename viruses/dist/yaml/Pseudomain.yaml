@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Mega;Immobile
-hp: '8'
+hp: 8
 drops:
   - MapView
   - Redecorator

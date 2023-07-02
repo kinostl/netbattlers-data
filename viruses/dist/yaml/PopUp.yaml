@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Hovering;Inanimate
-hp: '1'
+hp: 1
 drops:
   - TimeCancel
   - null

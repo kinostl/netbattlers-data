@@ -23,7 +23,7 @@ powers:
   - Populate
 tags:
   - Mega;Immobile
-hp: '20'
+hp: 20
 drops:
   - XXI-TheWorld
   - null

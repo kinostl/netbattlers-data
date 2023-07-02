@@ -23,7 +23,7 @@ powers:
   - StarCrossed
 tags:
   - Mega;Hovering
-hp: '20'
+hp: 20
 drops:
   - PyrrhicSun
   - null

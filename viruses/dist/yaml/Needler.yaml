@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Inanimate
-hp: '4'
+hp: 4
 drops:
   - NeedleCannon
   - null

@@ -23,7 +23,7 @@ powers:
   - MonksHood
 tags:
   - Mega
-hp: '6'
+hp: 6
 drops:
   - Expurgation
   - null

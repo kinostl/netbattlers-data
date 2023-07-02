@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Mega
-hp: '13'
+hp: 13
 drops:
   - Prism
   - VIII-Strength

@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - None
-hp: '6'
+hp: 6
 drops:
   - Katana
   - Slasher

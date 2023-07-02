@@ -33,7 +33,7 @@ SELECT json_object(
         replace(replace(Tags, ' ',''),',','","'))),
         json('["None"]')
     ),
-    'hp', HP,
+    'hp', cast(HP as int),
     'drops',json_array(
         iif(length(Drops1) > 0, Drops1, NULL),
         iif(length(Drops2) > 0, Drops2, NULL)

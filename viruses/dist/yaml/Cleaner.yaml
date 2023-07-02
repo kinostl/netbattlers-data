@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Inanimate;Hovering
-hp: '3'
+hp: 3
 drops:
   - Nullifier
   - Repair

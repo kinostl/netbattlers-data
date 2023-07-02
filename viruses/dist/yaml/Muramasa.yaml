@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Mega;Immobile
-hp: '5'
+hp: 5
 drops:
   - SpiritSword
   - V-TheHierophant

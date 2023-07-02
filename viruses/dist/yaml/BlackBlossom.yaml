@@ -22,7 +22,7 @@ powers:
   - null
 tags:
   - Immobile
-hp: '3'
+hp: 3
 drops:
   - FlowerBurst
   - TabulaRasa

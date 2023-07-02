@@ -23,7 +23,7 @@ powers:
   - PainTrain
 tags:
   - Mega
-hp: '8'
+hp: 8
 drops:
   - DeltaRayEdge
   - null

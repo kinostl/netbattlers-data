@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Immobile;Inanimate
-hp: '7'
+hp: 7
 drops:
   - Guardian
   - LightningRod

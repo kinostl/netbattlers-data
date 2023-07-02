@@ -24,7 +24,7 @@ powers:
   - null
 tags:
   - None
-hp: '5'
+hp: 5
 drops:
   - BlackBomb
   - MiniBomb

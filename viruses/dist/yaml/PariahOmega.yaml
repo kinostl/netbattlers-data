@@ -23,7 +23,7 @@ powers:
   - OpticalExploit
 tags:
   - Mega
-hp: '9'
+hp: 9
 drops:
   - Paranoia
   - null

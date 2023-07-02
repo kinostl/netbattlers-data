@@ -23,7 +23,7 @@ powers:
   - MementoMori
 tags:
   - Mega
-hp: '8'
+hp: 8
 drops:
   - Paranoia
   - null

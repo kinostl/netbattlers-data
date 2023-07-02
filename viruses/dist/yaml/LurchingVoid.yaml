@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Mega
-hp: '99999'
+hp: 99999
 drops:
   - Shadow
   - Wind

@@ -22,7 +22,7 @@ powers:
   - null
 tags:
   - Flying
-hp: '3'
+hp: 3
 drops:
   - Pyrotechnics
   - null

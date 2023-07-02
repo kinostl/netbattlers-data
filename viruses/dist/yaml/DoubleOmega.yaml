@@ -23,7 +23,7 @@ powers:
   - Eject
 tags:
   - Mega
-hp: '12'
+hp: 12
 drops:
   - ShadowCaster
   - null

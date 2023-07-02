@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Inanimate;Flying
-hp: '7'
+hp: 7
 drops:
   - AirRaid
   - AirStrike

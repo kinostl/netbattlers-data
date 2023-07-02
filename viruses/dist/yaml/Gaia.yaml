@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Immobile
-hp: '5'
+hp: 5
 drops:
   - Hammer
   - StoneBody

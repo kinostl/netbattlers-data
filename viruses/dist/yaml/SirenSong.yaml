@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Inanimate;Immobile
-hp: '5'
+hp: 5
 drops:
   - GoingRoad
   - Sensor

@@ -22,7 +22,7 @@ powers:
   - null
 tags:
   - Immobile;Inanimate
-hp: '6'
+hp: 6
 drops:
   - Wind
   - Windrack

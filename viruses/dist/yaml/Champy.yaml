@@ -22,7 +22,7 @@ powers:
   - null
 tags:
   - Hovering
-hp: '5'
+hp: 5
 drops:
   - FireHit
   - GutPunch

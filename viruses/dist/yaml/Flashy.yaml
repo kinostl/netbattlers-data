@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Hovering
-hp: '3'
+hp: 3
 drops:
   - FlashBomb
   - null

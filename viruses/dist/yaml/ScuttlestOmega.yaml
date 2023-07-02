@@ -23,7 +23,7 @@ powers:
   - DreamPrism
 tags:
   - Mega
-hp: '6'
+hp: 6
 drops:
   - Aura
   - null

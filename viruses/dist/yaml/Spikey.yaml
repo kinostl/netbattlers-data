@@ -22,7 +22,7 @@ powers:
   - null
 tags:
   - None
-hp: '4'
+hp: 4
 drops:
   - HeatShot
   - LavaSeed

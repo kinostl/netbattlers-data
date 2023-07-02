@@ -26,7 +26,7 @@
   "tags": [
     "Flying"
   ],
-  "hp": "6",
+  "hp": 6,
   "drops": [
     "LineOut",
     null

@@ -26,7 +26,7 @@
   "tags": [
     "Flying"
   ],
-  "hp": "2",
+  "hp": 2,
   "drops": [
     "QuickRound",
     "Reflex"

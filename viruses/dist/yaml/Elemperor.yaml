@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Mega
-hp: '5'
+hp: 5
 drops:
   - Insert
   - ChaosSwap

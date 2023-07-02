@@ -23,7 +23,7 @@ powers:
   - Followthrough
 tags:
   - Mega;Hovering
-hp: '7'
+hp: 7
 drops:
   - ElementalSonicWave
   - null

@@ -23,7 +23,7 @@ powers:
   - Hustle
 tags:
   - Mega
-hp: '7'
+hp: 7
 drops:
   - ForbiddenRitual
   - null

@@ -23,7 +23,7 @@ powers:
   - Deathwish
 tags:
   - Mega;Inanimate;Immobile
-hp: '5'
+hp: 5
 drops:
   - VanishingWorld
   - null

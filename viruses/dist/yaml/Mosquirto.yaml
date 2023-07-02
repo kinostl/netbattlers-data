@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Flying
-hp: '5'
+hp: 5
 drops:
   - Drain
   - null

@@ -23,7 +23,7 @@ powers:
   - null
 tags:
   - Mega
-hp: '4'
+hp: 4
 drops:
   - LightWave
   - IX-TheHermit

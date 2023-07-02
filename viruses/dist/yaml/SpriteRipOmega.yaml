@@ -23,7 +23,7 @@ powers:
   - MixedBlessing
 tags:
   - Mega;Flying
-hp: '8'
+hp: 8
 drops:
   - Avatar
   - null
