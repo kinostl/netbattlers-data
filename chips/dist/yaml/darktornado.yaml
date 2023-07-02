@@ -1,5 +1,5 @@
 kind: DarkTornado
-dmg: '4'
+dmg: 4
 range: Close
 effect: Fly in a tornado! All hit tumble upwards. It persists, tearing the server.
   Doesn’t hurt you.

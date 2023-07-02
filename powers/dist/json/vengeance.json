@@ -3,7 +3,7 @@
   "skill": "Bravery",
   "resolve": "Roll",
   "effect": "Use Bravery to melee attack a Close target that recently attacked an ally.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Power",
   "first_publication": "Core"
 }

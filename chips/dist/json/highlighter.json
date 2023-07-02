@@ -1,6 +1,6 @@
 {
   "kind": "Highlighter",
-  "dmg": "1",
+  "dmg": 1,
   "range": "Near",
   "effect": "Downshift the next two attacks against the target.",
   "category": "Shot",

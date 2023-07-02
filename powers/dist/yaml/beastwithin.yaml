@@ -3,6 +3,6 @@ skill: '-'
 resolve: '-'
 effect: On Cost Power use, turn into a beast for 3 rolls! Beasts ignore stat & skill
   reductions.
-eb: '4'
+eb: 4
 sort: NCP
 first_publication: Mystic Lilies

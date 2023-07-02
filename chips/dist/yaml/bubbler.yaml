@@ -1,5 +1,5 @@
 kind: Bubbler
-dmg: '2'
+dmg: 2
 range: Near
 effect: Creates a cloud of soaking, vision-obscuring bubbles around the target.
 category: Shot

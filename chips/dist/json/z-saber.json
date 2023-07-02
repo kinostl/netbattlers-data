@@ -1,6 +1,6 @@
 {
   "kind": "Z-Saber",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "A glowing teal blade. Spend 1 Soul to charge it up and deal double damage on 2 targets.",
   "category": "Blade",

@@ -3,6 +3,6 @@ skill: Charm
 resolve: Cost
 effect: Trick a hostile Virus into helping you. The bigger the ask, the shorter it
   lasts.
-eb: '3'
+eb: 3
 sort: PowerNCP
 first_publication: Core

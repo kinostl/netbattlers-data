@@ -1,5 +1,5 @@
 kind: Apparition
-dmg: '-'
+dmg: 0
 range: Far
 effect: Appear directly behind anyone visible. Lights around them flicker and dim.
 category: Support

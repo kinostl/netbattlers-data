@@ -1,5 +1,5 @@
 kind: SearchShuffle
-dmg: '-'
+dmg: 0
 range: Near
 effect: Spend X Sense to swap X BattleChips between your Folder and an ally’s.
 category: Support

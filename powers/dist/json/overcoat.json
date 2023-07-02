@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "When you gain a Guard, your element briefly covers you. It doesn’t harm you.",
-  "eb": "2",
+  "eb": 2,
   "sort": "NCP",
   "first_publication": "Core"
 }

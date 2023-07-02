@@ -1,6 +1,6 @@
 {
   "kind": "GuardShield",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Next time you or a Close ally are attacked, the damage is 0 (secondary effects still apply).",
   "category": "Support",

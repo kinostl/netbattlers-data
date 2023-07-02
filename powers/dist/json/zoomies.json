@@ -3,7 +3,7 @@
   "skill": "Speed",
   "resolve": "Roll",
   "effect": "Move two range bands at incredible speed. Your Daemon decides where you end up.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Neko",
   "first_publication": "Neko Virus Infection"
 }

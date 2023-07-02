@@ -3,7 +3,7 @@
   "skill": "Coding",
   "resolve": "Roll",
   "effect": "Suck up Near lights, plunging the area into darkness.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

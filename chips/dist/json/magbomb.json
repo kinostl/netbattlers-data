@@ -1,6 +1,6 @@
 {
   "kind": "MagBomb",
-  "dmg": "1",
+  "dmg": 1,
   "range": "Near",
   "effect": "Magnetizes the target’s lower half to the floor.",
   "category": "Thrown",

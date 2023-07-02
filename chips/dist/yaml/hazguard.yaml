@@ -1,5 +1,5 @@
 kind: HazGuard
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next time you resist a hazard, downshift the roll. On 2+ hits, turn the hazard
   into your element.

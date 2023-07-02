@@ -1,5 +1,5 @@
 kind: Ratton
-dmg: '2'
+dmg: 2
 range: Near
 effect: A homing rat bomb can find enemies that are invisible or hiding behind cover.
 category: Summon

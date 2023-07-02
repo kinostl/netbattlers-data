@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "On Jack-In, hex a Chip. Next time you use it, it covers the target in your element.",
-  "eb": "2",
+  "eb": 2,
   "sort": "NCP",
   "first_publication": "Mystic Lilies"
 }

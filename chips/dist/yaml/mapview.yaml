@@ -1,5 +1,5 @@
 kind: MapView
-dmg: '-'
+dmg: 0
 range: Far
 effect: Launch a camera straight up for an eagle-eye view of the surroundings. Bonks
   off ceilings.

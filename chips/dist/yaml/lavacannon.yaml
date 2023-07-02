@@ -1,5 +1,5 @@
 kind: LavaCannon
-dmg: '3'
+dmg: 3
 range: Near
 effect: Add +1 damage if there’s fire/lava within Near range.
 category: Shot

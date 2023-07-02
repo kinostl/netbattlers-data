@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "You can spend 4 HP to add 2 hits to any Info roll. This can stack.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Neko",
   "first_publication": "Neko Virus Infection"
 }

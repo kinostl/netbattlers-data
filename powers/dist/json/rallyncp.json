@@ -3,7 +3,7 @@
   "skill": "Bravery",
   "resolve": "Cost",
   "effect": "Add two dice to someone else’s Soul roll (before they roll). [Instant]",
-  "eb": "3",
+  "eb": 3,
   "sort": "PowerNCP",
   "first_publication": "Core"
 }

@@ -1,6 +1,6 @@
 {
   "kind": "Possession",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Can only be used immediately after a Navi/Virus is deleted. You can briefly control their body.",
   "category": "Support",

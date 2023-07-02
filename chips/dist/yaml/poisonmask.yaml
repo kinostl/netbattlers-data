@@ -1,5 +1,5 @@
 kind: PoisonMask
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Evil metal mask! +3 dice next defense; fails to Piercing. Until then, it emits
   hazardous poison.

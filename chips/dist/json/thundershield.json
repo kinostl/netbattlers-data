@@ -1,6 +1,6 @@
 {
   "kind": "ThunderShield",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Pick 1: electrify your next attack; downshift your next ranged defense; reroll a Speed roll.",
   "category": "Support",

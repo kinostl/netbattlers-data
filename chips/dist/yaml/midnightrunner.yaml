@@ -1,5 +1,5 @@
 kind: MidnightRunner
-dmg: '-'
+dmg: 0
 range: Close
 effect: Smoke cloud makes all hit invisible. Ends in a minute, when attacking, or
   if Close to an enemy.

@@ -1,6 +1,6 @@
 {
   "kind": "FreshSpout",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "The next 5 times you/an ally use a water-related BattleChip, also heal 1 HP. Water spouts up.",
   "category": "Support",

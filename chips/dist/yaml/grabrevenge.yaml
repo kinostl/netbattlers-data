@@ -1,5 +1,5 @@
 kind: GrabRevenge
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next time a target takes a chip from you, take their highest-dmg chip instead.
   (If tied, you pick.)

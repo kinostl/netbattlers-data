@@ -1,6 +1,6 @@
 {
   "kind": "TheEmpress",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "Royal scepter! Spend 1 Charm: If their next attack targets anyone other than you, upshift it.",
   "category": "Impact",

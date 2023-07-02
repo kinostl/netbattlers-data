@@ -1,6 +1,6 @@
 {
   "kind": "AntiElement",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Next time an enemy fails to spawn/manipulate their element, they spawn your element instead.",
   "category": "Support",

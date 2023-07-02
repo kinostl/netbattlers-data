@@ -1,5 +1,5 @@
 kind: FireBurner
-dmg: '3'
+dmg: 3
 range: Near
 effect: Blow chaotic flames that crack and destroy any structures they hit.
 category: Wave

@@ -1,6 +1,6 @@
 {
   "kind": "RollingShield",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Can instead be used to block a single projectile attack.",
   "category": "Thrown",

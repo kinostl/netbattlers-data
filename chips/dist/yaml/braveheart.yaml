@@ -1,5 +1,5 @@
 kind: BraveHeart
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next time you Counter an attack, heal 3 HP and downshift your next Bravery
   roll.

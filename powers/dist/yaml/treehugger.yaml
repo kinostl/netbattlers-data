@@ -2,6 +2,6 @@ kind: Treehugger
 skill: '-'
 resolve: Passive
 effect: When you roll while Close to your element, heal 1 HP.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

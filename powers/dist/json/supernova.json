@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "After rolling Affinity, gain 1 Affinity (stacking), lose 1 HP, and raise the server’s temperature.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Mega Viruses"
 }

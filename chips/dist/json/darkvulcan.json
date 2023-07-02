@@ -1,6 +1,6 @@
 {
   "kind": "DarkVulcan",
-  "dmg": "3x3",
+  "dmg": 3,
   "range": "Near",
   "effect": "A cursed minigun. Roll Hard Bravery to resist your Daemon choosing the target instead.",
   "category": "Shot",

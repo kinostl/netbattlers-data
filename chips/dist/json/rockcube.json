@@ -1,6 +1,6 @@
 {
   "kind": "RockCube",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Summons a large cube of stone in front of the Navi.",
   "category": "Summon",

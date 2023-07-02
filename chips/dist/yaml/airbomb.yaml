@@ -1,5 +1,5 @@
 kind: AirBomb
-dmg: '2'
+dmg: 2
 range: Near
 effect: Moves the target and everyone Close to them one range band - choose the direction.
 category: Thrown

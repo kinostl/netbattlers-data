@@ -1,6 +1,6 @@
 {
   "kind": "I-Frames",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "The next time you take damage, you’re invincible for the next 2 rolls or after a minute passes.",
   "category": "Support",

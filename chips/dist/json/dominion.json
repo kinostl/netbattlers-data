@@ -1,6 +1,6 @@
 {
   "kind": "Dominion",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "3 ghost servants! They are slow & vanish when hurt, but look & act haunting. One order each.",
   "category": "Summon",

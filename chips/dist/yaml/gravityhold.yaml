@@ -1,5 +1,5 @@
 kind: GravityHold
-dmg: '2'
+dmg: 2
 range: Near
 effect: Manipulate gravity to lift a target into the air, then slam them to the ground.
 category: Impact

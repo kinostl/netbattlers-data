@@ -1,6 +1,6 @@
 {
   "kind": "TripleRod",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Close",
   "effect": "Extending lance! Spend 1 Speed to do a spin attack, hitting all Close.",
   "category": "Blade",

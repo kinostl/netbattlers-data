@@ -1,6 +1,6 @@
 {
   "kind": "MovieNight",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Reel-to-reel lightshow! Targets rewind their past few seconds of movement, even defying physics.",
   "category": "Wave",

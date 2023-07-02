@@ -1,5 +1,5 @@
 kind: TimeStopper
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next time you succeed a Mind roll with 2+ hits, stop time long enough for
   one roll/chip.

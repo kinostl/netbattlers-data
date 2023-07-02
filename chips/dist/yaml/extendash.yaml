@@ -1,5 +1,5 @@
 kind: ExtendAsh
-dmg: X
+dmg: 0
 range: Close
 effect: Slash the target with a flaming phoenix talon! X = the number of Near hostile
   Navis/Viruses.

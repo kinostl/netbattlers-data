@@ -1,5 +1,5 @@
 kind: TreeBomb
-dmg: '1'
+dmg: 1
 range: Near
 effect: Huge seed! If watered, a 4-damage tree sprouts, hitting all Close & pushing
   them a range band.

@@ -1,5 +1,5 @@
 kind: DizzyHit
-dmg: '2'
+dmg: 2
 range: Close
 effect: A concussive slam that reduces the target’s Mind by 1.
 category: Impact

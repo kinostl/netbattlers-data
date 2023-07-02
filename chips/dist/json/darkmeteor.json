@@ -1,6 +1,6 @@
 {
   "kind": "DarkMeteor",
-  "dmg": "10",
+  "dmg": 10,
   "range": "Far",
   "effect": "A colossal meteor appears far away. After 10 rolls, it falls. Sends destructive shockwaves out.",
   "category": "Summon",

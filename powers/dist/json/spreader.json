@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "Ranged attacks cover things in your element.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

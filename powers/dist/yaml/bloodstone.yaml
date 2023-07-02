@@ -3,6 +3,6 @@ skill: Bravery
 resolve: Cost
 effect: Next time you’re attacked, your element covers everything Close in a Normal
   hazard. [Instant]
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

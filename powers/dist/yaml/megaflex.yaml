@@ -2,6 +2,6 @@ kind: MegaFlex
 skill: '-'
 resolve: '-'
 effect: On a critical Body roll, downshift your 1st Charm roll on anyone who saw it.
-eb: '1'
+eb: 1
 sort: NCP
 first_publication: Core

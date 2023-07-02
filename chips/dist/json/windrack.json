@@ -1,6 +1,6 @@
 {
   "kind": "Windrack",
-  "dmg": "1",
+  "dmg": 1,
   "range": "Close",
   "effect": "A tengu’s hand fan blows the target a range band away! Also removes Guards.",
   "category": "Impact",

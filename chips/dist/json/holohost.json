@@ -1,6 +1,6 @@
 {
   "kind": "HoloHost",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Adaptive hologram! When someone Near tells a story, it illustrates their words and adds subtitles.",
   "category": "Summon",

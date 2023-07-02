@@ -1,6 +1,6 @@
 {
   "kind": "RemotePlug",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Electrified plug! Spend 1 Sense to see through it and guide it - you can turn it in midair.",
   "category": "Shot",

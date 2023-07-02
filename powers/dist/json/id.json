@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Cost",
   "effect": "Secretly send a strong sensation to a Near target. (If to player, GM passes a note explaining.)",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Mystic Lilies"
 }

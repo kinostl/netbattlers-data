@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "If you hold still for ten seconds, you turn invisible until you move.",
-  "eb": "4",
+  "eb": 4,
   "sort": "NCP",
   "first_publication": "Core"
 }

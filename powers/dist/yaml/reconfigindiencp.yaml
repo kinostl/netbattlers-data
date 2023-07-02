@@ -2,6 +2,6 @@ kind: ReconfigIndieNCP
 skill: Info
 resolve: Cost
 effect: Instantly trade BattleChips with a Near ally. [Instant]
-eb: '3'
+eb: 3
 sort: PowerNCP
 first_publication: Core

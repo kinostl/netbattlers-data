@@ -2,6 +2,6 @@ kind: Info+1
 skill: '-'
 resolve: '-'
 effect: Increase your Info by 1.
-eb: '2'
+eb: 2
 sort: BoostNCP
 first_publication: Core

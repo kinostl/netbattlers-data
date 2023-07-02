@@ -1,5 +1,5 @@
 kind: V-TheHierophant
-dmg: '-'
+dmg: 0
 range: Close
 effect: 'For 2 rolls, targets (pick 2): set their element to yours; set their Mind
   to yours; cannot use chips.'

@@ -2,6 +2,6 @@ kind: Dullahan
 skill: '-'
 resolve: '-'
 effect: Your head becomes detachable, retaining all your senses.
-eb: '1'
+eb: 1
 sort: NCP
 first_publication: Core

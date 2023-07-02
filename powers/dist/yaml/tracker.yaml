@@ -2,6 +2,6 @@ kind: Tracker
 skill: Sense
 resolve: Roll
 effect: Find and identify hidden trails and footprints.
-eb: '-'
+eb: 0
 sort: Power
 first_publication: Core

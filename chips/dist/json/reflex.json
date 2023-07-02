@@ -1,6 +1,6 @@
 {
   "kind": "Reflex",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Act immediately the next time an enemy damages you.",
   "category": "Support",

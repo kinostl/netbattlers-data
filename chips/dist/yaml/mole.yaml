@@ -1,5 +1,5 @@
 kind: Mole
-dmg: '-'
+dmg: 0
 range: Close
 effect: Summons a mole which digs a tunnel to a simple, nearby destination.
 category: Summon

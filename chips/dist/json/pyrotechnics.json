@@ -1,6 +1,6 @@
 {
   "kind": "Pyrotechnics",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Close",
   "effect": "Dash a range band in any direction. A few seconds later, your starting position explodes.",
   "category": "Rush",

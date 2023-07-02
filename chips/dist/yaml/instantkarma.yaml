@@ -1,5 +1,5 @@
 kind: InstantKarma
-dmg: '3'
+dmg: 3
 range: Near
 effect: Ghost swords follow you. Next time someone tells a lie in range, the swords
   pierce their heart.

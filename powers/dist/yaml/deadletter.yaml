@@ -3,6 +3,6 @@ skill: Affinity
 resolve: Roll
 effect: Declare a letter and a Near target. If they say the letter and you are alive,
   your element covers them.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Leximancy

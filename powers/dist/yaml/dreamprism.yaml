@@ -3,6 +3,6 @@ skill: '-'
 resolve: Passive
 effect: When your Guard negates a ranged attack, redirect it to a Near target of your
   choice.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

@@ -1,5 +1,5 @@
 kind: Springboard
-dmg: '-'
+dmg: 0
 range: Close
 effect: An easily-concealable springboard launches targets a range band when stepped
   on.

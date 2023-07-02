@@ -2,6 +2,6 @@ kind: Resonate
 skill: Affinity
 resolve: Cost
 effect: Gain the use of a Near ally’s element in addition to your own.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

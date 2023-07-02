@@ -1,6 +1,6 @@
 {
   "kind": "XIV-Temperance",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Calm, shallow water rises. Anyone inside always rolls at least 4 dice. Non-hostile rolls only.",
   "category": "Hazard",

@@ -1,5 +1,5 @@
 kind: TundraSpotlight
-dmg: '-'
+dmg: 0
 range: Near
 effect: Casts you in a rainbow light that draws attention and downshifts your next
   Soul roll.

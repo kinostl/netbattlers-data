@@ -1,5 +1,5 @@
 kind: DashingGrace
-dmg: '-'
+dmg: 0
 range: Far
 effect: Zip Close and expose the target. If an ally rolls to attack the target next,
   they deal +2 damage.

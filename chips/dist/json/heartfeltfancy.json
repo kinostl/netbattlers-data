@@ -1,6 +1,6 @@
 {
   "kind": "HeartfeltFancy",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "A magic butterfly! Whoever wilfully grabs it loses 4 HP and gets +4 dice to their next roll.",
   "category": "Summon",

@@ -1,5 +1,5 @@
 kind: BusterUp
-dmg: '-'
+dmg: 0
 range: '-'
 effect: 'For 3 rolls, gain the element (pick 1): Bullets; Lasers; Bombs. Use Sense
   to spawn/manipulate.'

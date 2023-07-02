@@ -1,6 +1,6 @@
 {
   "kind": "Slasher",
-  "dmg": "5",
+  "dmg": 5,
   "range": "Close",
   "effect": "If you stand still and don’t move, parry the next melee attack. Unusable outside a parry.",
   "category": "Blade",

@@ -1,6 +1,6 @@
 {
   "kind": "Uninstall",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Disable an NCP on the target for 5 rolls. Choose alphabetically first or last.",
   "category": "Impact",

@@ -1,5 +1,5 @@
 kind: ColorBall
-dmg: '2'
+dmg: 2
 range: Near
 effect: Paintbomb bursts into color! Describe how targets (and surroundings) are recolored.
 category: Wave

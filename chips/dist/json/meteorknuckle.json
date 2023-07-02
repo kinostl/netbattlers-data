@@ -1,6 +1,6 @@
 {
   "kind": "MeteorKnuckle",
-  "dmg": "6",
+  "dmg": 6,
   "range": "Close",
   "effect": "A colossal fist falls from the sky onto the target, sending out massive, earth-shattering fissures.",
   "category": "Impact",

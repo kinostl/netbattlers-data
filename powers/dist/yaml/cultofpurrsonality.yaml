@@ -3,6 +3,6 @@ skill: '-'
 resolve: Passive
 effect: When you win a Charm/Bravery roll against a target, they gain a bond level
   with the Neko Virus.
-eb: '-'
+eb: 0
 sort: Neko
 first_publication: Neko Virus Infection

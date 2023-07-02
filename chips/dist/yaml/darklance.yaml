@@ -1,5 +1,5 @@
 kind: DarkLance
-dmg: '5'
+dmg: 5
 range: Near
 effect: Warp Close behind the target and stab their weakest point. Can choose to teleport
   back or not.

@@ -1,6 +1,6 @@
 {
   "kind": "AquaWhirl",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Move into Close range and leave water behind! Your next roll covers the target with water.",
   "category": "Rush",

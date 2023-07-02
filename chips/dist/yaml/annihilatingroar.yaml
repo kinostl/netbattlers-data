@@ -1,5 +1,5 @@
 kind: AnnihilatingRoar
-dmg: '-'
+dmg: 0
 range: Near
 effect: 'Pick 2: deal 2 damage; reset Mind skills reduced by enemies; push Close targets
   to Near.'

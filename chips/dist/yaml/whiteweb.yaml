@@ -1,5 +1,5 @@
 kind: WhiteWeb
-dmg: '-'
+dmg: 0
 range: Near
 effect: Shoots a large, sticky web.
 category: Hazard

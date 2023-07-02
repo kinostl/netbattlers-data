@@ -1,6 +1,6 @@
 {
   "kind": "DarkMist",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Far",
   "effect": "Black mist isolates the server. No jacking in/out, PET msgs, etc. All seems normal on the outside.",
   "category": "Hazard",

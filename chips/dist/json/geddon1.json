@@ -1,6 +1,6 @@
 {
   "kind": "Geddon1",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Surfaces begin to crack, quickly spreading from your feet.",
   "category": "Hazard",

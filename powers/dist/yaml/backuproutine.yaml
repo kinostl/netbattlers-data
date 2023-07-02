@@ -2,6 +2,6 @@ kind: BackupRoutine
 skill: Afterimages
 resolve: Upgrade
 effect: Can spend a reroll to downshift a Charm or Bravery roll.
-eb: '1'
+eb: 1
 sort: NPU
 first_publication: Navi Power Upgrades

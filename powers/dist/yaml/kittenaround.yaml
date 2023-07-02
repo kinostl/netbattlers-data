@@ -2,6 +2,6 @@ kind: KittenAround
 skill: Charm
 resolve: Roll
 effect: Transform into an everyday, unassuming cat. (Progs are allergic to you.)
-eb: '-'
+eb: 0
 sort: Neko
 first_publication: Neko Virus Infection

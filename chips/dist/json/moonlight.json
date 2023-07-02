@@ -1,6 +1,6 @@
 {
   "kind": "Moonlight",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Summons a moonbeam from the sky. You are invisible as long as you stay within it.",
   "category": "Summon",

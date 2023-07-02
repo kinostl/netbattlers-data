@@ -1,5 +1,5 @@
 kind: LiveSupport
-dmg: '-'
+dmg: 0
 range: '-'
 effect: IM window! -2 dmg next defense. While up, you can text chat 3 NPCs. Disabled
   by PET jamming.

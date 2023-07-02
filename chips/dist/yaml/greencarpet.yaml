@@ -1,5 +1,5 @@
 kind: GreenCarpet
-dmg: '-'
+dmg: 0
 range: Close
 effect: A magic carpet flies ahead, leaving a trail of grass and gliding over traps.
   Lasts 1 minute.

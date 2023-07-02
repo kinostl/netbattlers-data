@@ -1,6 +1,6 @@
 {
   "kind": "BreakBuster",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "For 3 rolls, gain the element Crumbling. Your rolled attacks ignore Guards & are Piercing.",
   "category": "Support",

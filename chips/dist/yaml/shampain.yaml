@@ -1,5 +1,5 @@
 kind: Shampain
-dmg: '-'
+dmg: 0
 range: Close
 effect: Gold wine! On drinking, next roll, reroll your failed dice. -400z per rerolled
   die; -3 HP if you hit 0z.

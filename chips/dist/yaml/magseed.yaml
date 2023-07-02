@@ -1,5 +1,5 @@
 kind: MagSeed
-dmg: '-'
+dmg: 0
 range: Near
 effect: Throws a seed that magnetizes all surfaces around the target.
 category: Hazard

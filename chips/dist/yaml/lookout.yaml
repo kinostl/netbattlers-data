@@ -1,5 +1,5 @@
 kind: Lookout
-dmg: '-'
+dmg: 0
 range: Near
 effect: Remote camera! Sticks to stuff. Can see through it until you jack out or go
   Far from it.

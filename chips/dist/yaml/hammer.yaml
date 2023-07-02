@@ -1,5 +1,5 @@
 kind: Hammer
-dmg: '4'
+dmg: 4
 range: Close
 effect: Slam the target with a colossal hammer. Busts through unreinforced material
   with ease.

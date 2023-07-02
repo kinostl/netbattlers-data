@@ -1,5 +1,5 @@
 kind: Judgement
-dmg: '2'
+dmg: 2
 range: Near
 effect: Holy trumpet blast removes temp. effects (e.g. Guards, stuns, roll shifts)
   except spent points.

@@ -1,5 +1,5 @@
 kind: ZapRing
-dmg: '1'
+dmg: 1
 range: Near
 effect: Stuns the target for one second.
 category: Shot

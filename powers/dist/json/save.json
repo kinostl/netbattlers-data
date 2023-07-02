@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Cost",
   "effect": "If your element is present, heal someone for 3 HP.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Power",
   "first_publication": "Core"
 }

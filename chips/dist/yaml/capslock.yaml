@@ -1,5 +1,5 @@
 kind: CapsLock
-dmg: '1'
+dmg: 1
 range: Near
 effect: 'Sacrifice a BattleChip to upshift target’s next X rolls. X = # of capital
   letters in the chip name.'

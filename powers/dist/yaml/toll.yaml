@@ -2,6 +2,6 @@ kind: Toll
 skill: '-'
 resolve: Passive
 effect: Can be paid 500z to be made intangible for several seconds.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

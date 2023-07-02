@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "Your attacks disable passive Virus/NCP abilities for 2 rolls. (Stat/skill/Folder/HP changes unaffected.)",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

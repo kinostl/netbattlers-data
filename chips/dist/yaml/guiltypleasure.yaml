@@ -1,5 +1,5 @@
 kind: GuiltyPleasure
-dmg: '-'
+dmg: 0
 range: Close
 effect: Shimmering unstable energy! Your next Cost Power is free, but your next failure
   is catastrophic.

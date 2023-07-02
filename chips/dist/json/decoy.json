@@ -1,6 +1,6 @@
 {
   "kind": "Decoy",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Summons a hologram of you directly in front of yourself in any pose.",
   "category": "Summon",

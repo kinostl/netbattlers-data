@@ -3,6 +3,6 @@ skill: Stamina
 resolve: Cost
 effect: Your next Sense attack launches an object from inside you for +1 dmg. Stacks
   to +3. [Instant]
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

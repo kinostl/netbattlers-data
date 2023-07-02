@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "Can spend 1 Sense to briefly hear all conversations taking place in the server.",
-  "eb": "2",
+  "eb": 2,
   "sort": "NCP",
   "first_publication": "Mystic Lilies"
 }

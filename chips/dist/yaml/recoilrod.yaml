@@ -1,5 +1,5 @@
 kind: RecoilRod
-dmg: '2'
+dmg: 2
 range: Close
 effect: Bladed tonfas! Spend 1 Speed to also push the target or yourself away a range
   band.

@@ -2,6 +2,6 @@ kind: Universal
 skill: CodeInjection
 resolve: Upgrade
 effect: Non-attack rolls can use CodeInjection as long as they have a target.
-eb: '1'
+eb: 1
 sort: NPU
 first_publication: Navi Power Upgrades

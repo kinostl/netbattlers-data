@@ -1,5 +1,5 @@
 kind: Team2
-dmg: '-'
+dmg: 0
 range: '-'
 effect: The next time you take damage, heal an ally equal to the damage you took.
 category: Support

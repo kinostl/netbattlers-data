@@ -1,6 +1,6 @@
 {
   "kind": "GeminiTwin",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Holo-clone! Upshift the next 3 attacks on you. If they use a BattleChip, take -1 dmg instead.",
   "category": "Support",

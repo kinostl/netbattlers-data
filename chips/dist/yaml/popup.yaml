@@ -1,5 +1,5 @@
 kind: PopUp
-dmg: '-'
+dmg: 0
 range: Close
 effect: Creates a foxhole right beneath your feet.
 category: Hazard

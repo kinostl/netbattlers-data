@@ -1,5 +1,5 @@
 kind: ShortCircuit
-dmg: '1'
+dmg: 1
 range: Near
 effect: Turn into a spark and zip through conductive material; anything you touch
   is stunned.

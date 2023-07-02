@@ -3,7 +3,7 @@
   "skill": "Vengeance",
   "resolve": "Upgrade",
   "effect": "When an enemy damages an ally, add dice to your roll = HP lost.",
-  "eb": "2",
+  "eb": 2,
   "sort": "NPU",
   "first_publication": "Navi Power Upgrades"
 }

@@ -1,6 +1,6 @@
 {
   "kind": "NeedleCannon",
-  "dmg": "1x4",
+  "dmg": 1,
   "range": "Near",
   "effect": "Fire a volley of tiny needles.",
   "category": "Shot",

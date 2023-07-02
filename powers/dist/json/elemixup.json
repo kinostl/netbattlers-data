@@ -3,7 +3,7 @@
   "skill": "Coding",
   "resolve": "Roll",
   "effect": "Swap 2+ Near targets’ elements. Lasts 3 rolls.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Mega Viruses"
 }

@@ -1,6 +1,6 @@
 {
   "kind": "Randomancy",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Roll a d6; for 3 rolls, your element is now: 1-Fire, 2-Seas, 3-Dirt, 4-Wood, 5-Wind, 6-Metal.",
   "category": "Support",

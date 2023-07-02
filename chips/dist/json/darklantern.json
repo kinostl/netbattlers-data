@@ -1,6 +1,6 @@
 {
   "kind": "DarkLantern",
-  "dmg": "5",
+  "dmg": 5,
   "range": "Close",
   "effect": "A magic lantern. Enemies roll Bravery to not walk towards it. Explodes on your command.",
   "category": "Summon",

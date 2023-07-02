@@ -1,6 +1,6 @@
 {
   "kind": "DoubleJump",
-  "dmg": "1",
+  "dmg": 1,
   "range": "Near",
   "effect": "Hop Close and kick the target! You can then leap a range band in any direction.",
   "category": "Rush",

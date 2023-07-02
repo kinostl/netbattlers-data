@@ -7,7 +7,7 @@ SELECT json_object(
     'skill', "Skill",
     'resolve', "Type",
     'effect', "Effect",
-    'eb', "EB",
+    'eb', cast("EB" as int),
     'sort', "Sort",
     'first_publication', "From?"
 ) from powers;

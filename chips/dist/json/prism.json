@@ -1,6 +1,6 @@
 {
   "kind": "Prism",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "If hit by a ranged attack, attacker picks 2 Near targets to refract the attack to. Breaks after 4 dmg.",
   "category": "Summon",

@@ -1,5 +1,5 @@
 kind: SideGun
-dmg: '-'
+dmg: 0
 range: '-'
 effect: A backup buster upgrade! For 3 ranged Sense attacks, you roll at least 5 dice.
 category: Support

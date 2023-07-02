@@ -1,6 +1,6 @@
 {
   "kind": "AntiWarp",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Far",
   "effect": "Next time an enemy moves range bands with a chip/power, teleport a range band & act first.",
   "category": "Support",

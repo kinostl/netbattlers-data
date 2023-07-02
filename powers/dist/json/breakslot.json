@@ -3,7 +3,7 @@
   "skill": "BreakCharge",
   "resolve": "Upgrade",
   "effect": "Can use BreakCharge with melee chips. They also become Piercing.",
-  "eb": "3",
+  "eb": 3,
   "sort": "NPU",
   "first_publication": "Navi Power Upgrades"
 }

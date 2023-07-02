@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Cost",
   "effect": "You are invisible until your next roll.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

@@ -3,7 +3,7 @@
   "skill": "Info",
   "resolve": "Cost",
   "effect": "Pick a used BattleChip in your Folder. It is now usable again - once per chip. [Instant]",
-  "eb": "-",
+  "eb": 0,
   "sort": "Power",
   "first_publication": "Core"
 }

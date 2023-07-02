@@ -1,6 +1,6 @@
 {
   "kind": "DarkBrand",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "Mark a target. Pick an event. If they mention it, the mark explodes for 10 dmg. Ignores Guards.",
   "category": "Impact",

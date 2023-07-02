@@ -3,6 +3,6 @@ skill: Coding
 resolve: Roll
 effect: Make a Near black hole. Spend 1 hit to draw something Near the void Close
   to it.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

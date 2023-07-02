@@ -1,6 +1,6 @@
 {
   "kind": "ICEPick",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "Can instead be used to control inanimate software (e.g. control panels) for a few moments.",
   "category": "Blade",

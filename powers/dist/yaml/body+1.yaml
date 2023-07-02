@@ -2,6 +2,6 @@ kind: Body+1
 skill: '-'
 resolve: '-'
 effect: Increase your Body by 1.
-eb: '5'
+eb: 5
 sort: BoostNCP
 first_publication: Core

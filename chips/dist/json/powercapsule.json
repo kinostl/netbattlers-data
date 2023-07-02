@@ -1,6 +1,6 @@
 {
   "kind": "PowerCapsule",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Next rolled attack briefly (pick 1): slows movement; blinds; blocks healing HP.",
   "category": "Support",

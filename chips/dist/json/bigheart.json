@@ -1,6 +1,6 @@
 {
   "kind": "BigHeart",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Love burst! Pick 2: briefly grab their focus; downshift their next Charm roll; heal them 2 HP.",
   "category": "Wave",

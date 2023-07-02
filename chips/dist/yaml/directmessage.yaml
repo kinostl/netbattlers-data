@@ -1,5 +1,5 @@
 kind: DirectMessage
-dmg: '2'
+dmg: 2
 range: Near
 effect: Rapid envelope attack! Jams the target’s PET for 1 roll with a message of
   your choice.

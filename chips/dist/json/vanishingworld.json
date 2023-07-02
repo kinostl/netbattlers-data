@@ -1,6 +1,6 @@
 {
   "kind": "VanishingWorld",
-  "dmg": "14",
+  "dmg": 14,
   "range": "Near",
   "effect": "Before firing, spends a minute sucking power from all electronics on the power grid. Ignores Guards.",
   "category": "Wave",

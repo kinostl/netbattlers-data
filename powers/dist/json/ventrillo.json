@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "You can make your voice come from anywhere in Near range.",
-  "eb": "2",
+  "eb": 2,
   "sort": "NCP",
   "first_publication": "Core"
 }

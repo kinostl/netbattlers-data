@@ -1,5 +1,5 @@
 kind: AscensionSlash
-dmg: '2'
+dmg: 2
 range: Close
 effect: A slash that rises into the air. Deals +2 damage if your target is airborne.
 category: Blade

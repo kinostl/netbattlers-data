@@ -1,6 +1,6 @@
 {
   "kind": "QuickRound",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Throws a small, sharp boomerang. Spend 1 Speed point: make this chip usable again.",
   "category": "Thrown",

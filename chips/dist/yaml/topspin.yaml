@@ -1,5 +1,5 @@
 kind: TopSpin
-dmg: '3'
+dmg: 3
 range: Close
 effect: Spin and hit all Close! Upshift your next roll unless you rest for a bit to
   stop being dizzy.

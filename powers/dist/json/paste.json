@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Roll",
   "effect": "Turn all your Near element into armor for +1 HP per hit. Can go over Max HP. Doesn’t stack.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

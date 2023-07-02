@@ -1,6 +1,6 @@
 {
   "kind": "Aqua+2",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Your next 2 rolls/chips are soaking! Anything affected becomes super-slippery and ice-cold.",
   "category": "Support",

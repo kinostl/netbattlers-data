@@ -1,6 +1,6 @@
 {
   "kind": "ShadowFreeze",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Briefly freeze targets! Can spend 1 Coding to make this a Shot that ignores walls",
   "category": "Wave",

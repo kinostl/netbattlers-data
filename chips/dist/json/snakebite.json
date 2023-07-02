@@ -1,6 +1,6 @@
 {
   "kind": "SnakeBite",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "Hand is a snake! Pick 1: is Piercing; upshift target’s next Speed roll; their Bravery is briefly 0.",
   "category": "Impact",

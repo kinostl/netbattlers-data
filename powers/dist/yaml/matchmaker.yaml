@@ -2,6 +2,6 @@ kind: Matchmaker
 skill: '-'
 resolve: '-'
 effect: Can roll Info to analyze social media and judge 2 peoples’ romantic compatibility.
-eb: '1'
+eb: 1
 sort: NCP
 first_publication: Skateboard Dog

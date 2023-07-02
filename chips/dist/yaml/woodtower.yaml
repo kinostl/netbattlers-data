@@ -1,5 +1,5 @@
 kind: WoodTower
-dmg: '3'
+dmg: 3
 range: Close
 effect: Sharp logs erupt! Doesn’t hurt you. Spend 1 Stamina to sprout a huge tree
   somewhere Near.

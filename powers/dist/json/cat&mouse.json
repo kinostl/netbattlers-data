@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "Whenever you damage a target without deleting them, add +1 hit to your next roll.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Neko",
   "first_publication": "Neko Virus Infection"
 }

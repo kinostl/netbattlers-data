@@ -1,6 +1,6 @@
 {
   "kind": "AceOfSpades",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Next time you lose an opposed roll and at least one of your dice reads 1, change all 1s to 6s.",
   "category": "Support",

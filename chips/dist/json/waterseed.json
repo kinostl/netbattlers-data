@@ -1,6 +1,6 @@
 {
   "kind": "WaterSeed",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Throws a large seed that spreads rushing water over everything around the target.",
   "category": "Hazard",

@@ -3,6 +3,6 @@ skill: '-'
 resolve: '-'
 effect: On jack-in, you have a cool, small ride (e.g. roller skates, snowboard, pogo
   stick).
-eb: '1'
+eb: 1
 sort: NCP
 first_publication: Skateboard Dog

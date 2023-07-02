@@ -1,5 +1,5 @@
 kind: Uplink
-dmg: '1'
+dmg: 1
 range: Near
 effect: Wild cables plug in! You can make a Coding roll on the target as if you were
   Close.

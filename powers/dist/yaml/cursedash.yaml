@@ -2,6 +2,6 @@ kind: CursedAsh
 skill: '-'
 resolve: Passive
 effect: Everyone other than you sets their Stamina to 0 while touching your element.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mystic Lilies

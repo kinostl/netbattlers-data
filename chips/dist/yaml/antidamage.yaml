@@ -1,5 +1,5 @@
 kind: AntiDamage
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next defense, swap places with a Near object & take 0 dmg. Fails vs. Accurate
   chips/LockOn.

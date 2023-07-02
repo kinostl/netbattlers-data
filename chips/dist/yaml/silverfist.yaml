@@ -1,5 +1,5 @@
 kind: SilverFist
-dmg: '3'
+dmg: 3
 range: Close
 effect: A magic gauntlet! Can instead be used to make 3 Affinity rolls using your
   Strength instead.

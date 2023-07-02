@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "You give off a sinister aura; cruel people like you more, and others like you less.",
-  "eb": "1",
+  "eb": 1,
   "sort": "NCP",
   "first_publication": "Core"
 }

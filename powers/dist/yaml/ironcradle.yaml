@@ -3,6 +3,6 @@ skill: '-'
 resolve: Passive
 effect: When you roll with someone inside, you steal 1 HP (no resisting). Eject anyone
   at 1 HP.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

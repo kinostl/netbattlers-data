@@ -1,5 +1,5 @@
 kind: TheWorld
-dmg: '-'
+dmg: 0
 range: Far
 effect: Can use the elements of all in range for 5 rolls. Roll Xd6 to summon/manipulate;
   X=Bond Points.

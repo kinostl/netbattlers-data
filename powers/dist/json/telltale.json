@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "Always leave a trail of your element behind you.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "ChitChat"
 }

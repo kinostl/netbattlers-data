@@ -2,6 +2,6 @@ kind: Forecast
 skill: Charm
 resolve: Cost
 effect: Set your element to Rain, Snow, Hail, or Tornadoes. [Instant]
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

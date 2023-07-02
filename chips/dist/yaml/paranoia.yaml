@@ -1,5 +1,5 @@
 kind: Paranoia
-dmg: '4'
+dmg: 4
 range: Near
 effect: Marks the target. Once per jack-in, you can warp Close & stun them, even if
   they are in other servers.

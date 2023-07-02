@@ -2,6 +2,6 @@ kind: GravArmor
 skill: Stamina
 resolve: Roll
 effect: Move along or stick to any Close surface, or stick any Close object to you.
-eb: '-'
+eb: 0
 sort: Power
 first_publication: Core

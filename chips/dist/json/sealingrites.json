@@ -1,6 +1,6 @@
 {
   "kind": "SealingRites",
-  "dmg": "4",
+  "dmg": 4,
   "range": "Close",
   "effect": "Entombs a target Navi in an inescapable cell, buried within the server. Their PET disconnects.",
   "category": "Impact",

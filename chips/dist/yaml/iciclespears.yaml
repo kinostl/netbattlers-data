@@ -1,5 +1,5 @@
 kind: IcicleSpears
-dmg: '2'
+dmg: 2
 range: Near
 effect: Anyone touching a frozen surface is hit by massive icicle spikes erupting
   from the ice.

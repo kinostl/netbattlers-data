@@ -3,7 +3,7 @@
   "skill": "Bravery",
   "resolve": "Roll",
   "effect": "Copy a skill & Navi Power from the target. Expires when you get hit.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

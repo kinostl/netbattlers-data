@@ -1,5 +1,5 @@
 kind: BurstRevenge
-dmg: 2xX
+dmg: 2
 range: Near
 effect: Let loose fiery bursts of rage! X=number of enemies in range who have damaged
   you.

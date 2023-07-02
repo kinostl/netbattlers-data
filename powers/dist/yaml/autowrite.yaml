@@ -2,6 +2,6 @@ kind: AutoWrite
 skill: '-'
 resolve: '-'
 effect: To download Virus data, you can erase a chip in your Folder for a full success.
-eb: '2'
+eb: 2
 sort: NCP
 first_publication: Core

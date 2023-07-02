@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "A mirror image of yourself appears. It is sworn to help you... though your Daemon is its master.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Neko",
   "first_publication": "Neko Virus Infection"
 }

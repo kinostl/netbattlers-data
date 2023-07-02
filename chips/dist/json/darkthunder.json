@@ -1,6 +1,6 @@
 {
   "kind": "DarkThunder",
-  "dmg": "3x3",
+  "dmg": 3,
   "range": "Near",
   "effect": "Channel stunning bolts! Spend [Daemon Bond] Stamina or you lose control of the wild lightning.",
   "category": "Wave",

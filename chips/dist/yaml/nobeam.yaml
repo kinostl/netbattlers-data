@@ -1,5 +1,5 @@
 kind: NOBeam
-dmg: '3'
+dmg: 3
 range: Near
 effect: Fires a devastating light shaft forward. Only usable if you just activated
   a Counter.

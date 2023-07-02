@@ -1,5 +1,5 @@
 kind: DoubleEdge
-dmg: '4'
+dmg: 4
 range: Close
 effect: A wild all-out slash! If the target is not deleted by this attack, spend 4
   HP.

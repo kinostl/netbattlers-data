@@ -1,6 +1,6 @@
 {
   "kind": "AntiMelee",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Next time you’re melee attacked, downshift parrying. On parry win, they fly a range band away.",
   "category": "Support",

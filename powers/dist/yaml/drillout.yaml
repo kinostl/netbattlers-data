@@ -2,6 +2,6 @@ kind: DrillOut
 skill: Speed
 resolve: Roll
 effect: Make a hole leading anywhere in Near range.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

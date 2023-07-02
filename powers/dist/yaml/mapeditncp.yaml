@@ -2,6 +2,6 @@ kind: MapEditNCP
 skill: Coding
 resolve: Cost
 effect: Generate a Near simple structure that is either hard, large, or hidden.
-eb: '3'
+eb: 3
 sort: PowerNCP
 first_publication: Core

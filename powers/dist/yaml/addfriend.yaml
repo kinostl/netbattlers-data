@@ -3,6 +3,6 @@ skill: Charm
 resolve: Roll
 effect: Create a token of affection for the target. Functionally useless, but thoughtful
   & caring.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

@@ -3,7 +3,7 @@
   "skill": "Strength",
   "resolve": "Roll",
   "effect": "Manipulate any number of Near objects (e.g. slam doors, press buttons, toss items, etc).",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Mega Viruses"
 }

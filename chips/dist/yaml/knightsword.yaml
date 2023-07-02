@@ -1,5 +1,5 @@
 kind: KnightSword
-dmg: '2'
+dmg: 2
 range: Close
 effect: Deals double damage if this chip wins a parry.
 category: Blade

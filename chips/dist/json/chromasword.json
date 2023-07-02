@@ -1,6 +1,6 @@
 {
   "kind": "ChromaSword",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Close",
   "effect": "A color-shifting sword! Spreads lots of (pick 1): fire, water, electric sparks, sprawling vines.",
   "category": "Blade",

@@ -3,6 +3,6 @@ skill: Affinity
 resolve: Cost
 effect: Whip a Close target for 1 dmg. Covers them in your element. They restore all
   spent skill points.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mystic Lilies

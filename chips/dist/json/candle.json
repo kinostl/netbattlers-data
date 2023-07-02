@@ -1,6 +1,6 @@
 {
   "kind": "Candle",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Creates a large candle that heals you 1 HP every time you’re attacked.",
   "category": "Summon",

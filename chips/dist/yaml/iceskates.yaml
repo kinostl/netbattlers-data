@@ -1,5 +1,5 @@
 kind: IceSkates
-dmg: '1'
+dmg: 1
 range: Close
 effect: A frosty kick upshifts target’s next Body roll! Also, you can now freely glide
   over ice.

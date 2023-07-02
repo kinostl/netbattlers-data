@@ -1,6 +1,6 @@
 {
   "kind": "DarkFlame",
-  "dmg": "4",
+  "dmg": 4,
   "range": "Near",
   "effect": "The target's PET overheats. NetOp takes 1 damage on chip use or roll holding the PET.",
   "category": "Wave",

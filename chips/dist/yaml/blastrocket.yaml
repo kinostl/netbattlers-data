@@ -1,5 +1,5 @@
 kind: BlastRocket
-dmg: '2'
+dmg: 2
 range: Near
 effect: Quaking rocket! If the target’s Close, spend 1 Stamina to also fly a range
   band away.

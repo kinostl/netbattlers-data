@@ -1,5 +1,5 @@
 kind: OilBody
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Turn super-flammable for 5 rolls. Any that touch or melee attack you turn
   super-flammable too.

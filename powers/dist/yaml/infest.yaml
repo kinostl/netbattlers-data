@@ -3,6 +3,6 @@ skill: Affinity
 resolve: Roll
 effect: Infest a Close object, taking control of it. You also heal 2 HP and grow in
   size.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

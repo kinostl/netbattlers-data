@@ -3,6 +3,6 @@ skill: Info
 resolve: Cost
 effect: Sends (possibly false) info to a Near target in the form of a (possibly fabricated)
   memory.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mystic Lilies

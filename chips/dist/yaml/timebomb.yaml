@@ -1,5 +1,5 @@
 kind: TimeBomb
-dmg: '4'
+dmg: 4
 range: Close
 effect: Summons a bomb on a three-second countdown.
 category: Summon

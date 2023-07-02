@@ -1,6 +1,6 @@
 {
   "kind": "ProtoStrike",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Next time you counter, warp Close behind the attacker and slash for 3 damage.",
   "category": "Blade",

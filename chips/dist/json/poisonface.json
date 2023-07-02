@@ -1,6 +1,6 @@
 {
   "kind": "PoisonFace",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Cursed face paint! On next Charm/Bravery roll, poisons the target, upshifting their next 3 rolls.",
   "category": "Support",

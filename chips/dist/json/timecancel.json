@@ -1,6 +1,6 @@
 {
   "kind": "TimeCancel",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Next time an enemy uses a Simple chip, you can use one roll/chip right before it activates.",
   "category": "Support",

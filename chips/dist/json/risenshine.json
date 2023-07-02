@@ -1,6 +1,6 @@
 {
   "kind": "RiseNShine",
-  "dmg": "1",
+  "dmg": 1,
   "range": "Close",
   "effect": "Target wakes up and downshifts their next Mind roll, even if damage is resisted.",
   "category": "Impact",

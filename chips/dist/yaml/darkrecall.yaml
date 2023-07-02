@@ -1,5 +1,5 @@
 kind: DarkRecall
-dmg: '-'
+dmg: 0
 range: Close
 effect: Spawn the last Virus you deleted - you control it. Add [Daemon Bond] to its
   stats. Its HP is full.

@@ -2,6 +2,6 @@ kind: Haunt
 skill: Coding
 resolve: Roll
 effect: Turn invisible and able to pass through walls for 3 rolls.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

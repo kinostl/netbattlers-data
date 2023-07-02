@@ -1,5 +1,5 @@
 kind: LooseRain
-dmg: '-'
+dmg: 0
 range: Near
 effect: Everything in range heals 2 HP. It begins to drizzle.
 category: Hazard

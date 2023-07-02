@@ -3,7 +3,7 @@
   "skill": "Bravery",
   "resolve": "Cost",
   "effect": "Pick an ally. Next time they’re damaged, downshift your next attack on the attacker. [Instant]",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Underground Broadcast"
 }

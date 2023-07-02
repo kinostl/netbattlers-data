@@ -1,6 +1,6 @@
 {
   "kind": "MirrorSword",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "A shining silver sword. Can instead be used to parry a projectile attack.",
   "category": "Blade",

@@ -1,6 +1,6 @@
 {
   "kind": "DialogueBox",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Popup blocks 2 dmg next defense! Can instead let you make 3 Charm rolls with Info instead.",
   "category": "Support",

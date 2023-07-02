@@ -1,5 +1,5 @@
 kind: FluffyDaydream
-dmg: '-'
+dmg: 0
 range: Close
 effect: Sweet drink! When drank, pick a Bond; heal HP = Bond Lvl+2 & say your true
   feelings about them.

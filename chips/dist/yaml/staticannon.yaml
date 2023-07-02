@@ -1,5 +1,5 @@
 kind: StatiCannon
-dmg: '3'
+dmg: 3
 range: Near
 effect: Power-diverting cannon! After firing, you’re disconnected from your PET for
   2 rolls.

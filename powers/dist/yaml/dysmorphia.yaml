@@ -3,6 +3,6 @@ skill: Coding
 resolve: Cost
 effect: Add 1 to one of your parasitized host’s skills. Their body distorts to accomodate
   the change.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: The Walls Will Swallow You

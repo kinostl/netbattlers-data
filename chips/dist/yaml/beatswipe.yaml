@@ -1,5 +1,5 @@
 kind: BeatSwipe
-dmg: '-'
+dmg: 0
 range: Near
 effect: Next time an enemy uses a chip, roll Coding. If your hits > chip dmg, take
   the chip and use it.

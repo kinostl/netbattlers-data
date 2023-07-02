@@ -1,5 +1,5 @@
 kind: EchoChamber
-dmg: '-'
+dmg: 0
 range: Close
 effect: Pick an ally in range that’s making an opposed roll; you can reroll their
   failed dice.

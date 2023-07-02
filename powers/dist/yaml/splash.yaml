@@ -2,6 +2,6 @@ kind: Splash
 skill: Sense
 resolve: Roll
 effect: Roll once to attack a Near target. Damages everything Close to the target.
-eb: '-'
+eb: 0
 sort: Power
 first_publication: Core

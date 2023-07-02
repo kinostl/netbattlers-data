@@ -1,6 +1,6 @@
 {
   "kind": "GeminiLaser",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Near",
   "effect": "A bouncing laser. If the target successfully defends with Speed, the beam attacks one more target.",
   "category": "Shot",

@@ -1,6 +1,6 @@
 {
   "kind": "ColorPoint",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "If your Element is Near, consume all of it to add +2 dice to your next roll.",
   "category": "Support",

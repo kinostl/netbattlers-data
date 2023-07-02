@@ -1,6 +1,6 @@
 {
   "kind": "SweetHeart",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Spend 1 Charm and pick an ally; ribbons heal them 4 HP and dizzy enemies Close to them.",
   "category": "Support",

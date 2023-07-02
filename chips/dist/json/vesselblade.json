@@ -1,6 +1,6 @@
 {
   "kind": "VesselBlade",
-  "dmg": "4",
+  "dmg": 4,
   "range": "Close",
   "effect": "You must spend 1 Affinity point. Spreads your element on impact.",
   "category": "Blade",

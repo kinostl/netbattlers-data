@@ -1,6 +1,6 @@
 {
   "kind": "Avatar",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Your next 3 rolls spawn your element Close and get +3 dice. Downshift non-attack Affinity rolls.",
   "category": "Support",

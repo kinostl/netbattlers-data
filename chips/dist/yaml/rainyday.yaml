@@ -1,5 +1,5 @@
 kind: RainyDay
-dmg: '-'
+dmg: 0
 range: Near
 effect: Calls down a torrential downpour from a solid, squishy raincloud.
 category: Summon

@@ -2,6 +2,6 @@ kind: ArmorChange
 skill: Stamina
 resolve: Roll
 effect: Your body is briefly (pick 1) superhot; icy; superheavy; camouflaged; or luminous.
-eb: '-'
+eb: 0
 sort: Power
 first_publication: Core

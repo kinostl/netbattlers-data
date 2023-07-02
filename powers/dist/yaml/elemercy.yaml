@@ -2,6 +2,6 @@ kind: EleMercy
 skill: '-'
 resolve: Passive
 effect: When you’re hurt, spawn your element Close.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

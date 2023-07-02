@@ -1,5 +1,5 @@
 kind: FireHit
-dmg: 2x2
+dmg: 2
 range: Close
 effect: Slams the target with two fiery punches.
 category: Impact

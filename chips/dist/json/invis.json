@@ -1,6 +1,6 @@
 {
   "kind": "Invis",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Become invisible for several seconds.",
   "category": "Support",

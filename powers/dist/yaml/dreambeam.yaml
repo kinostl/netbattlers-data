@@ -2,6 +2,6 @@ kind: DreamBeam
 skill: Sense
 resolve: Roll
 effect: Fire a Near Piercing laser that breaks Guards and pierces unreinforced objects.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

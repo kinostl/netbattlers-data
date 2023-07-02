@@ -1,6 +1,6 @@
 {
   "kind": "DrillBomb",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Exploding drill! Breaks through unreinforced objects in the way of the target (e.g. walls).",
   "category": "Shot",

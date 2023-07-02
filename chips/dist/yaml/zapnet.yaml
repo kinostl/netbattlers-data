@@ -1,5 +1,5 @@
 kind: ZapNet
-dmg: '1'
+dmg: 1
 range: Near
 effect: Tangles and zaps the target, setting Speed to 0 while ensnared. Untangling
   takes a moment.

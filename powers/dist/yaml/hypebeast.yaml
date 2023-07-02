@@ -3,6 +3,6 @@ skill: '-'
 resolve: Passive
 effect: Whenever you or an ally roll 1+ hits, toss a little bit of your element at
   any Near target.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Cast the Dice

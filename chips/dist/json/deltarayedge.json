@@ -1,6 +1,6 @@
 {
   "kind": "DeltaRayEdge",
-  "dmg": "3xX",
+  "dmg": 3,
   "range": "Near",
   "effect": "Rush together & combo strike with allies! (X=# of people rushing together; max 3.)",
   "category": "Rush",

@@ -1,5 +1,5 @@
 kind: OutOfTheBag
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Appear at a location of the Daemon’s choice, potentially on a completely different
   server.

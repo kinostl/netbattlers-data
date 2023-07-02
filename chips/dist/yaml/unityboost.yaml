@@ -1,5 +1,5 @@
 kind: UnityBoost
-dmg: '-'
+dmg: 0
 range: Near
 effect: Next time you use a BattleChip, all Bonded allies in range gain the benefits
   that affect you.

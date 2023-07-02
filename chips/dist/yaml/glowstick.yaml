@@ -1,5 +1,5 @@
 kind: Glowstick
-dmg: '-'
+dmg: 0
 range: Close
 effect: Luminous scepter! Anything you bop with it glows in the dark. The harder,
   the brighter.

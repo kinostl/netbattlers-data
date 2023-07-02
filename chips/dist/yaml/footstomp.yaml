@@ -1,5 +1,5 @@
 kind: FootStomp
-dmg: '2'
+dmg: 2
 range: Near
 effect: Jump onto and crush an enemy. Spend 1 Speed to add another target in range
   of the enemy.

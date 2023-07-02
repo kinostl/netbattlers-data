@@ -1,5 +1,5 @@
 kind: PerfectChaos
-dmg: '-'
+dmg: 0
 range: Near
 effect: Summon a massive storm! All downshift Bravery rolls and upshift defense rolls
   while within.

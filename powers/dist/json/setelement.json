@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "On jack-in, your element appears around you; if you use it immediately, downshift.",
-  "eb": "2",
+  "eb": 2,
   "sort": "NCP",
   "first_publication": "Core"
 }

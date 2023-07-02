@@ -1,6 +1,6 @@
 {
   "kind": "LineOut",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Dash into Close range. If you dash through an object, it is destroyed.",
   "category": "Rush",

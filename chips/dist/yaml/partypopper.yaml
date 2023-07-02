@@ -1,5 +1,5 @@
 kind: PartyPopper
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next time you win an opposed roll, fly a range band up and toss a lot of confetti.
   Yay!

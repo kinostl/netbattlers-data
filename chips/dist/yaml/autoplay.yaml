@@ -1,5 +1,5 @@
 kind: Autoplay
-dmg: '-'
+dmg: 0
 range: Close
 effect: Put a shiny music note on a surface. On touch, a loud music video deafens
   & blinds all Close.

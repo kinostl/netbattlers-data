@@ -2,6 +2,6 @@ kind: FamilyFilter
 skill: '-'
 resolve: '-'
 effect: Your body beeps loudly to censor any Near audible insults or rude language.
-eb: '1'
+eb: 1
 sort: NCP
 first_publication: Mudslurp

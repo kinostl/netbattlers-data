@@ -1,5 +1,5 @@
 kind: CustSword
-dmg: X
+dmg: 0
 range: Close
 effect: A bright green sword powered by your Folder. X=# of used chips in your Folder;
   max 4.

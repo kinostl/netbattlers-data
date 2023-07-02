@@ -1,6 +1,6 @@
 {
   "kind": "Condor",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Far",
   "effect": "Wind up, then rocket into the distance! -2 damage if target is not Far.",
   "category": "Rush",

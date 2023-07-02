@@ -1,5 +1,5 @@
 kind: ApexPredator
-dmg: '5'
+dmg: 5
 range: Close
 effect: If this deletes, swallow the target and add their stats to yours. Your body
   shifts & grows.

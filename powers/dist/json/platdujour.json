@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Cost",
   "effect": "Curse your Close element. Any who touch it (pick 1): hallucinate; go blind; fall asleep.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Mystic Lilies"
 }

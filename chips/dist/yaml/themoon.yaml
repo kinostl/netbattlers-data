@@ -1,5 +1,5 @@
 kind: TheMoon
-dmg: '-'
+dmg: 0
 range: Near
 effect: 'Dream bomb! Target briefly (pick 1): can’t see allies; sees you as friendly;
   sees you as terrifying.'

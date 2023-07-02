@@ -1,6 +1,6 @@
 {
   "kind": "Magnum",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Near",
   "effect": "The Navi leaps into the air and throws down rapidfire explosives.",
   "category": "Thrown",

@@ -1,5 +1,5 @@
 kind: ShotGun
-dmg: '2'
+dmg: 2
 range: Near
 effect: Fires an explosive shot that upshifts the defense of targets hiding behind
   cover.

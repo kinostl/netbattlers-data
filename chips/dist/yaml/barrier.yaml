@@ -1,5 +1,5 @@
 kind: Barrier
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next time you fail to defend against an attack, a barrier nullifies all damage
   and effects.

@@ -1,5 +1,5 @@
 kind: DarkInvisible
-dmg: '-'
+dmg: 0
 range: '-'
 effect: For the next 2x[Daemon Bond] rolls, you become an invisible, invincible specter.
 category: Support

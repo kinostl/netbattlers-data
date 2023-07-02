@@ -1,6 +1,6 @@
 {
   "kind": "Forbidden",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Lays a tripwire over an exit. On activation, it briefly stuns the target & teleports you behind them.",
   "category": "Hazard",

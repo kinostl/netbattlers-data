@@ -1,5 +1,5 @@
 kind: ZeroKnuckle
-dmg: '3'
+dmg: 3
 range: Close
 effect: If you delete an enemy with this, you can use their element for a downshifted
   Affinity roll.

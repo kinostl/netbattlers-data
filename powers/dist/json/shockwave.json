@@ -3,7 +3,7 @@
   "skill": "Strength",
   "resolve": "Roll",
   "effect": "A ranged attack that only moves through surfaces. It can hit one Near target.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Power",
   "first_publication": "Core"
 }

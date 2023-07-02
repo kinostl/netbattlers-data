@@ -3,6 +3,6 @@ skill: '-'
 resolve: '-'
 effect: Once per jack-in, can send an SOS w/ your location to all chat rooms on the
   server.
-eb: '1'
+eb: 1
 sort: NCP
 first_publication: Mudslurp

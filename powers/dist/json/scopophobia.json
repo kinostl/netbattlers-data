@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "If anyone sees you, you are immobilized. While immobilized, you are invincible.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "The Walls Will Swallow You"
 }

@@ -1,5 +1,5 @@
 kind: AntiChip
-dmg: '-'
+dmg: 0
 range: Near
 effect: Pick a chip category. Next time an enemy uses that category, take their chip
   and use it yourself.

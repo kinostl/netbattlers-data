@@ -1,5 +1,5 @@
 kind: BlackBomb
-dmg: '1'
+dmg: 1
 range: Near
 effect: Tosses a hefty bomb. If hit with fire, creates a 5-damage explosion that hits
   all Close to it.

@@ -1,5 +1,5 @@
 kind: DarkHeart
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Until jack-out, add [Daemon Bond]x2 to Charm social rolls. Any you charm get
   a Daemon Bond.

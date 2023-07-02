@@ -3,6 +3,6 @@ skill: Bravery
 resolve: Cost
 effect: Loose a deafening, horrifying roar. It jams all Near PET connections for 3
   rolls.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

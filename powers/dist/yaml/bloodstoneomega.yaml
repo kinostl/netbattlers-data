@@ -2,6 +2,6 @@ kind: BloodstoneOmega
 skill: '-'
 resolve: Passive
 effect: When you’re attacked, your element covers everything Close in a Normal hazard.
-eb: '-'
+eb: 0
 sort: Omega Virus Power
 first_publication: Mega Viruses

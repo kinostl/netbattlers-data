@@ -1,6 +1,6 @@
 {
   "kind": "FireRat",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "A seeking bomb! When set on fire, scuttles to a Near target and explodes, dealing 4 damage.",
   "category": "Summon",

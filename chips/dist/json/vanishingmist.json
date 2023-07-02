@@ -1,6 +1,6 @@
 {
   "kind": "VanishingMist",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Mist seeps into the area. Any who jack out in the mist can invite a Close Navi to come with them.",
   "category": "Hazard",

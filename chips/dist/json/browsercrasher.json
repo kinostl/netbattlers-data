@@ -1,6 +1,6 @@
 {
   "kind": "BrowserCrasher",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "A light blast blocks communication between Navis & NetOps. Normal NetOp Coding to fix.",
   "category": "Wave",

@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "If you’re safe, bonded allies can teleport you Close to them with DestinySpark.",
-  "eb": "3",
+  "eb": 3,
   "sort": "NCP",
   "first_publication": "Core"
 }

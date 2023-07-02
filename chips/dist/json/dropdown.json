@@ -1,6 +1,6 @@
 {
   "kind": "Dropdown",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Allows you to reverse your gravity for up to a minute.",
   "category": "Support",

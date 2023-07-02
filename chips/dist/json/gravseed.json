@@ -1,6 +1,6 @@
 {
   "kind": "GravSeed",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "A zero-gravity bubble encompasses everything Close to the target. Expires after a minute.",
   "category": "Hazard",

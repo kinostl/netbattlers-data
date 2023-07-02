@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "When enemies in your element fail a social Charm/Bravery roll, dictate what they say.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Mystic Lilies"
 }

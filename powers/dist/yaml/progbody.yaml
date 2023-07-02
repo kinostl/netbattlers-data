@@ -2,6 +2,6 @@ kind: ProgBody
 skill: '-'
 resolve: '-'
 effect: You can appear like a Mr. Prog! (Hat of your choice optional.)
-eb: '1'
+eb: 1
 sort: NCP
 first_publication: Core

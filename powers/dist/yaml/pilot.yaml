@@ -2,6 +2,6 @@ kind: Pilot
 skill: '-'
 resolve: Passive
 effect: You can roll Speed on behalf of a Close ally. One ally at a time.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

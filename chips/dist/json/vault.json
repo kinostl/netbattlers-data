@@ -1,6 +1,6 @@
 {
   "kind": "Vault",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Far",
   "effect": "Fly into the air! A wind burst shoves everything that’s Close to your launch point away.",
   "category": "Rush",

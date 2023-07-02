@@ -1,5 +1,5 @@
 kind: MoonBlade
-dmg: '2'
+dmg: 2
 range: Close
 effect: If used right after moving range bands, you can spin-slash to hit everything
   Close!

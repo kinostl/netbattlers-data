@@ -1,6 +1,6 @@
 {
   "kind": "DarkSnake",
-  "dmg": "6",
+  "dmg": 6,
   "range": "Close",
   "effect": "Viper fangs bite your target! Your Daemon takes control of the target’s voice.",
   "category": "Impact",

@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "When you damage a target, steal their element for 3 rolls. Only you can use it.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

@@ -2,6 +2,6 @@ kind: ExecutionUnit
 skill: '-'
 resolve: '-'
 effect: When you delete a Virus or Navi, heal 3 HP.
-eb: '3'
+eb: 3
 sort: NCP
 first_publication: Core

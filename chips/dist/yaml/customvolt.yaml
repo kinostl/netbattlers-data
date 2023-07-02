@@ -1,5 +1,5 @@
 kind: CustomVolt
-dmg: '2'
+dmg: 2
 range: Near
 effect: Crackling bolts arc to enemies Near the target if they have BattleChips.
 category: Wave

@@ -1,6 +1,6 @@
 {
   "kind": "Geddon2",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Structures around you crack and then shatter, one by one.",
   "category": "Hazard",

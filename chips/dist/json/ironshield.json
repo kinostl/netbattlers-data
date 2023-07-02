@@ -1,6 +1,6 @@
 {
   "kind": "IronShield",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Summons a wide, unmovable iron barrier in front of yourself.",
   "category": "Summon",

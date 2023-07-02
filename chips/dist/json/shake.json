@@ -1,6 +1,6 @@
 {
   "kind": "Shake",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "Huge slam! If the target is grounded, shakes the whole area, destablilizing everything Near.",
   "category": "Impact",

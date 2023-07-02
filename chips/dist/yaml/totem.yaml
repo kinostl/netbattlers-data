@@ -1,5 +1,5 @@
 kind: Totem
-dmg: '3'
+dmg: 3
 range: Near
 effect: Deploys a motion-sensing turret that looses a fire blast at the first thing
   it sees.

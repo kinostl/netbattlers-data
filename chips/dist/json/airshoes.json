@@ -1,6 +1,6 @@
 {
   "kind": "AirShoes",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Fly through the air for 5 rolls.",
   "category": "Support",

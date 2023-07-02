@@ -1,6 +1,6 @@
 {
   "kind": "JustDesserts",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Far",
   "effect": "Next time someone says something mean about you, a pie appears and hits their face.",
   "category": "Summon",

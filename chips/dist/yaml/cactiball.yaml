@@ -1,5 +1,5 @@
 kind: Cactiball
-dmg: '3'
+dmg: 3
 range: Near
 effect: Rolling cactus ball! Anything it rolls or bounces on is covered in cactus
   needles.

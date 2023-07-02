@@ -1,5 +1,5 @@
 kind: MagicSaw
-dmg: '-'
+dmg: 0
 range: Close
 effect: Harmlessly bisect an object/ally! Parts rejoin when you say “presto” or a
   minute passes.

@@ -1,5 +1,5 @@
 kind: ChromeLipstick
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Until you take damage, your words cannot be silenced or ignored, muting all
   other sound.

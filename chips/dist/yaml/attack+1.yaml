@@ -1,5 +1,5 @@
 kind: Attack+1
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Add one hit to your next non-BattleChip attack.
 category: Support

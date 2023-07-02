@@ -3,6 +3,6 @@ skill: Speed
 resolve: Cost
 effect: Summons mist. If you roll 3 times while in the mist, you can warp two range
   bands away.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mystic Lilies

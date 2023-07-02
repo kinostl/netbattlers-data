@@ -1,6 +1,6 @@
 {
   "kind": "Whirlpool",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Summons a vortex to slowly drag targets in.",
   "category": "Hazard",

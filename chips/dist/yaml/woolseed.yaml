@@ -1,5 +1,5 @@
 kind: WoolSeed
-dmg: '-'
+dmg: 0
 range: Near
 effect: Throws a seed which sprouts a big, fluffy blob of wool that can cushion any
   impact.

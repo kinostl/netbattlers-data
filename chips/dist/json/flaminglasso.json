@@ -1,6 +1,6 @@
 {
   "kind": "FlamingLasso",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Can spend 1 Strength to upshift the target’s next roll, pull them Close, or get dragged behind them.",
   "category": "Thrown",

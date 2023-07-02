@@ -3,6 +3,6 @@ skill: '-'
 resolve: Passive
 effect: When you roll, Far Viruses learn your location and gain +1 die to their next
   roll, stacking. Starts undetectable, gradually gets obvious.
-eb: '-'
+eb: 0
 sort: Omega Virus Power
 first_publication: Mega Viruses

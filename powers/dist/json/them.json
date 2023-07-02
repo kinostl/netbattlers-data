@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Cost",
   "effect": "Call a spotlight down on a Near target, briefly deactivating invisibility and Guards.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Underground Broadcast"
 }

@@ -1,6 +1,6 @@
 {
   "kind": "Stinger",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Close",
   "effect": "Grow a nasty tail! If they successfully defend with Speed, it gets stuck in a Close surface!",
   "category": "Blade",

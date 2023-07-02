@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "You can control up to 3 elements at once.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Mega Viruses"
 }

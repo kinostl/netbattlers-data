@@ -1,6 +1,6 @@
 {
   "kind": "AirShot",
-  "dmg": "1",
+  "dmg": 1,
   "range": "Near",
   "effect": "Pushes the target back one range band.",
   "category": "Shot",

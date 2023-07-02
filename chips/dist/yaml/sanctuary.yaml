@@ -1,5 +1,5 @@
 kind: Sanctuary
-dmg: '-'
+dmg: 0
 range: Close
 effect: Draw a magic sigil on a surface. Any touching it take half dmg (rounded down).
   Easily erased.

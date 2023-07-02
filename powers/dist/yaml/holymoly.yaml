@@ -2,6 +2,6 @@ kind: HolyMoly
 skill: Strength
 resolve: Roll
 effect: Attack by flinging a Close object at someone Near.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

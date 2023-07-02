@@ -1,5 +1,5 @@
 kind: Detonator
-dmg: '1'
+dmg: 1
 range: Near
 effect: If the next attack deletes the target, they violently explode, dealing 4 damage
   to all Close.

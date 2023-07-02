@@ -1,5 +1,5 @@
 kind: MetalStage
-dmg: '-'
+dmg: 0
 range: Near
 effect: Surfaces of your choice turn to hard metal, resisting damage and conducting
   electricity.

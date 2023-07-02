@@ -1,6 +1,6 @@
 {
   "kind": "CornFiesta",
-  "dmg": "4",
+  "dmg": 4,
   "range": "Near",
   "effect": "Corn everywhere! Gain the element Corn for 5 rolls. Then all corn bursts! 2 damage to any Close.",
   "category": "Wave",

@@ -1,5 +1,5 @@
 kind: TidalWave
-dmg: '2'
+dmg: 2
 range: Near
 effect: Creates a wide tidal wave.
 category: Wave

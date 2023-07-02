@@ -1,6 +1,6 @@
 {
   "kind": "XIX-TheSun",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Revealing light (pick 2): exposes invisible/disguised targets; shows everyone’s Max HP; highlights liars.",
   "category": "Hazard",

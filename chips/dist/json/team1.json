@@ -1,6 +1,6 @@
 {
   "kind": "Team1",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "The next time a Bonded ally is hurt, your next roll gets +X dice. X = your Bond Level with them.",
   "category": "Support",

@@ -1,6 +1,6 @@
 {
   "kind": "LavaBall",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Near",
   "effect": "Coats the floor in a pool of lava on a miss.",
   "category": "Thrown",

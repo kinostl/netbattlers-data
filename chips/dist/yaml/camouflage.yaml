@@ -1,5 +1,5 @@
 kind: Camouflage
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next time someone covers you in their element, you can use their element for
   2 rolls.

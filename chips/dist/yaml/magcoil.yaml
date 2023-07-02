@@ -1,5 +1,5 @@
 kind: MagCoil
-dmg: '-'
+dmg: 0
 range: Near
 effect: Bring the target into Close range and stun them.
 category: Impact

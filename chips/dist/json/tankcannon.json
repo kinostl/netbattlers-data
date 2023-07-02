@@ -1,6 +1,6 @@
 {
   "kind": "TankCannon",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Near",
   "effect": "Creates an environment-shattering explosion, even if the target fully defends.",
   "category": "Shot",

@@ -1,5 +1,5 @@
 kind: IX-TheHermit
-dmg: '-'
+dmg: 0
 range: Close
 effect: Holy lantern! Pick a Near target. After you defend twice, hits the target
   with a 3-damage light blast.

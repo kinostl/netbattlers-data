@@ -3,7 +3,7 @@
   "skill": "Charm",
   "resolve": "Roll",
   "effect": "Gradually lull a Close target to sleep.",
-  "eb": "3",
+  "eb": 3,
   "sort": "PowerNCP",
   "first_publication": "Core"
 }

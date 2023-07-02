@@ -1,6 +1,6 @@
 {
   "kind": "Glitterbomb",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Covers everything in a cloud of glitter. Traces will always remain on anything it hits.",
   "category": "Wave",

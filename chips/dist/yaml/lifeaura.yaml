@@ -1,5 +1,5 @@
 kind: LifeAura
-dmg: '-'
+dmg: 0
 range: '-'
 effect: A shadowy orb protects the user from all attacks under 5 damage. All Near
   noise is muted.

@@ -1,5 +1,5 @@
 kind: EleGeddon
-dmg: '-'
+dmg: 0
 range: Near
 effect: Convert an object to your element. Your element slowly spreads, converting
   everything it touches.

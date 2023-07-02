@@ -1,5 +1,5 @@
 kind: CurseShield
-dmg: '-'
+dmg: 0
 range: Near
 effect: 'On your next ranged defense: take half dmg (rounded down) and zoom Close
   to the attacker.'

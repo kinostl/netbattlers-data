@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "Every time you miss an attack, downshift your next attack roll.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

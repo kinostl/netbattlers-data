@@ -1,6 +1,6 @@
 {
   "kind": "GlassSeed",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "All surfaces and objects Close to the target turn to glass, becoming transparent and brittle.",
   "category": "Hazard",

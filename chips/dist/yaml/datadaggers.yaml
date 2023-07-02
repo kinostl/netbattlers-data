@@ -1,5 +1,5 @@
 kind: DataDaggers
-dmg: '2'
+dmg: 2
 range: Close
 effect: 'Pick 1: is Near; set target’s Coding to 0 for 3 rolls; +3 dice on next Virus
   data download.'

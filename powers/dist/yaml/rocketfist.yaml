@@ -2,6 +2,6 @@ kind: RocketFist
 skill: '-'
 resolve: '-'
 effect: You can use Impact chips at Near. Makes chips Dangerous. Cannot parry at range.
-eb: '2'
+eb: 2
 sort: NCP
 first_publication: Core

@@ -2,6 +2,6 @@ kind: FlowStateNCP
 skill: Speed
 resolve: Roll
 effect: Reshape your body to fit in tight or oddly-shaped spaces. (Not a disguise.)
-eb: '3'
+eb: 3
 sort: PowerNCP
 first_publication: Core

@@ -3,6 +3,6 @@ skill: Info
 resolve: Cost
 effect: Secretly pick a word. You can warp directly behind any Far enemy that says
   that word. [Instant]
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Leximancy

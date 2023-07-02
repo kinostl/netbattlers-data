@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "When riding a target, you can make them help you, rolling their skill dice instead of yours.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

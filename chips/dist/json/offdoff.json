@@ -1,6 +1,6 @@
 {
   "kind": "Offdoff",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "Knock an object off the target (their weapon, their disguise, a mind-control hat, etc).",
   "category": "Impact",

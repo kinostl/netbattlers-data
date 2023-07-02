@@ -1,6 +1,6 @@
 {
   "kind": "BubbleStar",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Seals the target in a floating bubble.",
   "category": "Support",

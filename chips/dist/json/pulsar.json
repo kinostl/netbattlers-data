@@ -1,6 +1,6 @@
 {
   "kind": "Pulsar",
-  "dmg": "1",
+  "dmg": 1,
   "range": "Near",
   "effect": "Fires a sonic blast that disorients targets, upshifting their next roll on hit.",
   "category": "Wave",

@@ -2,6 +2,6 @@ kind: BreakAttack
 skill: '-'
 resolve: Passive
 effect: Attacks and parries shatter nearby surfaces.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

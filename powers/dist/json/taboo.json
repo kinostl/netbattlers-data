@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "When you break something big/valuable, +2 dice to your next Strength roll. No stacking.",
-  "eb": "3",
+  "eb": 3,
   "sort": "NCP",
   "first_publication": "Mystic Lilies"
 }

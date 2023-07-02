@@ -1,6 +1,6 @@
 {
   "kind": "BadApple",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "An apple curses temp. on bite! Pick 2: go blind; speak all thoughts; panic; hallucinate; turn ugly.",
   "category": "Summon",

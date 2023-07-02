@@ -1,6 +1,6 @@
 {
   "kind": "Geyser",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Near",
   "effect": "A nearby surface shatters as a geyser erupts from it.",
   "category": "Hazard",

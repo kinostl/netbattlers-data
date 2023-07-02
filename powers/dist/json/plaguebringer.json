@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Cost",
   "effect": "Must be within an Infested target. They lose 2 HP. Spawn another WhiteMist Close.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "The Walls Will Swallow You"
 }

@@ -1,5 +1,5 @@
 kind: MagShield
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Downshift your next Stamina defense. If you take 0 dmg, drag the attacker
   Close & stun them.

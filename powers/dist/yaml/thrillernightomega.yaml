@@ -3,6 +3,6 @@ skill: Charm
 resolve: Roll
 effect: Dance to resurrect a deleted Near ally. HP = hits. Replace their element with
   yours.
-eb: '-'
+eb: 0
 sort: Omega Virus Power
 first_publication: Mega Viruses

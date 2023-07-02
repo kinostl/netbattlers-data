@@ -2,6 +2,6 @@ kind: Debilitate
 skill: BreakCharge
 resolve: Upgrade
 effect: Can upshift one of the target’s skills instead of Body rolls. (Does not stack.)
-eb: '2'
+eb: 2
 sort: NPU
 first_publication: Navi Power Upgrades

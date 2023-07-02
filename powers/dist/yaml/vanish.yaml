@@ -3,6 +3,6 @@ skill: Coding
 resolve: Cost
 effect: Turn invisible and teleport up to a range band. Invisibility expires when
   you are hurt.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

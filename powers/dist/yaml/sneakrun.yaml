@@ -2,6 +2,6 @@ kind: Sneakrun
 skill: Speed
 resolve: Roll
 effect: Slip past an inanimate threat (e.g. traps, sensors).
-eb: '-'
+eb: 0
 sort: Power
 first_publication: Core

@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "On hit, targets are unable to lie unless they make a Hard Bravery roll or jack out.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Mystic Lilies"
 }

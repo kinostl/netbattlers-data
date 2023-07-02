@@ -1,6 +1,6 @@
 {
   "kind": "FlameShield",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Dash to Close in a fire bubble! Can instead be used to take -2 damage next time you’re hit.",
   "category": "Rush",

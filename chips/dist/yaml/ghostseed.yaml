@@ -1,5 +1,5 @@
 kind: GhostSeed
-dmg: '-'
+dmg: 0
 range: Near
 effect: Throws a seed that spreads the element of the last enemy you deleted.
 category: Hazard

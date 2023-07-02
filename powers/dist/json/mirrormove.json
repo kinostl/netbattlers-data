@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Roll",
   "effect": "Copy the last Navi Power you saw. Hits rolled = number of times usable.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

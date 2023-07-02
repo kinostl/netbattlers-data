@@ -3,7 +3,7 @@
   "skill": "Coding",
   "resolve": "Roll",
   "effect": "Make a forgery of a Near object. It briefly stuns whoever touches it first other than you.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Cast the Dice"
 }

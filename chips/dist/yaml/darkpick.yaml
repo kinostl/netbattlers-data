@@ -1,5 +1,5 @@
 kind: DarkPick
-dmg: '3'
+dmg: 3
 range: Close
 effect: A black icepick. If target is a Virus, take control of them. If Navi, gain
   total control over their PET.

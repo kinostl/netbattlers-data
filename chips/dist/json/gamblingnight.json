@@ -1,6 +1,6 @@
 {
   "kind": "GamblingNight",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "Huge poker chip! If you parry, winner takes 1500z. Loser takes +1 dmg if they can’t pay up.",
   "category": "Impact",

@@ -1,5 +1,5 @@
 kind: Plasma
-dmg: '2'
+dmg: 2
 range: Close
 effect: Two orbs of electricity orbit the Navi, striking all enemies in range.
 category: Impact

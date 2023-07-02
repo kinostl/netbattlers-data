@@ -1,5 +1,5 @@
 kind: WanderingSin
-dmg: '2'
+dmg: 2
 range: Near
 effect: The target is covered in text of your choice, which needs a Hard Coding roll
   to erase.

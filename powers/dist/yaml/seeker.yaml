@@ -2,6 +2,6 @@ kind: Seeker
 skill: '-'
 resolve: Passive
 effect: Attacks swerve over and around obstacles to home in on opponents.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

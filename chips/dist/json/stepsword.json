@@ -1,6 +1,6 @@
 {
   "kind": "StepSword",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Near",
   "effect": "Teleports you forward for a single slice, then you go back.",
   "category": "Rush",

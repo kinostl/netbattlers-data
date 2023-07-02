@@ -2,6 +2,6 @@ kind: FollowthroughNCP
 skill: Strength
 resolve: Cost
 effect: Your next melee or Strength roll hits any number of targets in range. [Instant]
-eb: '3'
+eb: 3
 sort: PowerNCP
 first_publication: Core

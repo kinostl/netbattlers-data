@@ -1,6 +1,6 @@
 {
   "kind": "DarkBomb",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Near",
   "effect": "Claw bomb digs in! Explodes for 6 dmg after they roll 3 times. Hard Strength to rip out.",
   "category": "Thrown",

@@ -1,6 +1,6 @@
 {
   "kind": "BareMetal",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "Shut down & bare your code. 1 ally can roll Coding to heal you 2 HP per hit. They reboot you.",
   "category": "Support",

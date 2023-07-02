@@ -1,5 +1,5 @@
 kind: LightningFoil
-dmg: '1'
+dmg: 1
 range: Close
 effect: An electric disarming swipe removes the first alphabetic BattleChip in the
   target’s Folder.

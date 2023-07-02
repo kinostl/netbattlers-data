@@ -1,6 +1,6 @@
 {
   "kind": "Meteors",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Close",
   "effect": "Magic scepter! It periodically calls down 2-damage Far-range Dangerous meteors, up to 5 total.",
   "category": "Summon",

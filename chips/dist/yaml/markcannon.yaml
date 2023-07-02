@@ -1,5 +1,5 @@
 kind: MarkCannon
-dmg: '2'
+dmg: 2
 range: Far
 effect: Snipe with a lock-on rifle! Spend 1 Sense to make this chip able to find invisible
   targets.

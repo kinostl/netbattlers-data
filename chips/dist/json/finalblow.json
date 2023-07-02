@@ -1,6 +1,6 @@
 {
   "kind": "FinalBlow",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "If this deletes a living target, they’re sent flying back, damaging everything in their path.",
   "category": "Impact",

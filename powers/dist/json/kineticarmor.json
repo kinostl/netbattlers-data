@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "When you perform a Counter, you can also instantly move a range band.",
-  "eb": "3",
+  "eb": 3,
   "sort": "NCP",
   "first_publication": "Core"
 }

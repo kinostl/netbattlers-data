@@ -1,6 +1,6 @@
 {
   "kind": "Jamout",
-  "dmg": "X",
+  "dmg": 0,
   "range": "Near",
   "effect": "Rock out with your allies! X=# of players in the jam session (they don’t need the chip).",
   "category": "Wave",

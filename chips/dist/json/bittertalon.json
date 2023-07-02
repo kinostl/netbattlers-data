@@ -1,6 +1,6 @@
 {
   "kind": "BitterTalon",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Close",
   "effect": "If you failed a social Charm or Bravery roll on the target in the past, deal triple damage.",
   "category": "Blade",

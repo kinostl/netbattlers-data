@@ -1,5 +1,5 @@
 kind: DarkCircle
-dmg: 2+X
+dmg: 2
 range: Near
 effect: 'Dark artillery fires from your body. Hits as many targets in range as you
   want. X = # of targets.'

@@ -3,6 +3,6 @@ skill: Affinity
 resolve: Cost
 effect: Mark a Close target. Remains on jack-out. Consume the mark to warp Near the
   target.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

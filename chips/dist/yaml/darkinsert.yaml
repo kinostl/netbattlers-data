@@ -1,5 +1,5 @@
 kind: DarkInsert
-dmg: '-'
+dmg: 0
 range: Near
 effect: Spawn all Near allies’ elements. They can’t control their element anymore,
   but you can.

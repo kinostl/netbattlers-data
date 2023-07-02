@@ -3,6 +3,6 @@ skill: Affinity
 resolve: Cost
 effect: Make an illusory twin of an ally. When the twin acts in sync with the ally,
   they roll twice and take the better result. Expires when the ally takes damage.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

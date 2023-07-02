@@ -1,5 +1,5 @@
 kind: BlinkSlash
-dmg: '-'
+dmg: 0
 range: Close
 effect: Cleanly bisect a small or soft object. If used on a living target, destroys
   their Guard.

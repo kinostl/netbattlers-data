@@ -3,7 +3,7 @@
   "skill": "Affinity",
   "resolve": "Roll",
   "effect": "Plays a tune that freezes Near Navis in place for X rolls. X = hits rolled.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

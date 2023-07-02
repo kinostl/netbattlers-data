@@ -1,5 +1,5 @@
 kind: FatalAttraction
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Next time an enemy fails a Charm roll on you, warp Close and respond with
   a 4-damage slash.

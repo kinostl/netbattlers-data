@@ -3,6 +3,6 @@ skill: Bravery
 resolve: Roll
 effect: A Near target can’t move range bands until line of sight breaks. One at a
   time.
-eb: '3'
+eb: 3
 sort: PowerNCP
 first_publication: Core

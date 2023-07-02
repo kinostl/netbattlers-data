@@ -2,6 +2,6 @@ kind: Reflect
 skill: Stamina
 resolve: Roll
 effect: Parry a direct ranged attack, rolling Stamina. Reflects secondary effects.
-eb: '-'
+eb: 0
 sort: Power
 first_publication: Core

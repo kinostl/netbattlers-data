@@ -2,6 +2,6 @@ kind: Frenzy
 skill: '-'
 resolve: Passive
 effect: For each point of damage you take, add a point to Speed.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core

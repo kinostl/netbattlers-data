@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "Passive",
   "effect": "You can affect as many Near targets or objects as you like when you roll Affinity.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

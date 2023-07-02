@@ -1,5 +1,5 @@
 kind: Timpani
-dmg: '-'
+dmg: 0
 range: Close
 effect: Summons drums. As long as you beat them, upshifts enemy Speed rolls.
 category: Support

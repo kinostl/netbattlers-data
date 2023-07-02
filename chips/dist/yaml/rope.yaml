@@ -1,5 +1,5 @@
 kind: Rope
-dmg: '1'
+dmg: 1
 range: Near
 effect: Summons a briar patch to ensnare any that step in it.
 category: Hazard

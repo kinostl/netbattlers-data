@@ -3,7 +3,7 @@
   "skill": "Coding",
   "resolve": "Roll",
   "effect": "Pass through a thin structure (walls, floors, pipes, etc).",
-  "eb": "3",
+  "eb": 3,
   "sort": "PowerNCP",
   "first_publication": "Core"
 }

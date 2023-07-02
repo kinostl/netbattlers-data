@@ -3,6 +3,6 @@ skill: Strength
 resolve: Roll
 effect: Shred a Close target, dealing damage, destroying their Guard, and wrecking
   their look.
-eb: '-'
+eb: 0
 sort: Neko
 first_publication: Neko Virus Infection

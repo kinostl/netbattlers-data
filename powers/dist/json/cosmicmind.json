@@ -3,7 +3,7 @@
   "skill": "-",
   "resolve": "-",
   "effect": "When you roll, can spend 1 Mind to reroll and use the better result; your body glows.",
-  "eb": "2",
+  "eb": 2,
   "sort": "NCP",
   "first_publication": "Mystic Lilies"
 }

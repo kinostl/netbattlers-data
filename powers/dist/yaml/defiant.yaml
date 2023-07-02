@@ -3,6 +3,6 @@ skill: Affinity
 resolve: Cost
 effect: Invert the temporary stat/skill changes of a Near target. Expires on your
   death. [Instant]
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mystic Lilies

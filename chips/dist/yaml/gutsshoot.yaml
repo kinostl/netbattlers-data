@@ -1,5 +1,5 @@
 kind: GutsShoot
-dmg: X
+dmg: 0
 range: Near
 effect: Toss an ally! X=your ally’s Body score.
 category: Thrown

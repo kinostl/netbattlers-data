@@ -1,5 +1,5 @@
 kind: AlphaClaw
-dmg: 4xX
+dmg: 4
 range: Near
 effect: Massive claws! X=1; +1 per AlphaSeed in the server. On deletion, Alpha absorbs
   the target.

@@ -2,6 +2,6 @@ kind: BlindMode
 skill: Sense
 resolve: Roll
 effect: Find a target with extrasensory means (e.g. thermal imaging, echolocation).
-eb: '-'
+eb: 0
 sort: Power
 first_publication: Core

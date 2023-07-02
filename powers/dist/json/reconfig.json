@@ -3,7 +3,7 @@
   "skill": "Info",
   "resolve": "Cost",
   "effect": "Switch out unused chips in your Folder for ones in your pack. [Instant]",
-  "eb": "-",
+  "eb": 0,
   "sort": "Power",
   "first_publication": "Core"
 }

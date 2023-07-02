@@ -1,6 +1,6 @@
 {
   "kind": "CornShot",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Near",
   "effect": "Fires a high-impact cob of corn. Briefly changes the target’s element to Corn.",
   "category": "Shot",

@@ -1,5 +1,5 @@
 kind: Uptempo
-dmg: '-'
+dmg: 0
 range: Near
 effect: A blaring, frenzied beat! All in range downshift their next 3 Speed rolls.
   Objects also accelerate.

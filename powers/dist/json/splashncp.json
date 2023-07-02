@@ -3,7 +3,7 @@
   "skill": "Sense",
   "resolve": "Roll",
   "effect": "Roll once to attack a Near target. Damages everything Close to the target.",
-  "eb": "3",
+  "eb": 3,
   "sort": "PowerNCP",
   "first_publication": "Core"
 }

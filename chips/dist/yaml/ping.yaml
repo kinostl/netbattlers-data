@@ -1,5 +1,5 @@
 kind: Ping
-dmg: '-'
+dmg: 0
 range: Far
 effect: A loud beep comes from the target! Ignores Guards. On hit, this chip refreshes.
 category: Shot

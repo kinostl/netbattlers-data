@@ -1,6 +1,6 @@
 {
   "kind": "ClawEnforcement",
-  "dmg": "5",
+  "dmg": 5,
   "range": "Close",
   "effect": "Instantly shred the next thing that touches your belly, accidentally or intentionally.",
   "category": "Blade",

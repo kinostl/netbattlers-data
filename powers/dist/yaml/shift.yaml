@@ -2,6 +2,6 @@ kind: Shift
 skill: Affinity
 resolve: Roll
 effect: Swap places with an abundance of your element in line of sight.
-eb: '-'
+eb: 0
 sort: Power
 first_publication: Core

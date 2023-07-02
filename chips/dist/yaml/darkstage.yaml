@@ -1,5 +1,5 @@
 kind: DarkStage
-dmg: '-'
+dmg: 0
 range: Far
 effect: 'Pick 2: change gravity; shatter the terrain; spawn several black obelisks
   where you please.'

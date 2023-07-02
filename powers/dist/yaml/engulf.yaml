@@ -3,6 +3,6 @@ skill: Strength
 resolve: Roll
 effect: Engulf a Close target, binding them and jamming their Folder until they break
   free.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

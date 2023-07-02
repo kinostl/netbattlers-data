@@ -3,6 +3,6 @@ skill: '-'
 resolve: Passive
 effect: Add +1 die per missing point of HP to every roll except for (non-parry) defense
   rolls.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mega Viruses

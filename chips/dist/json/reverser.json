@@ -1,6 +1,6 @@
 {
   "kind": "Reverser",
-  "dmg": "2",
+  "dmg": 2,
   "range": "Close",
   "effect": "On parry win, pick 1 (lasts 3 rolls): invert your gravity; flip your temp. skill changes; flip the target over.",
   "category": "Blade",

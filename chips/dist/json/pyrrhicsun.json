@@ -1,6 +1,6 @@
 {
   "kind": "PyrrhicSun",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "A molten star appears above, growing larger, until the real-world server explodes into flames.",
   "category": "Summon",

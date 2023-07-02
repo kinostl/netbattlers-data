@@ -1,6 +1,6 @@
 {
   "kind": "Arrow",
-  "dmg": "3",
+  "dmg": 3,
   "range": "Near",
   "effect": "Dash forward, skewering everything in your way until you hit a wall, getting stuck in it for a bit.",
   "category": "Rush",

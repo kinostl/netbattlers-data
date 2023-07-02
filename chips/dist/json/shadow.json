@@ -1,6 +1,6 @@
 {
   "kind": "Shadow",
-  "dmg": "-",
+  "dmg": 0,
   "range": "-",
   "effect": "For a minute, you’re impossible to detect while in darkness.",
   "category": "Support",

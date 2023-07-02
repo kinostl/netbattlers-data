@@ -1,5 +1,5 @@
 kind: FullTilt
-dmg: '-'
+dmg: 0
 range: Near
 effect: 'Pick an object: it tilts to a direction (you pick) for a minute. Heavy objects
   tilt very gradually.'

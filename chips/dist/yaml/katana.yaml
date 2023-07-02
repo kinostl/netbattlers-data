@@ -1,5 +1,5 @@
 kind: Katana
-dmg: 2x2
+dmg: 2
 range: Close
 effect: Double-slice! If you win a parry with this, the target cannot use chips until
   they roll 3 times.

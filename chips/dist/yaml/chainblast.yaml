@@ -1,5 +1,5 @@
 kind: ChainBlast
-dmg: X
+dmg: 0
 range: Near
 effect: Hits everything Close to the target. X=the number of enemies hit.
 category: Thrown

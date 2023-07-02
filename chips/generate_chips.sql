@@ -4,7 +4,7 @@
 
 SELECT json_object(
     'kind', "Chip",
-    'dmg', "Dmg",
+    'dmg', cast("Dmg" as int),
     'range', "Range",
     'effect', "Effect",
     'category', Category,

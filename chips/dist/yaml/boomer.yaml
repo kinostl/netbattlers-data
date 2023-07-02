@@ -1,5 +1,5 @@
 kind: Boomer
-dmg: '2'
+dmg: 2
 range: Near
 effect: Must spend 1 Sense. Hit up to 3 targets Near each other. Leaves a trail of
   vines in its wake.

@@ -1,5 +1,5 @@
 kind: Magnifryer
-dmg: '2'
+dmg: 2
 range: Near
 effect: Giant magnifier fires a sunbeam! Can instead downshift an Info roll on a Close
   target.

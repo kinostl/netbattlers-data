@@ -1,6 +1,6 @@
 {
   "kind": "RewindDash",
-  "dmg": "-",
+  "dmg": 0,
   "range": "Near",
   "effect": "Move a range band; damaged structures/objects you touch are returned to their original state.",
   "category": "Rush",

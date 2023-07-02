@@ -3,6 +3,6 @@ skill: Coding
 resolve: Cost
 effect: Near lights and cameras fade, then go dark for a few seconds. Usable while
   immobile. Disconnects PETs.
-eb: '-'
+eb: 0
 sort: Omega Virus Power
 first_publication: The Walls Will Swallow You

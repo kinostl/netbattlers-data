@@ -2,6 +2,6 @@ kind: MemoryScanNCP
 skill: Info
 resolve: Roll
 effect: Scan a Close Virus/object to reveal the target’s recent memories/interactions.
-eb: '3'
+eb: 3
 sort: PowerNCP
 first_publication: Core

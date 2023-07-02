@@ -2,6 +2,6 @@ kind: Impersonate
 skill: Charm
 resolve: Cost
 effect: Send a forged message from any backdoored PET to the NetOp or their contacts.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Mystic Lilies

@@ -3,7 +3,7 @@
   "skill": "Speed",
   "resolve": "Roll",
   "effect": "Tunnel through an object to somewhere Near.",
-  "eb": "-",
+  "eb": 0,
   "sort": "Virus Power",
   "first_publication": "Core"
 }

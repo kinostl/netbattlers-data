@@ -3,7 +3,7 @@
   "skill": "Overwrite",
   "resolve": "Upgrade",
   "effect": "Overwrite also works on generic/unnamed digital NPCs. [Often illegal.]",
-  "eb": "1",
+  "eb": 1,
   "sort": "NPU",
   "first_publication": "Navi Power Upgrades"
 }

@@ -1,5 +1,5 @@
 kind: Recover4
-dmg: '-'
+dmg: 0
 range: '-'
 effect: Recover four HP.
 category: Support

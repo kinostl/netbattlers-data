@@ -2,6 +2,6 @@ kind: GutsyNCP
 skill: Strength
 resolve: Roll
 effect: Launch a Close target one range band in any direction.
-eb: '3'
+eb: 3
 sort: PowerNCP
 first_publication: Core

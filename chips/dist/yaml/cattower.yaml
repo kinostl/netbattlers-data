@@ -1,5 +1,5 @@
 kind: CatTower
-dmg: '-'
+dmg: 0
 range: '-'
 effect: A huge statue to the Neko Virus emerges. It gradually makes the server more
   catlike.

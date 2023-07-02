@@ -3,6 +3,6 @@ skill: '-'
 resolve: Passive
 effect: If you get hit with electricity, change your element to Thunder and get +3
   Sense.
-eb: '-'
+eb: 0
 sort: Virus Power
 first_publication: Core
