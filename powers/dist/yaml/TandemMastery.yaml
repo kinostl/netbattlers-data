@@ -1,0 +1,7 @@
+kind: TandemMastery
+skill: '-'
+resolve: '-'
+effect: When you spend 2+ BP on a Bond Power, get 1 BP back. This includes Overload.
+eb: 6
+sort: NCP
+first_publication: Core

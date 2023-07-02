@@ -1,0 +1,9 @@
+kind: Painbrush
+dmg: 0
+range: '-'
+effect: Spend X HP to gain the element Paint for X rolls. Add X to rolls to summon
+  it.
+category: Support
+tags:
+  - Simple
+first_publication: Advanced Support Pack

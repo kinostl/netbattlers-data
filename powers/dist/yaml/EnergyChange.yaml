@@ -1,0 +1,8 @@
+kind: EnergyChange
+skill: '-'
+resolve: '-'
+effect: Sacrifice an unused chip to instantly spawn a lot of your element Close to
+  you.
+eb: 3
+sort: NCP
+first_publication: Core

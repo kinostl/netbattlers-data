@@ -1,0 +1,12 @@
+{
+  "kind": "RedWave",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Creates a wide lava wave, leaving pools of lava behind.",
+  "category": "Wave",
+  "tags": [
+    "Piercing",
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

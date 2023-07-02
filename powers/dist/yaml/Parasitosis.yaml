@@ -1,0 +1,8 @@
+kind: Parasitosis
+skill: Coding
+resolve: Roll
+effect: Enter a Close recently-deleted Navi/Virus, fully reviving them. You can’t
+  be hurt while inside.
+eb: 0
+sort: Virus Power
+first_publication: The Walls Will Swallow You

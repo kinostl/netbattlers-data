@@ -1,0 +1,7 @@
+kind: Soundboard
+skill: Playback
+resolve: Upgrade
+effect: Playback can generate any noise you’ve heard before or can find online.
+eb: 1
+sort: NPU
+first_publication: Navi Power Upgrades

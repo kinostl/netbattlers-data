@@ -1,0 +1,9 @@
+kind: EMPunch
+dmg: 2
+range: Close
+effect: 'Pick 1: temporarily disables Near sensors; target’s speech is temporarily
+  scrambled.'
+category: Impact
+tags:
+  - None
+first_publication: Core

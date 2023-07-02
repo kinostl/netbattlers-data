@@ -1,0 +1,9 @@
+{
+  "kind": "Analyze",
+  "skill": "Info",
+  "resolve": "Roll",
+  "effect": "Learn 1 per hit: the target’s stats+skills, Folder, Powers, NCPs, and element.",
+  "eb": 0,
+  "sort": "Power",
+  "first_publication": "Core"
+}

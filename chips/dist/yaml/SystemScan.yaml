@@ -1,0 +1,9 @@
+kind: SystemScan
+dmg: 0
+range: Far
+effect: Pick a single location in range - the GM will tell you five words about the
+  biggest threat inside.
+category: Support
+tags:
+  - Slow
+first_publication: Core

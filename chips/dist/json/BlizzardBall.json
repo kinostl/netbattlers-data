@@ -1,0 +1,12 @@
+{
+  "kind": "BlizzardBall",
+  "dmg": 1,
+  "range": "Near",
+  "effect": "Roll into a giant snowball and bowl the target over! X=number of allies with you in the ball.",
+  "category": "Rush",
+  "tags": [
+    "Awkward",
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

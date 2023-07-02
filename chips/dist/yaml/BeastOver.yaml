@@ -1,0 +1,10 @@
+kind: BeastOver
+dmg: 2
+range: Near
+effect: Shred the target at Close. Increase your Daemon Bond as much as you want;
+  X=[Daemon Bond].
+category: Rush
+tags:
+  - Dark
+  - Dangerous
+first_publication: DarkChips

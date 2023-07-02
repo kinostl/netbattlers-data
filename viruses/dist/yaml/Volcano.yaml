@@ -1,0 +1,32 @@
+kind: Volcano
+desc: Volcano Viruses look like little volcanoes, scuttling on tiny feet and blasting
+  massive fiery bursts from their tops to cover the area in lava.
+element: Lava
+category: Wrecker
+skills:
+  mind: 1
+  sense: 2
+  info: 0
+  coding: 0
+  body: 1
+  strength: 0
+  speed: 0
+  stamina: 2
+  soul: 1
+  charm: 0
+  bravery: 0
+  affinity: 4
+powers:
+  - Splash
+  - CodeInjection
+  - Meltdown
+  - null
+tags:
+  - None
+hp: '6'
+drops:
+  - AtomicFire
+  - LavaCannon
+first_publication: Core
+art: ''
+artist: ''

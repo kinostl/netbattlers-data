@@ -1,0 +1,9 @@
+kind: Overclock
+dmg: 0
+range: Near
+effect: Next time you succeed a Body roll, all roll-based durations in range immediately
+  tick down by 2.
+category: Support
+tags:
+  - Simple
+first_publication: Advanced Support Pack

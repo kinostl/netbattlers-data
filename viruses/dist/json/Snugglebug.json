@@ -1,0 +1,37 @@
+{
+  "kind": "Snugglebug",
+  "desc": "An adorable, simple-minded, pillowy Virus that loves Navis. It has no idea that it invariably endangers its new friends. It just wants hugs.",
+  "element": "Cozy",
+  "category": "Disruption",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 1,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 2,
+    "charm": 6,
+    "bravery": 0,
+    "affinity": 3
+  },
+  "powers": [
+    "AddFriend",
+    "GuiltTrip",
+    "ILoveYou",
+    null
+  ],
+  "tags": [
+    "Mega"
+  ],
+  "hp": "1",
+  "drops": [
+    "CandyWave",
+    "CritterCrew"
+  ],
+  "first_publication": "Mega Viruses",
+  "art": "https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/snugglebug.png",
+  "artist": "SapphireStarz11"
+}

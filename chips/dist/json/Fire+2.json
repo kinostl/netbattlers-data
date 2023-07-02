@@ -1,0 +1,11 @@
+{
+  "kind": "Fire+2",
+  "dmg": 0,
+  "range": "-",
+  "effect": "Your next 2 rolls/chips are incendiary! Flaming targets take -1 HP next time they fail a roll.",
+  "category": "Support",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Advanced Support Pack"
+}

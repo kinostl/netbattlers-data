@@ -1,0 +1,9 @@
+{
+  "kind": "BlackThorn",
+  "skill": "Charm",
+  "resolve": "Cost",
+  "effect": "Pick 2 targets and a Near enemy who picks which target you stun. Failure to pick stuns both.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

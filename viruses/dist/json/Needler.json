@@ -1,0 +1,37 @@
+{
+  "kind": "Needler",
+  "desc": "Needlers are robotic Viruses that scoot around on four suction-cupped legs, skittering up walls and across ceilings.",
+  "element": "Needles",
+  "category": "Artillery",
+  "skills": {
+    "mind": 2,
+    "sense": 2,
+    "info": 0,
+    "coding": 0,
+    "body": 2,
+    "strength": 0,
+    "speed": 2,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 0
+  },
+  "powers": [
+    "Volley",
+    "SuctionCups",
+    null,
+    null
+  ],
+  "tags": [
+    "Inanimate"
+  ],
+  "hp": "4",
+  "drops": [
+    "NeedleCannon",
+    null
+  ],
+  "first_publication": "Core",
+  "art": "",
+  "artist": ""
+}

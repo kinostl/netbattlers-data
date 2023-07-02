@@ -1,0 +1,9 @@
+{
+  "kind": "Trojan",
+  "skill": "Coding",
+  "resolve": "Cost",
+  "effect": "Message a Near Navi’s PET with a link. If they open it, it makes a secret backdoor.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mystic Lilies"
+}

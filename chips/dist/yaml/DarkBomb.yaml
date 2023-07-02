@@ -1,0 +1,10 @@
+kind: DarkBomb
+dmg: 2
+range: Near
+effect: Claw bomb digs in! Explodes for 6 dmg after they roll 3 times. Hard Strength
+  to rip out.
+category: Thrown
+tags:
+  - Dark
+  - Piercing
+first_publication: DarkChips

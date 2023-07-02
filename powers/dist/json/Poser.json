@@ -1,0 +1,9 @@
+{
+  "kind": "Poser",
+  "skill": "Affinity",
+  "resolve": "Roll",
+  "effect": "Pose, downshifting all Near allies’ next Soul roll.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

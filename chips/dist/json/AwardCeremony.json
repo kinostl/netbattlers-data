@@ -1,0 +1,12 @@
+{
+  "kind": "AwardCeremony",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "On your next opposed roll, the loser has a huge 2-dmg silver trophy fall from the sky atop them.",
+  "category": "Summon",
+  "tags": [
+    "Guard",
+    "Simple"
+  ],
+  "first_publication": "Mudslurp"
+}

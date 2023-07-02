@@ -1,0 +1,7 @@
+kind: BumperCrop
+skill: Affinity
+resolve: Roll
+effect: Change a Near target’s element to yours for X rolls. X = hits rolled.
+eb: 0
+sort: Virus Power
+first_publication: Core

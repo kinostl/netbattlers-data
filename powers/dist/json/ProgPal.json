@@ -1,0 +1,9 @@
+{
+  "kind": "ProgPal",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "Get a token when you befriend a Prog. Spend a token to reroll your dice.",
+  "eb": 2,
+  "sort": "NCP",
+  "first_publication": "ChitChat"
+}

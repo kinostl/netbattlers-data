@@ -1,0 +1,37 @@
+{
+  "kind": "Spader",
+  "desc": "A black-armored ranger with spade-tipped arrows. Its glowing eyes shine from within its helm, examining enemy attacks.",
+  "element": "Cards",
+  "category": "Artillery",
+  "skills": {
+    "mind": 2,
+    "sense": 2,
+    "info": 3,
+    "coding": 0,
+    "body": 2,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 3,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 0
+  },
+  "powers": [
+    "Tracker",
+    "Foresight",
+    "SpadeCurse",
+    null
+  ],
+  "tags": [
+    "None"
+  ],
+  "hp": "5",
+  "drops": [
+    "AceOfSpades",
+    null
+  ],
+  "first_publication": "Mystic Lilies",
+  "art": "",
+  "artist": ""
+}

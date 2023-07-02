@@ -1,0 +1,11 @@
+{
+  "kind": "TheLovers",
+  "dmg": 0,
+  "range": "Close",
+  "effect": "Rose garden! Everyone within can only deal dmg with scornful Charm/Bravery rolls. Wilts in a minute.",
+  "category": "Hazard",
+  "tags": [
+    "Dangerous"
+  ],
+  "first_publication": "Tarot"
+}

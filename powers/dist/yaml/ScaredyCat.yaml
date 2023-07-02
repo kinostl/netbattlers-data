@@ -1,0 +1,8 @@
+kind: ScaredyCat
+skill: '-'
+resolve: Passive
+effect: You can spend a hit on any fear-related Bravery roll to spring a range band
+  into the air.
+eb: 0
+sort: Neko
+first_publication: Neko Virus Infection

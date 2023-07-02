@@ -1,0 +1,11 @@
+{
+  "kind": "FireTower",
+  "dmg": 4,
+  "range": "Close",
+  "effect": "Burn out! Spend 1 Stamina to pick 2: doesn’t hurt you; your element is briefly Fire; the fire stays.",
+  "category": "Wave",
+  "tags": [
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

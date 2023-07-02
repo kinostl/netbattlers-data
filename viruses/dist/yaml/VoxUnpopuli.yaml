@@ -1,0 +1,32 @@
+kind: VoxUnpopuli
+desc: The snake-like VoxUnpopuli hides from sight and uses vocal trickery to make
+  Navis “say” embarrassing/confusing/antagonistic things.
+element: Voices
+category: Disruption
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 1
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 1
+  charm: 5
+  bravery: 0
+  affinity: 3
+powers:
+  - Playback
+  - Ventrillo
+  - null
+  - null
+tags:
+  - None
+hp: '2'
+drops:
+  - Pulsar
+  - SnakeCharmer
+first_publication: Core
+art: ''
+artist: ''

@@ -1,0 +1,9 @@
+{
+  "kind": "InfestOmega",
+  "skill": "Affinity",
+  "resolve": "Roll",
+  "effect": "Infest a Close object or Virus, taking control of it. You also heal 2 HP and grow in size.",
+  "eb": 0,
+  "sort": "Omega Virus Power",
+  "first_publication": "Mega Viruses"
+}

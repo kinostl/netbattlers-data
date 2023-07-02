@@ -1,0 +1,9 @@
+kind: PristineBeat
+dmg: 2
+range: Far
+effect: Your voice booms out, clearly heard by everyone within range.
+category: Wave
+tags:
+  - Awkward
+  - Slow
+first_publication: Mystic Lilies

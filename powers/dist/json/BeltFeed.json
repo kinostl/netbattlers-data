@@ -1,0 +1,9 @@
+{
+  "kind": "BeltFeed",
+  "skill": "Coding",
+  "resolve": "Cost",
+  "effect": "Your next attack is (pick 1): Accurate; Piercing; electrified; environment-shattering. [Instant]",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

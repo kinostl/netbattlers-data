@@ -1,0 +1,10 @@
+kind: ClawEnforcement
+dmg: 5
+range: Close
+effect: Instantly shred the next thing that touches your belly, accidentally or intentionally.
+category: Blade
+tags:
+  - Dark
+  - Guard
+  - Piercing
+first_publication: Neko Virus

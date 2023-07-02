@@ -1,0 +1,32 @@
+kind: Trumpy
+desc: Trumpy Viruses hop about, charge up, and then let loose a fanfare to aid its
+  allies.
+element: Music
+category: Support
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 1
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 3
+  charm: 0
+  bravery: 2
+  affinity: 2
+powers:
+  - Crescendo
+  - Fortissimo
+  - Sforzando
+  - null
+tags:
+  - None
+hp: '3'
+drops:
+  - Fanfare
+  - SweetHeart
+first_publication: Core
+art: https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/trumpy2.png
+artist: GSK Bladez

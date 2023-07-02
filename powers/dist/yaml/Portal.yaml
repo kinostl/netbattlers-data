@@ -1,0 +1,7 @@
+kind: Portal
+skill: Firewall
+resolve: Upgrade
+effect: The user and allies can warp between Near Firewalls by entering them.
+eb: 2
+sort: NPU
+first_publication: Navi Power Upgrades

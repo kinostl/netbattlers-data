@@ -1,0 +1,9 @@
+{
+  "kind": "Lovebug",
+  "skill": "Affinity",
+  "resolve": "Cost",
+  "effect": "Pick a Near ally; give them up to 4 of your HP and downshift their next roll. [Instant]",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

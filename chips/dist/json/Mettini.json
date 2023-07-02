@@ -1,0 +1,12 @@
+{
+  "kind": "Mettini",
+  "dmg": 0,
+  "range": "Close",
+  "effect": "Dry cocktail served in a yellow helmet. After you drink it, you can speak with Viruses for 5 rolls.",
+  "category": "Summon",
+  "tags": [
+    "Awkward",
+    "Slow"
+  ],
+  "first_publication": "Silicon Skin"
+}

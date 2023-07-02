@@ -1,0 +1,8 @@
+kind: DanseMacabre
+skill: Affinity
+resolve: Roll
+effect: Dance with any Close targets. They will explode on deletion, spreading their
+  element.
+eb: 0
+sort: Virus Power
+first_publication: Mega Viruses

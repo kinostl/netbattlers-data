@@ -1,0 +1,12 @@
+{
+  "kind": "ToadMelody",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Pick 2: stuns targets; next Charm roll has more range; your next water-related attack is Piercing.",
+  "category": "Wave",
+  "tags": [
+    "Awkward",
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

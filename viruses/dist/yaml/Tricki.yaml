@@ -1,0 +1,32 @@
+kind: Tricki
+desc: A short, impish-looking Virus with a crystalline body, Trickis make deceptive
+  doubles of their allies.
+element: Illusions
+category: Support
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 3
+  body: 1
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 2
+  charm: 0
+  bravery: 0
+  affinity: 2
+powers:
+  - Shift
+  - Twin
+  - null
+  - null
+tags:
+  - None
+hp: '3'
+drops:
+  - Decoy
+  - GeminiTwin
+first_publication: Core
+art: ''
+artist: ''

@@ -1,0 +1,9 @@
+kind: WaterShield
+dmg: 0
+range: '-'
+effect: 'Pick 1: block a non-electric/blade attack; downshift underwater Speed rolls
+  until you are hit.'
+category: Support
+tags:
+  - Guard
+first_publication: Radical Spin

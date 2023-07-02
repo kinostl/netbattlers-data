@@ -1,0 +1,11 @@
+{
+  "kind": "Katana",
+  "dmg": 2,
+  "range": "Close",
+  "effect": "Double-slice! If you win a parry with this, the target cannot use chips until they roll 3 times.",
+  "category": "Blade",
+  "tags": [
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,10 @@
+kind: SteelHeart
+dmg: 0
+range: '-'
+effect: Suppress all emotion (e.g. fear, temptation) for 5 rolls. Can’t use Charm,
+  Bravery, or Bonds.
+category: Support
+tags:
+  - Guard
+  - Simple
+first_publication: Silicon Skin

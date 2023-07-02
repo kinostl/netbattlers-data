@@ -1,0 +1,11 @@
+{
+  "kind": "LavaSeed",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Throws a large seed that spreads gushing lava over everything around the target.",
+  "category": "Hazard",
+  "tags": [
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

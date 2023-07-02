@@ -1,0 +1,9 @@
+{
+  "kind": "Harmless",
+  "skill": "Charm",
+  "resolve": "Roll",
+  "effect": "Avert hostile attention from yourself.",
+  "eb": 0,
+  "sort": "Power",
+  "first_publication": "Core"
+}

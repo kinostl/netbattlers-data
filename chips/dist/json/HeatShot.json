@@ -1,0 +1,11 @@
+{
+  "kind": "HeatShot",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Creates an explosion of flame around the target.",
+  "category": "Shot",
+  "tags": [
+    "None"
+  ],
+  "first_publication": "Core"
+}

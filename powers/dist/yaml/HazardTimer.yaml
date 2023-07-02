@@ -1,0 +1,7 @@
+kind: HazardTimer
+skill: '-'
+resolve: '-'
+effect: When using a Hazard chip, you can make it appear on a delay. Max 10 minutes.
+eb: 1
+sort: NCP
+first_publication: Core

@@ -1,0 +1,11 @@
+kind: LifeAura
+dmg: 0
+range: '-'
+effect: A shadowy orb protects the user from all attacks under 5 damage. All Near
+  noise is muted.
+category: Support
+tags:
+  - Dark
+  - Guard
+  - Dangerous
+first_publication: DarkChips

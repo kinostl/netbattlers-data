@@ -1,0 +1,9 @@
+kind: Sword
+dmg: 2
+range: Close
+effect: Slash with a bright, razor-sharp blade. It lights up Near surroundings for
+  a few seconds.
+category: Blade
+tags:
+  - Piercing
+first_publication: Core

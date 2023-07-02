@@ -1,0 +1,9 @@
+{
+  "kind": "IronCurtain",
+  "skill": "Affinity",
+  "resolve": "Cost",
+  "effect": "Turn all Near summoned element into your element.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

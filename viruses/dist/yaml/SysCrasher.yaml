@@ -1,0 +1,32 @@
+kind: SysCrasher
+desc: The SysCrasher Virus looks like a hulking, glitchy mass, with 3 yellow eyes
+  and skin like static. It uses voids to tear servers apart.
+element: Black Holes
+category: Artillery
+skills:
+  mind: 5
+  sense: 0
+  info: 0
+  coding: 0
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 2
+  soul: 2
+  charm: 0
+  bravery: 4
+  affinity: 3
+powers:
+  - Splash
+  - StaticVoid
+  - VoidBurst
+  - null
+tags:
+  - Mega
+hp: '6'
+drops:
+  - AirBomb
+  - XX-Judgement
+first_publication: Mega Viruses
+art: ''
+artist: ''

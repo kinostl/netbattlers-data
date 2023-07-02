@@ -1,0 +1,11 @@
+{
+  "kind": "SwapRing",
+  "dmg": 1,
+  "range": "Near",
+  "effect": "A glowing, magic ring! Instantly swaps your position with the target.",
+  "category": "Thrown",
+  "tags": [
+    "None"
+  ],
+  "first_publication": "Core"
+}

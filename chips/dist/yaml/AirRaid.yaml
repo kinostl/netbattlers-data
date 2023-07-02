@@ -1,0 +1,9 @@
+kind: AirRaid
+dmg: 0
+range: Near
+effect: A little fighter plane fires on enemies, adding +1 die to your attack rolls.
+  Can be destroyed.
+category: Summon
+tags:
+  - None
+first_publication: Core

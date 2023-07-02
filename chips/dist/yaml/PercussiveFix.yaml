@@ -1,0 +1,9 @@
+kind: PercussiveFix
+dmg: 2
+range: Close
+effect: Slam with a toolkit! Can also be used to fix a virtual computer or piece of
+  machinery.
+category: Impact
+tags:
+  - Slow
+first_publication: Core

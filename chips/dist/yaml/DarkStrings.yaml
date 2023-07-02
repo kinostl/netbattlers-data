@@ -1,0 +1,10 @@
+kind: DarkStrings
+dmg: 2
+range: Near
+effect: Dark marionette strings! You completely control the target for 3 rolls. They
+  feel everything.
+category: Thrown
+tags:
+  - Dark
+  - Slow
+first_publication: DarkChips

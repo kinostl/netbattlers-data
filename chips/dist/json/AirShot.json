@@ -1,0 +1,11 @@
+{
+  "kind": "AirShot",
+  "dmg": 1,
+  "range": "Near",
+  "effect": "Pushes the target back one range band.",
+  "category": "Shot",
+  "tags": [
+    "None"
+  ],
+  "first_publication": "Core"
+}

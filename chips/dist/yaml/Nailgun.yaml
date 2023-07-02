@@ -1,0 +1,9 @@
+kind: Nailgun
+dmg: 3
+range: Near
+effect: Slow-moving nail volley! Downshift defending with Speed. Sticks targets to
+  Close surfaces.
+category: Shot
+tags:
+  - Slow
+first_publication: Summer Camp

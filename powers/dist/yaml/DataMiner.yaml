@@ -1,0 +1,7 @@
+kind: DataMiner
+skill: Coding
+resolve: Roll
+effect: Break a Close object, stealing data held within.
+eb: 0
+sort: Virus Power
+first_publication: Core

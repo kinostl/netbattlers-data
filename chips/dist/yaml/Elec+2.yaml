@@ -1,0 +1,9 @@
+kind: Elec+2
+dmg: 0
+range: '-'
+effect: Your next 2 rolls/chips are supercharged! They give off bright light and briefly
+  stun wet targets.
+category: Support
+tags:
+  - Simple
+first_publication: Advanced Support Pack

@@ -1,0 +1,8 @@
+kind: BreakCharge
+skill: Strength
+resolve: Cost
+effect: Your next attack roll ignores Guards and upshifts the target’s next 4 Body
+  rolls. [Instant]
+eb: 0
+sort: Power
+first_publication: Core

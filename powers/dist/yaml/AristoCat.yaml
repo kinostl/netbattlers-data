@@ -1,0 +1,8 @@
+kind: AristoCat
+skill: '-'
+resolve: Passive
+effect: Every time you give someone a Daemon Bond level with the Neko Virus, gain
+  1000z.
+eb: 0
+sort: Neko
+first_publication: Neko Virus Infection

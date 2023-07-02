@@ -1,0 +1,7 @@
+kind: Pathfind
+skill: Sneakrun
+resolve: Upgrade
+effect: SneakRun can affect others too as long as they stay Close to you.
+eb: 1
+sort: NPU
+first_publication: Navi Power Upgrades

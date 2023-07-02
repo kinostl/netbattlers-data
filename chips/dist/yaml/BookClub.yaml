@@ -1,0 +1,9 @@
+kind: BookClub
+dmg: 0
+range: Near
+effect: All allies get a book about their element! Books can downshift 1 Info roll
+  if it’s relevant.
+category: Summon
+tags:
+  - None
+first_publication: Mudslurp

@@ -1,0 +1,12 @@
+{
+  "kind": "SludgeSeed",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Toss a seed that spreads black sludge! The sludge is smelly, viscous, and flammable.",
+  "category": "Hazard",
+  "tags": [
+    "Awkward",
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

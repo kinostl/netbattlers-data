@@ -1,0 +1,7 @@
+kind: Jumpscare
+skill: '-'
+resolve: Passive
+effect: When you are attacked, move Close to the attacker.
+eb: 0
+sort: Virus Power
+first_publication: Core

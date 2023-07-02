@@ -1,0 +1,9 @@
+kind: Glitterbomb
+dmg: 0
+range: Near
+effect: Covers everything in a cloud of glitter. Traces will always remain on anything
+  it hits.
+category: Wave
+tags:
+  - Dangerous
+first_publication: Cast the Dice

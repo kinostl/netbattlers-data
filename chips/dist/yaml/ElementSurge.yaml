@@ -1,0 +1,9 @@
+kind: ElementSurge
+dmg: 0
+range: Near
+effect: Your element devastates all Near enemies! X=2x[Navi Affinity]. You also take
+  X damage.
+category: Wave
+tags:
+  - Mega
+first_publication: Core

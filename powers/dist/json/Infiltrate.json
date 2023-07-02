@@ -1,0 +1,9 @@
+{
+  "kind": "Infiltrate",
+  "skill": "Shatter",
+  "resolve": "Upgrade",
+  "effect": "Shatter can be silent if you have a few moments of uninterrupted preparation.",
+  "eb": 1,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

@@ -1,0 +1,7 @@
+kind: RefreshIndie
+skill: Info
+resolve: Cost
+effect: Increase your Folder size by 2 until rest. [Instant]
+eb: 0
+sort: IndiePower
+first_publication: Core

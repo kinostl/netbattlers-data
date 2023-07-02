@@ -1,0 +1,9 @@
+{
+  "kind": "Redecorate",
+  "skill": "Affinity",
+  "resolve": "Roll",
+  "effect": "Modify your room’s contents. Complex objects have tells to hint at the room’s nature.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "FlowerBurst",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Magical petals! When affected targets fail social Charm/Bravery rolls, you dictate what they say.",
+  "category": "Wave",
+  "tags": [
+    "None"
+  ],
+  "first_publication": "Mystic Lilies"
+}

@@ -1,0 +1,9 @@
+kind: SandWorm
+dmg: 2
+range: Near
+effect: Tunnel through the ground and burst out under the target into Close range.
+category: Rush
+tags:
+  - Accurate
+  - Awkward
+first_publication: Core

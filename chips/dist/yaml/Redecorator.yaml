@@ -1,0 +1,9 @@
+kind: Redecorator
+dmg: 0
+range: Near
+effect: Every player names a simple piece of household furniture/decor that appears
+  around you.
+category: Summon
+tags:
+  - None
+first_publication: ChitChat

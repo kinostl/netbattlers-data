@@ -1,0 +1,7 @@
+kind: WaveMod
+skill: Shockwave
+resolve: Upgrade
+effect: Spend 1 Wave chip to give Shockwave its properties for X+1 rolls. X=chip dmg.
+eb: 2
+sort: NPU
+first_publication: Navi Power Upgrades

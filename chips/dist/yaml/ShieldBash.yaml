@@ -1,0 +1,10 @@
+kind: ShieldBash
+dmg: 1
+range: Close
+effect: Slam your opponent with a big shield! If you have a Guard active, deal +2
+  dmg.
+category: Impact
+tags:
+  - Piercing
+  - Awkward
+first_publication: Summer Camp

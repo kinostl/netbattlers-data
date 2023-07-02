@@ -1,0 +1,8 @@
+kind: Sorry
+skill: '-'
+resolve: Passive
+effect: On deletion, you only drop an apology letter. Other drops only come from signal
+  nodes.
+eb: 0
+sort: Virus Power
+first_publication: Mega Viruses

@@ -1,0 +1,11 @@
+{
+  "kind": "StickyStick",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Tosses a 10-foot pole. Sticks to whatever it hits; difficult to break.",
+  "category": "Thrown",
+  "tags": [
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

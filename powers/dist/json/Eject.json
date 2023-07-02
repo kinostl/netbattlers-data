@@ -1,0 +1,9 @@
+{
+  "kind": "Eject",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Whenever you take damage, instantly teleport up to one range band.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

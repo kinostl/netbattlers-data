@@ -1,0 +1,32 @@
+kind: Flicker
+desc: Flicker Viruses look like geometric rainbow birds. They flit about, launch storms
+  of feathers, and manipulate their songs to mimic voices.
+element: Birds
+category: Artillery
+skills:
+  mind: 1
+  sense: 4
+  info: 0
+  coding: 0
+  body: 1
+  strength: 0
+  speed: 4
+  stamina: 0
+  soul: 1
+  charm: 4
+  bravery: 0
+  affinity: 0
+powers:
+  - Afterimages
+  - Playback
+  - Eject
+  - null
+tags:
+  - Flying
+hp: '2'
+drops:
+  - QuickRound
+  - Reflex
+first_publication: Core
+art: ''
+artist: ''

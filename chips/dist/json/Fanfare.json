@@ -1,0 +1,11 @@
+{
+  "kind": "Fanfare",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Sing loudly to grant an ally a Guard; they are invincible for their next roll.",
+  "category": "Support",
+  "tags": [
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,9 @@
+kind: V-TheHierophant
+dmg: 0
+range: Close
+effect: 'For 2 rolls, targets (pick 2): set their element to yours; set their Mind
+  to yours; cannot use chips.'
+category: Wave
+tags:
+  - Awkward
+first_publication: Tarot

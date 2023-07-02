@@ -1,0 +1,32 @@
+kind: Catack
+desc: Catack Viruses ride around in tiny tanks, firing their devastating cannons at
+  whatever gets in their sights.
+element: Explosions
+category: Artillery
+skills:
+  mind: 1
+  sense: 3
+  info: 0
+  coding: 0
+  body: 1
+  strength: 0
+  speed: 0
+  stamina: 3
+  soul: 1
+  charm: 0
+  bravery: 0
+  affinity: 0
+powers:
+  - Splash
+  - GravArmor
+  - Collateral
+  - null
+tags:
+  - None
+hp: '4'
+drops:
+  - ShotGun
+  - TankCannon
+first_publication: Core
+art: ''
+artist: ''

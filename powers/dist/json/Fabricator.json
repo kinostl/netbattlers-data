@@ -1,0 +1,9 @@
+{
+  "kind": "Fabricator",
+  "skill": "ModelEdit",
+  "resolve": "Upgrade",
+  "effect": "ModelEdit can be used as a Roll Power. Major changes require a minute of focus.",
+  "eb": 3,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

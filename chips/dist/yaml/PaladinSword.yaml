@@ -1,0 +1,9 @@
+kind: PaladinSword
+dmg: 2
+range: Close
+effect: Can instead be used to defend a Close ally, reducing the damage to them by
+  2.
+category: Blade
+tags:
+  - None
+first_publication: Core

@@ -1,0 +1,12 @@
+{
+  "kind": "RollArrow",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Spend 1 Charm to knock the alphabetically first Support chip from target’s Folder.",
+  "category": "Shot",
+  "tags": [
+    "Piercing",
+    "Slow"
+  ],
+  "first_publication": "Summer Camp"
+}

@@ -1,0 +1,7 @@
+kind: AnalyzeNCP
+skill: Info
+resolve: Roll
+effect: 'Learn 1 per hit: the target’s stats+skills, Folder, Powers, NCPs, and element.'
+eb: 3
+sort: PowerNCP
+first_publication: Core

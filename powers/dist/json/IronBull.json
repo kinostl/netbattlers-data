@@ -1,0 +1,9 @@
+{
+  "kind": "IronBull",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Add the stats, skills, and powers of trapped targets to your own.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

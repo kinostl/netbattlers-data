@@ -1,0 +1,11 @@
+{
+  "kind": "TheStar",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Fire a shining beam of hope! X=HP missing, max 4. Can’t reduce the target’s HP below 1.",
+  "category": "Shot",
+  "tags": [
+    "Awkward"
+  ],
+  "first_publication": "Tarot"
+}

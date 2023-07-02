@@ -1,0 +1,8 @@
+kind: Predictor
+skill: Info
+resolve: Roll
+effect: You can defend against an attack with Info if you’ve seen this enemy use it
+  before.
+eb: 0
+sort: Virus Power
+first_publication: Core

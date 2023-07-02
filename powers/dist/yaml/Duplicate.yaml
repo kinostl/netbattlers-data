@@ -1,0 +1,8 @@
+kind: Duplicate
+skill: '-'
+resolve: Passive
+effect: After taking damage, halve your HP (round up) and spawn a copy of yourself
+  Near.
+eb: 0
+sort: Virus Power
+first_publication: Mega Viruses

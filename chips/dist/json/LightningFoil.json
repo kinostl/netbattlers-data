@@ -1,0 +1,11 @@
+{
+  "kind": "LightningFoil",
+  "dmg": 1,
+  "range": "Close",
+  "effect": "An electric disarming swipe removes the first alphabetic BattleChip in the target’s Folder.",
+  "category": "Blade",
+  "tags": [
+    "Accurate"
+  ],
+  "first_publication": "Core"
+}

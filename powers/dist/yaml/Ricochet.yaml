@@ -1,0 +1,7 @@
+kind: Ricochet
+skill: Volley
+resolve: Upgrade
+effect: Can instead spend 1 Sense to reroll an attack you just made.
+eb: 1
+sort: NPU
+first_publication: Navi Power Upgrades

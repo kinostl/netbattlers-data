@@ -1,0 +1,9 @@
+{
+  "kind": "BlinkStep",
+  "skill": "Speed",
+  "resolve": "Roll",
+  "effect": "Move up to a range band silently and almost instantly, as if moving in fast-motion.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "The Walls Will Swallow You"
+}

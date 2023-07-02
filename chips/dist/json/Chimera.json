@@ -1,0 +1,11 @@
+{
+  "kind": "Chimera",
+  "dmg": 0,
+  "range": "-",
+  "effect": "Swap the value of two stats or two skills. Your appearance also shifts. Expires after 3 rolls.",
+  "category": "Support",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Mystic Lilies"
+}

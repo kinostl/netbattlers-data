@@ -1,0 +1,11 @@
+{
+  "kind": "MudWave",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Creates a wide mudslide. Everyone who gets hit upshifts their next Speed roll.",
+  "category": "Wave",
+  "tags": [
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

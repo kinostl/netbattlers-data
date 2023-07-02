@@ -1,0 +1,9 @@
+{
+  "kind": "Simulacrum",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "When you are targeted with a power or chip, you can use it three times.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

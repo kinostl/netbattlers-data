@@ -1,0 +1,12 @@
+kind: ForbiddenRitual
+dmg: 0
+range: Close
+effect: Resurrect a Navi. Needs a powerful server; it is destroyed soon after. They
+  will not be the same.
+category: Support
+tags:
+  - Incident
+  - Awkward
+  - Dangerous
+  - Slow
+first_publication: Mystic Lilies

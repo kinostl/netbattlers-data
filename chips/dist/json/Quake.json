@@ -1,0 +1,12 @@
+{
+  "kind": "Quake",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Leap into the air and slams down in Close range, staggering anyone Close to your landing.",
+  "category": "Rush",
+  "tags": [
+    "Piercing",
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

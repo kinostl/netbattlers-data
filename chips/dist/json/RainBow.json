@@ -1,0 +1,13 @@
+{
+  "kind": "RainBow",
+  "dmg": 3,
+  "range": "Near",
+  "effect": "Magical arrow! Before firing, you dramatically draw in all the colors. Briefly blinds on hit.",
+  "category": "Shot",
+  "tags": [
+    "Piercing",
+    "Awkward",
+    "Slow"
+  ],
+  "first_publication": "Summer Camp"
+}

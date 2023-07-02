@@ -1,0 +1,11 @@
+{
+  "kind": "Recharger",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Dash into Close range. If this deletes the target, clear 1 point of stat/skill reduction you have.",
+  "category": "Rush",
+  "tags": [
+    "None"
+  ],
+  "first_publication": "Core"
+}

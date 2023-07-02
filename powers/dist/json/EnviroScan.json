@@ -1,0 +1,9 @@
+{
+  "kind": "EnviroScan",
+  "skill": "Tracker",
+  "resolve": "Upgrade",
+  "effect": "Tracker finds vulnerable, hidden, or inconsistent parts of the environment.",
+  "eb": 2,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

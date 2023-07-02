@@ -1,0 +1,9 @@
+{
+  "kind": "Spoof",
+  "skill": "Coding",
+  "resolve": "Roll",
+  "effect": "Change any number’s appearance (no actual effect); like Navi HP, dice pool size, etc.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

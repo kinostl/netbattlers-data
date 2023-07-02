@@ -1,0 +1,12 @@
+{
+  "kind": "II-HighPriestess",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Next time an enemy targets you with a Mind roll, briefly go invisible and move a range band.",
+  "category": "Rush",
+  "tags": [
+    "Guard",
+    "Slow"
+  ],
+  "first_publication": "Tarot"
+}

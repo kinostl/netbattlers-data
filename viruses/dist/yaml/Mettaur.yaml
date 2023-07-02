@@ -1,0 +1,32 @@
+kind: Mettaur
+desc: Small and stout, Mettaurs mine data and Zenny with their pickaxes and hide under
+  their helmets at the first sign of danger.
+element: Mining
+category: Wrecker
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 3
+  body: 2
+  strength: 1
+  speed: 0
+  stamina: 0
+  soul: 1
+  charm: 4
+  bravery: 0
+  affinity: 0
+powers:
+  - Shockwave
+  - Harmless
+  - DataMiner
+  - null
+tags:
+  - None
+hp: '2'
+drops:
+  - GuardShield
+  - SonicWave
+first_publication: Core
+art: https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/mettaur1.png
+artist: GSK Bladez

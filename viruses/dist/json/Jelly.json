@@ -1,0 +1,37 @@
+{
+  "kind": "Jelly",
+  "desc": "A big, rippling jellyfish that manipulates water, mud, lava, or whatever liquid is nearby.",
+  "element": "Water",
+  "category": "Wrecker",
+  "skills": {
+    "mind": 2,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 1,
+    "strength": 0,
+    "speed": 3,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 3
+  },
+  "powers": [
+    "FlowState",
+    "Gush",
+    "Waveform",
+    null
+  ],
+  "tags": [
+    "None"
+  ],
+  "hp": "5",
+  "drops": [
+    "MudWave",
+    "TidalWave"
+  ],
+  "first_publication": "Core",
+  "art": "https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/jelly.png",
+  "artist": "GSK Bladez"
+}

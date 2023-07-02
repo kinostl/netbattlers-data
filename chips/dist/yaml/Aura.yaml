@@ -1,0 +1,10 @@
+kind: Aura
+dmg: 0
+range: '-'
+effect: Attacks that would deal <4 damage do not affect you. Lasts 10 rolls or until
+  you take damage.
+category: Support
+tags:
+  - Mega
+  - Guard
+first_publication: Core

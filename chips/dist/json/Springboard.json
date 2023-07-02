@@ -1,0 +1,11 @@
+{
+  "kind": "Springboard",
+  "dmg": 0,
+  "range": "Close",
+  "effect": "An easily-concealable springboard launches targets a range band when stepped on.",
+  "category": "Hazard",
+  "tags": [
+    "None"
+  ],
+  "first_publication": "Core"
+}

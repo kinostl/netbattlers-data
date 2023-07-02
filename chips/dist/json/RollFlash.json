@@ -1,0 +1,11 @@
+{
+  "kind": "RollFlash",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Warp Close to the target and whip them! Spend 1 Charm: Heal a Near ally 2 HP.",
+  "category": "Rush",
+  "tags": [
+    "None"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,8 @@
+kind: Silence
+dmg: 0
+range: Near
+effect: Summons a musical program that silences all Near sound until it’s broken.
+category: Summon
+tags:
+  - None
+first_publication: Core

@@ -1,0 +1,7 @@
+kind: Transmission
+skill: Warp
+resolve: Upgrade
+effect: You can use Warp on a Close ally or object instead.
+eb: 2
+sort: NPU
+first_publication: Navi Power Upgrades

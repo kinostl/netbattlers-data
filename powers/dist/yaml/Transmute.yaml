@@ -1,0 +1,7 @@
+kind: Transmute
+skill: Affinity
+resolve: Cost
+effect: Swap the value of two skills on yourself or any allied Near Virus.
+eb: 0
+sort: Virus Power
+first_publication: Core

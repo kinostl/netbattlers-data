@@ -1,0 +1,8 @@
+kind: NaviRecycle
+dmg: 0
+range: '-'
+effect: Use a copy of the last NaviChip that affected you.
+category: NaviChip
+tags:
+  - Mega
+first_publication: Core

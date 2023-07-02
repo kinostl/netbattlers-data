@@ -1,0 +1,9 @@
+kind: GunDelSol
+dmg: 2
+range: Near
+effect: Fires concentrated sunlight onto targets. +2 damage if the PET is in direct,
+  bright sunlight.
+category: Wave
+tags:
+  - Awkward
+first_publication: Core

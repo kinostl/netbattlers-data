@@ -1,0 +1,7 @@
+kind: Daredevil
+skill: Bodyguard
+resolve: Upgrade
+effect: If you defend by parrying, the cost is refunded.
+eb: 2
+sort: NPU
+first_publication: Navi Power Upgrades

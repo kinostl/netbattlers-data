@@ -1,0 +1,8 @@
+kind: WhirlwindToss
+dmg: 0
+range: Near
+effect: Toss a Close enemy into another enemy! Damage to both = thrown enemy’s Body.
+category: Impact
+tags:
+  - None
+first_publication: Core

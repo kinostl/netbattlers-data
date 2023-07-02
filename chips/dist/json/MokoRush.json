@@ -1,0 +1,11 @@
+{
+  "kind": "MokoRush",
+  "dmg": 2,
+  "range": "Close",
+  "effect": "A cute ram! Pick 2: charge a Near target; ride it a range band; spread fluff around; bleat loudly.",
+  "category": "Summon",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

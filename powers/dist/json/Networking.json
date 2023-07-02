@@ -1,0 +1,9 @@
+{
+  "kind": "Networking",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "When you succeed a Speed roll, all Near allies get +2 dice to their next Speed roll.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

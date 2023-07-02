@@ -1,0 +1,9 @@
+{
+  "kind": "HypnoShot",
+  "skill": "Charm",
+  "resolve": "Cost",
+  "effect": "Your next attack makes the target (pick 1): very sleepy; see illusions; upshift next Mind roll.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mystic Lilies"
+}

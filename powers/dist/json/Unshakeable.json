@@ -1,0 +1,9 @@
+{
+  "kind": "Unshakeable",
+  "skill": "Charm",
+  "resolve": "Cost",
+  "effect": "Ignore damage from the last attack received. [Instant]",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

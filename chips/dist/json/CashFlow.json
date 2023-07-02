@@ -1,0 +1,11 @@
+{
+  "kind": "CashFlow",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "A tidal wave of fake wealth! Spend 200z to make this chip usable again.",
+  "category": "Wave",
+  "tags": [
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,7 @@
+kind: SaveAs
+skill: Save
+resolve: Upgrade
+effect: Save also gives the target control over your element for one roll.
+eb: 1
+sort: NPU
+first_publication: Navi Power Upgrades

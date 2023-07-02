@@ -1,0 +1,37 @@
+{
+  "kind": "PopUp",
+  "desc": "A visually and physically obstructive Virus that tries to steal your attention. Pay some Zenny and it leaves you alone... for now.",
+  "element": "Advertisements",
+  "category": "Support",
+  "skills": {
+    "mind": 2,
+    "sense": 0,
+    "info": 2,
+    "coding": 0,
+    "body": 1,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 2,
+    "charm": 3,
+    "bravery": 3,
+    "affinity": 0
+  },
+  "powers": [
+    "Bodyguard",
+    "Unshakeable",
+    "Toll",
+    null
+  ],
+  "tags": [
+    "Hovering;Inanimate"
+  ],
+  "hp": "1",
+  "drops": [
+    "TimeCancel",
+    null
+  ],
+  "first_publication": "Core",
+  "art": "https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/popup.png",
+  "artist": "Roselii49"
+}

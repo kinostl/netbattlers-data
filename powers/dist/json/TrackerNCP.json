@@ -1,0 +1,9 @@
+{
+  "kind": "TrackerNCP",
+  "skill": "Sense",
+  "resolve": "Roll",
+  "effect": "Find and identify hidden trails and footprints.",
+  "eb": 3,
+  "sort": "PowerNCP",
+  "first_publication": "Core"
+}

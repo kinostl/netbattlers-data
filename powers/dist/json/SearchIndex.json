@@ -1,0 +1,9 @@
+{
+  "kind": "SearchIndex",
+  "skill": "MemoryScan",
+  "resolve": "Upgrade",
+  "effect": "You can find distant memories if you give a specific date/time.",
+  "eb": 2,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

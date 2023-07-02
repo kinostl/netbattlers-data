@@ -1,0 +1,7 @@
+kind: Aftertaste
+skill: '-'
+resolve: Passive
+effect: On deletion, burst into a cloud of your element.
+eb: 0
+sort: Virus Power
+first_publication: Core

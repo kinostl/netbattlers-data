@@ -1,0 +1,7 @@
+kind: Hardcore
+skill: '-'
+resolve: Passive
+effect: Can use a Cost Power right after being deleted.
+eb: 0
+sort: Virus Power
+first_publication: Core

@@ -1,0 +1,32 @@
+kind: Hopper
+desc: A small frog Virus in a huge shoe, Hoppers arc through the air and stomp on
+  enemy heads with a loud ribbit.
+element: Bubbles
+category: Striker
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 2
+  strength: 0
+  speed: 2
+  stamina: 0
+  soul: 2
+  charm: 3
+  bravery: 0
+  affinity: 0
+powers:
+  - LeapFrog
+  - null
+  - null
+  - null
+tags:
+  - None
+hp: '3'
+drops:
+  - FootStomp
+  - ToadMelody
+first_publication: Core
+art: https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/hopper.png
+artist: Omniluminary

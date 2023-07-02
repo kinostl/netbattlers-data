@@ -1,0 +1,8 @@
+kind: ThemeSong
+skill: '-'
+resolve: '-'
+effect: On your first critical success per jack-in, a celebratory fanfare blares around
+  you.
+eb: 1
+sort: NCP
+first_publication: Core

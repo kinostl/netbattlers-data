@@ -1,0 +1,8 @@
+kind: ParallelPort
+skill: '-'
+resolve: '-'
+effect: When a Cost Power boosts your next attack, you can give that effect to an
+  ally instead.
+eb: 3
+sort: NCP
+first_publication: Core

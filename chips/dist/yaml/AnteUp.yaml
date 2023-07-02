@@ -1,0 +1,10 @@
+kind: AnteUp
+dmg: 0
+range: '-'
+effect: The loser of your next opposed roll drops the rolled skill by 2. Refresh this
+  chip if you lose.
+category: Support
+tags:
+  - Guard
+  - Slow
+first_publication: Silicon Skin

@@ -1,0 +1,7 @@
+kind: Backup
+skill: '-'
+resolve: Passive
+effect: When you attack with an ally, add your dice to an ally’s attack.
+eb: 0
+sort: Virus Power
+first_publication: Core

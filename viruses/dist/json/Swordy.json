@@ -1,0 +1,37 @@
+{
+  "kind": "Swordy",
+  "desc": "Knight-like Viruses that slide along the ground, halt foes in their tracks, and dispatch them with dramatic slices.",
+  "element": "Swords",
+  "category": "Striker",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 2,
+    "strength": 2,
+    "speed": 0,
+    "stamina": 2,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 3,
+    "affinity": 0
+  },
+  "powers": [
+    "Glare",
+    "KineticArmor",
+    null,
+    null
+  ],
+  "tags": [
+    "None"
+  ],
+  "hp": "4",
+  "drops": [
+    "AreaGrab",
+    "Sword"
+  ],
+  "first_publication": "Core",
+  "art": "https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/swordy.png",
+  "artist": "GSK Bladez"
+}

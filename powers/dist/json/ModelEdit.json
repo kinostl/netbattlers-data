@@ -1,0 +1,9 @@
+{
+  "kind": "ModelEdit",
+  "skill": "Charm",
+  "resolve": "Cost",
+  "effect": "Look like a Virus or Navi you’ve met (appearance only).",
+  "eb": 0,
+  "sort": "Power",
+  "first_publication": "Core"
+}

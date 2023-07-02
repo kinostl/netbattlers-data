@@ -1,0 +1,9 @@
+{
+  "kind": "Primordial",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "You cannot die from HP loss; dmg pushes you away. Upshift rolls to move range bands.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "The Walls Will Swallow You"
+}

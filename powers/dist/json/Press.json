@@ -1,0 +1,9 @@
+{
+  "kind": "Press",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "You can shrink to 1/10th normal size. Your attacks are upshifted when shrunk.",
+  "eb": 3,
+  "sort": "NCP",
+  "first_publication": "Core"
+}

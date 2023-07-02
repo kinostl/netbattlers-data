@@ -1,0 +1,12 @@
+{
+  "kind": "III-TheEmpress",
+  "dmg": 2,
+  "range": "Close",
+  "effect": "Royal scepter! Spend 1 Charm: If their next attack targets anyone other than you, upshift it.",
+  "category": "Impact",
+  "tags": [
+    "Accurate",
+    "Awkward"
+  ],
+  "first_publication": "Tarot"
+}

@@ -1,0 +1,8 @@
+kind: Interception
+skill: LockOn
+resolve: Upgrade
+effect: LockOn also marks targets; you can parry their direct ranged attacks with
+  your own.
+eb: 3
+sort: NPU
+first_publication: Navi Power Upgrades

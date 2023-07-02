@@ -1,0 +1,11 @@
+{
+  "kind": "Dropdown",
+  "dmg": 0,
+  "range": "-",
+  "effect": "Allows you to reverse your gravity for up to a minute.",
+  "category": "Support",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Core"
+}

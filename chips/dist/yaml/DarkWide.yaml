@@ -1,0 +1,11 @@
+kind: DarkWide
+dmg: 4
+range: Near
+effect: A razor shockwave flies out in all directions, slicing all Near targets. Objects
+  are bisected.
+category: Wave
+tags:
+  - Dark
+  - Accurate
+  - Dangerous
+first_publication: DarkChips

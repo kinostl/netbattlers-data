@@ -1,0 +1,9 @@
+kind: AestheticShuffle
+dmg: 0
+range: '-'
+effect: Your look is now Edgy, Funky, Cute, Soft, or Elegant. Can spend 1 Charm to
+  refresh this chip.
+category: Support
+tags:
+  - Awkward
+first_publication: Radical Spin

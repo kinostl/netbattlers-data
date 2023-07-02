@@ -1,0 +1,7 @@
+kind: Reroute
+skill: HotSwap
+resolve: Upgrade
+effect: You can reduce your Max HP for +EB, 1 HP for 1EB. Can be undone.
+eb: 3
+sort: NPU
+first_publication: Navi Power Upgrades

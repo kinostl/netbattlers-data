@@ -1,0 +1,10 @@
+kind: Grabby
+dmg: 2
+range: Near
+effect: A massive hand pops out of a surface. It grabs the first thing that moves
+  Close to it.
+category: Hazard
+tags:
+  - Piercing
+  - Slow
+first_publication: Core

@@ -1,0 +1,9 @@
+{
+  "kind": "LoveBond",
+  "skill": "Affinity",
+  "resolve": "Cost",
+  "effect": "Link to a Near ally with string. Until it breaks or you link to another, you & ally mirror healing, stat/skill increases, and positive effects (e.g. invisibility).",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

@@ -1,0 +1,7 @@
+kind: IceBlocker
+skill: '-'
+resolve: Passive
+effect: When on your element, double your dice for defense rolls.
+eb: 0
+sort: Virus Power
+first_publication: Core

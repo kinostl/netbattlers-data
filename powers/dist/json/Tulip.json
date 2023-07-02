@@ -1,0 +1,9 @@
+{
+  "kind": "Tulip",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "When enemies in your element fail an Info/Sense roll, say what they recall/perceive.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mystic Lilies"
+}

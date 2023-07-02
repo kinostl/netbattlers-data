@@ -1,0 +1,13 @@
+{
+  "kind": "DimensionalSlice",
+  "dmg": 3,
+  "range": "Near",
+  "effect": "Must spend 1 Coding. If the target is Near, cleave space to warp them Close to you.",
+  "category": "Blade",
+  "tags": [
+    "Piercing",
+    "Dangerous",
+    "Slow"
+  ],
+  "first_publication": "Summer Camp"
+}

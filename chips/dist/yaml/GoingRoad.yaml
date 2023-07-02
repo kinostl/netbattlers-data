@@ -1,0 +1,9 @@
+kind: GoingRoad
+dmg: 0
+range: Near
+effect: Lead the way on a glowing path! The user and all Close allies move a range
+  band together.
+category: Rush
+tags:
+  - None
+first_publication: Core

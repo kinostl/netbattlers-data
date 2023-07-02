@@ -1,0 +1,7 @@
+kind: Stamina+1
+skill: '-'
+resolve: '-'
+effect: Increase your Stamina by 1.
+eb: 2
+sort: BoostNCP
+first_publication: Core

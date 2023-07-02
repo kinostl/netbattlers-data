@@ -1,0 +1,9 @@
+{
+  "kind": "AltNCP",
+  "skill": "Affinity",
+  "resolve": "Roll",
+  "effect": "Consume all of your element to create a minion with one purpose.",
+  "eb": 3,
+  "sort": "PowerNCP",
+  "first_publication": "Core"
+}

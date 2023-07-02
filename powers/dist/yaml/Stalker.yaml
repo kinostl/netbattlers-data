@@ -1,0 +1,7 @@
+kind: Stalker
+skill: '-'
+resolve: Passive
+effect: Once per minute, you can teleport directly behind any Marked target.
+eb: 0
+sort: Virus Power
+first_publication: Mystic Lilies

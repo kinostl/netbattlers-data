@@ -1,0 +1,11 @@
+{
+  "kind": "SkullBarrier",
+  "dmg": 0,
+  "range": "-",
+  "effect": "Pick 1: take -1 damage from the next 3 attacks; downshift your next Bravery roll to intimidate.",
+  "category": "Support",
+  "tags": [
+    "Guard"
+  ],
+  "first_publication": "Core"
+}

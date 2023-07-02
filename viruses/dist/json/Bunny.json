@@ -1,0 +1,37 @@
+{
+  "kind": "Bunny",
+  "desc": "Bunnys are cute Viruses that hop about and fire paralyzing rings from between their ears.",
+  "element": "Electricity",
+  "category": "Disruption",
+  "skills": {
+    "mind": 1,
+    "sense": 2,
+    "info": 0,
+    "coding": 0,
+    "body": 1,
+    "strength": 0,
+    "speed": 3,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 3,
+    "bravery": 0,
+    "affinity": 0
+  },
+  "powers": [
+    "Cutie",
+    "Zapper",
+    null,
+    null
+  ],
+  "tags": [
+    "None"
+  ],
+  "hp": "2",
+  "drops": [
+    "ZapRing",
+    null
+  ],
+  "first_publication": "Core",
+  "art": "",
+  "artist": ""
+}

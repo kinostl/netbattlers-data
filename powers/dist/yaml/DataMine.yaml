@@ -1,0 +1,7 @@
+kind: DataMine
+skill: '-'
+resolve: '-'
+effect: Can turn Thrown chips into mines! They target whoever touches or attacks them.
+eb: 2
+sort: NCP
+first_publication: Core

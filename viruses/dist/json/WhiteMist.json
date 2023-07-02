@@ -1,0 +1,37 @@
+{
+  "kind": "WhiteMist",
+  "desc": "Clouds of miniscule Viruses that infest and assimilate bodies. The telltale sign of infection is in the eyes. Is the host in there somewhere...?",
+  "element": "Disease",
+  "category": "Disruption",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 4,
+    "body": 3,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 4
+  },
+  "powers": [
+    "Parasitosis",
+    "Dysmorphia",
+    "InTheEyes",
+    null
+  ],
+  "tags": [
+    "Mega;Inanimate;Flying"
+  ],
+  "hp": "4",
+  "drops": [
+    "Chimera",
+    "Possession"
+  ],
+  "first_publication": "The Walls Will Swallow You",
+  "art": "",
+  "artist": ""
+}

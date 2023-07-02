@@ -1,0 +1,7 @@
+kind: ReconfigIndie
+skill: Info
+resolve: Cost
+effect: Instantly trade BattleChips with a Near ally. [Instant]
+eb: 0
+sort: IndiePower
+first_publication: Core

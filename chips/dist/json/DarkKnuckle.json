@@ -1,0 +1,12 @@
+{
+  "kind": "DarkKnuckle",
+  "dmg": 4,
+  "range": "Close",
+  "effect": "Steal the target’s element. Add [Daemon Bond]x2 to Affinity when summoning elements.",
+  "category": "Impact",
+  "tags": [
+    "Dark",
+    "Awkward"
+  ],
+  "first_publication": "DarkChips"
+}

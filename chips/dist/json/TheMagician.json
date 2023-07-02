@@ -1,0 +1,13 @@
+{
+  "kind": "TheMagician",
+  "dmg": 3,
+  "range": "Near",
+  "effect": "Arcane magic blast! If this is the first allied attack on the target, ignore the negative tags.",
+  "category": "Shot",
+  "tags": [
+    "Piercing",
+    "Dangerous",
+    "Slow"
+  ],
+  "first_publication": "Tarot"
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "SearchShuffle",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Spend X Sense to swap X BattleChips between your Folder and an ally’s.",
+  "category": "Support",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Advanced Support Pack"
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "Regenerate",
+  "skill": "Stamina",
+  "resolve": "Cost",
+  "effect": "The next 5 times you roll or use a BattleChip, heal 1 HP. (Damage comes first.) [Instant]",
+  "eb": 0,
+  "sort": "Power",
+  "first_publication": "Core"
+}

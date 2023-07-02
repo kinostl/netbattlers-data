@@ -1,0 +1,12 @@
+{
+  "kind": "CurtainFire",
+  "dmg": 3,
+  "range": "Near",
+  "effect": "Fires a dazzling array of bullets. Downshift your first Charm roll with anyone who sees it.",
+  "category": "Shot",
+  "tags": [
+    "Awkward",
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

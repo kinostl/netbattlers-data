@@ -1,0 +1,9 @@
+{
+  "kind": "CatScratchFever",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Whenever you damage someone, they gain a bond level with the Neko Virus.",
+  "eb": 0,
+  "sort": "Neko",
+  "first_publication": "Neko Virus Infection"
+}

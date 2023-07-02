@@ -1,0 +1,9 @@
+kind: GuiltyPleasure
+dmg: 0
+range: Close
+effect: Shimmering unstable energy! Your next Cost Power is free, but your next failure
+  is catastrophic.
+category: Support
+tags:
+  - Simple
+first_publication: Silicon Skin

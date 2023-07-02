@@ -1,0 +1,11 @@
+{
+  "kind": "ChaosSwap",
+  "dmg": 1,
+  "range": "Near",
+  "effect": "Wild magic attacks two targets! If you hit both, swap their elements. Lasts until you roll 3 times.",
+  "category": "Thrown",
+  "tags": [
+    "Piercing"
+  ],
+  "first_publication": "Leximancy"
+}

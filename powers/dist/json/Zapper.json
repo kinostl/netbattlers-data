@@ -1,0 +1,9 @@
+{
+  "kind": "Zapper",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Attacks paralyze for a moment.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

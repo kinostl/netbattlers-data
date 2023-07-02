@@ -1,0 +1,7 @@
+kind: Backtrace
+skill: Firewall
+resolve: Upgrade
+effect: If the door is destroyed, it turns into a Normal hazard and you’re alerted.
+eb: 2
+sort: NPU
+first_publication: Navi Power Upgrades

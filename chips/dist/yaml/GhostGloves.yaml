@@ -1,0 +1,8 @@
+kind: GhostGloves
+dmg: 0
+range: Near
+effect: Floating gloves mimic your hands, even if out of sight. Can’t cause damage.
+category: Summon
+tags:
+  - Awkward
+first_publication: Core

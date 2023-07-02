@@ -1,0 +1,8 @@
+kind: LastHit
+skill: Followthrough
+resolve: Upgrade
+effect: Followthrough is free if it deletes a target. Reset Strength penalties on
+  multi-delete.
+eb: 2
+sort: NPU
+first_publication: Navi Power Upgrades

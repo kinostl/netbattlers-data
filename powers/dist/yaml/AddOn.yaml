@@ -1,0 +1,7 @@
+kind: AddOn
+skill: '-'
+resolve: '-'
+effect: When you deal 2+ damage with a rolled attack, your element covers the target.
+eb: 4
+sort: NCP
+first_publication: Core

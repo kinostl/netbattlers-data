@@ -1,0 +1,9 @@
+{
+  "kind": "Motorize",
+  "skill": "MapEdit",
+  "resolve": "Upgrade",
+  "effect": "Structures can move independently; Easy Coding roll to change the speed.",
+  "eb": 2,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

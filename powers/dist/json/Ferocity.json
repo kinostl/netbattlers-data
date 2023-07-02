@@ -1,0 +1,9 @@
+{
+  "kind": "Ferocity",
+  "skill": "Glare",
+  "resolve": "Upgrade",
+  "effect": "When you successfully Glare a target, you can instantly act upon them.",
+  "eb": 2,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

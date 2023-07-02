@@ -1,0 +1,9 @@
+{
+  "kind": "Tacet",
+  "skill": "Affinity",
+  "resolve": "Roll",
+  "effect": "Plays a melody that blinds Near Navis for 2 rolls.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

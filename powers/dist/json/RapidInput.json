@@ -1,0 +1,9 @@
+{
+  "kind": "RapidInput",
+  "skill": "Volley",
+  "resolve": "Upgrade",
+  "effect": "Volley can also boost any (non-defense) Strength, Coding, or Speed roll.",
+  "eb": 2,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

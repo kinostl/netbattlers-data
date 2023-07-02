@@ -1,0 +1,8 @@
+kind: Serve
+skill: Affinity
+resolve: Roll
+effect: Fire a missile that destroys a Near object, leaving a Normal hazard in its
+  wake.
+eb: 0
+sort: Virus Power
+first_publication: Underground Broadcast

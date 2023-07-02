@@ -1,0 +1,12 @@
+{
+  "kind": "Mine",
+  "dmg": 0,
+  "range": "Close",
+  "effect": "A disc-shaped mine! If something touches it, it detonates for 4 Piercing damage.",
+  "category": "Summon",
+  "tags": [
+    "Dangerous",
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

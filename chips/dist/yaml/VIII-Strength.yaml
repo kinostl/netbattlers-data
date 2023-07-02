@@ -1,0 +1,9 @@
+kind: VIII-Strength
+dmg: 4
+range: Close
+effect: Bite with a vicious lion’s head! Your next 3 rolled/BattleChip attacks deal
+  -1 damage.
+category: Impact
+tags:
+  - None
+first_publication: Tarot

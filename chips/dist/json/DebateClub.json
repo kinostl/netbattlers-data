@@ -1,0 +1,12 @@
+{
+  "kind": "DebateClub",
+  "dmg": 0,
+  "range": "-",
+  "effect": "Can parry a social Charm/Bravery roll with your own. Loser upshifts X Mind rolls; X = victor’s hits.",
+  "category": "Support",
+  "tags": [
+    "Guard",
+    "Simple"
+  ],
+  "first_publication": "Mudslurp"
+}

@@ -1,0 +1,11 @@
+{
+  "kind": "SeekBomb",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "A heat-seeking bomb flies through the air! Can spend 1 Coding to set the range to Far.",
+  "category": "Thrown",
+  "tags": [
+    "Accurate"
+  ],
+  "first_publication": "Core"
+}

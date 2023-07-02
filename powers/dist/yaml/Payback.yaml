@@ -1,0 +1,9 @@
+kind: Payback
+skill: '-'
+resolve: Passive
+effect: 'After your deletion, at some point, consume the Mark with a temporary curse
+  (pick 1): make their highest stat 1; they make a loud, embarrassing noise; change
+  their element to Bad Jokes.'
+eb: 0
+sort: Virus Power
+first_publication: Mystic Lilies

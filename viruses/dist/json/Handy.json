@@ -1,0 +1,37 @@
+{
+  "kind": "Handy",
+  "desc": "Handy Viruses meld into floors, walls, and ceilings, disappearing and reappearing elsewhere with bombs at hand.",
+  "element": "Time Bombs",
+  "category": "Artillery",
+  "skills": {
+    "mind": 2,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 1,
+    "strength": 0,
+    "speed": 3,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 4
+  },
+  "powers": [
+    "Control",
+    "Handout",
+    null,
+    null
+  ],
+  "tags": [
+    "None"
+  ],
+  "hp": "3",
+  "drops": [
+    "Grabby",
+    "TimeBomb"
+  ],
+  "first_publication": "Core",
+  "art": "",
+  "artist": ""
+}

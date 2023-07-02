@@ -1,0 +1,10 @@
+kind: BurnSquare
+dmg: 0
+range: Near
+effect: Put a glowing sigil on a surface. When touched, it blasts all Close with 3-dmg
+  Dangerous flames!
+category: Hazard
+tags:
+  - Awkward
+  - Slow
+first_publication: Core

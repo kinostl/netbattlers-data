@@ -1,0 +1,7 @@
+kind: Chuckster
+skill: '-'
+resolve: Passive
+effect: Cannot attack directly; attacks by launching objects at targets.
+eb: 0
+sort: Virus Power
+first_publication: Core

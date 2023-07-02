@@ -1,0 +1,32 @@
+kind: Slimer
+desc: A cute blob of slime that hides in pools of liquid before hopping out at targets
+  and bodyslamming them.
+element: Liquid
+category: Wrecker
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 0
+  body: 4
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 1
+  charm: 3
+  bravery: 0
+  affinity: 4
+powers:
+  - FlowState
+  - Meld
+  - null
+  - null
+tags:
+  - None
+hp: '2'
+drops:
+  - MetaGel
+  - SludgeSeed
+first_publication: Core
+art: https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/slimey.png
+artist: GSK Bladez

@@ -1,0 +1,7 @@
+kind: Collect
+skill: '-'
+resolve: '-'
+effect: When you download Virus data onto a Blank BattleChip, roll at least 5 dice.
+eb: 2
+sort: NCP
+first_publication: Core

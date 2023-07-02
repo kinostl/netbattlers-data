@@ -1,0 +1,7 @@
+kind: NukeFootball
+skill: Strength
+resolve: Roll
+effect: Roll once to attack a Near target. Also damages everything Close to the target.
+eb: 0
+sort: Virus Power
+first_publication: Core

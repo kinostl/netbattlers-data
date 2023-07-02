@@ -1,0 +1,8 @@
+kind: Discord
+dmg: 1
+range: Near
+effect: All Navis hit have a harsh noise blare from their PET, audible from a distance.
+category: Wave
+tags:
+  - Piercing
+first_publication: Summer Camp

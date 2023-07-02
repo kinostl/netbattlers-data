@@ -1,0 +1,11 @@
+{
+  "kind": "RockArm",
+  "dmg": 3,
+  "range": "Close",
+  "effect": "A hefty boulder plummets! Spend 1 Strength to pick 1: shockwaves a Near target; is Piercing.",
+  "category": "Summon",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,32 @@
+kind: WhiteMistOmega
+desc: Clouds of miniscule Viruses that infest and assimilate bodies. The telltale
+  sign of infection is in the eyes. Is the host in there somewhere...?
+element: Disease
+category: Disruption
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 6
+  body: 4
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 1
+  charm: 0
+  bravery: 0
+  affinity: 4
+powers:
+  - Parasitosis
+  - Dysmorphia
+  - InTheEyes
+  - Plaguebringer
+tags:
+  - Mega;Inanimate;Flying
+hp: '4'
+drops:
+  - VileSeed
+  - null
+first_publication: The Walls Will Swallow You
+art: ''
+artist: ''

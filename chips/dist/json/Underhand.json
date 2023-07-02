@@ -1,0 +1,11 @@
+{
+  "kind": "Underhand",
+  "dmg": 2,
+  "range": "Near",
+  "effect": "Hands rise to thrash grounded targets! Spend 1 Strength to briefly hold targets still.",
+  "category": "Wave",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Summer Camp"
+}

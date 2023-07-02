@@ -1,0 +1,9 @@
+{
+  "kind": "Volley",
+  "skill": "Sense",
+  "resolve": "Cost",
+  "effect": "Reroll your next attack roll twice and take the best outcome. [Instant]",
+  "eb": 0,
+  "sort": "Power",
+  "first_publication": "Core"
+}

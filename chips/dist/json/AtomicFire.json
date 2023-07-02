@@ -1,0 +1,11 @@
+{
+  "kind": "AtomicFire",
+  "dmg": 1,
+  "range": "Near",
+  "effect": "Overheat a chaotic fireball! Sacrifice up to 4 HP to add that much damage.",
+  "category": "Shot",
+  "tags": [
+    "Dangerous"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "Miney",
+  "desc": "Miney Viruses lazily hop about, popping stealthy mines out of their slot-like mouths and laying them at key locations.",
+  "element": "Mines",
+  "category": "Wrecker",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 1,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 3,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 3
+  },
+  "powers": [
+    "Minelayer",
+    null,
+    null,
+    null
+  ],
+  "tags": [
+    "None"
+  ],
+  "hp": "4",
+  "drops": [
+    "Mine",
+    null
+  ],
+  "first_publication": "Core",
+  "art": "",
+  "artist": ""
+}

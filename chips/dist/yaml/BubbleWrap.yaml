@@ -1,0 +1,9 @@
+kind: BubbleWrap
+dmg: 0
+range: '-'
+effect: Bubble shield! +1 die to defense rolls until you take damage. Spend 1 Affinity
+  to refresh.
+category: Support
+tags:
+  - Guard
+first_publication: Advanced Support Pack

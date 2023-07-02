@@ -1,0 +1,37 @@
+{
+  "kind": "JoyRide",
+  "desc": "A happy little Virus that tosses magic teleporting hula-hoops around. Is it just playing...?",
+  "element": "Rings",
+  "category": "Disruption",
+  "skills": {
+    "mind": 1,
+    "sense": 2,
+    "info": 0,
+    "coding": 0,
+    "body": 2,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 0,
+    "soul": 1,
+    "charm": 4,
+    "bravery": 0,
+    "affinity": 4
+  },
+  "powers": [
+    "Shift",
+    "RingOut",
+    null,
+    null
+  ],
+  "tags": [
+    "Hovering"
+  ],
+  "hp": "4",
+  "drops": [
+    "SwapRing",
+    null
+  ],
+  "first_publication": "Core",
+  "art": "https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/joyride.png",
+  "artist": "Roselii49"
+}

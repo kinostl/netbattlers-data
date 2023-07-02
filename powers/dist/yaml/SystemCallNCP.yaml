@@ -1,0 +1,7 @@
+kind: SystemCallNCP
+skill: Bravery
+resolve: Roll
+effect: Convince one or more Near targets to focus their hostile attention on you.
+eb: 3
+sort: PowerNCP
+first_publication: Core

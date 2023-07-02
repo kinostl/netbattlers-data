@@ -1,0 +1,9 @@
+{
+  "kind": "Designer",
+  "skill": "ModelEdit",
+  "resolve": "Upgrade",
+  "effect": "You can apply ModelEdit to a Close target.",
+  "eb": 1,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

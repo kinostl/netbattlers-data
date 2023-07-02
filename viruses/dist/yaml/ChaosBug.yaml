@@ -1,0 +1,32 @@
+kind: ChaosBug
+desc: A strange Virus with a fluid body. It grows stronger as it absorbs Mystery Data.
+  Nobody knows where it comes from.
+element: Water
+category: Striker
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 2
+  body: 3
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 1
+  charm: 0
+  bravery: 0
+  affinity: 3
+powers:
+  - FlowState
+  - Shift
+  - Assimilation
+  - null
+tags:
+  - None
+hp: '4'
+drops:
+  - PerfectChaos
+  - WaterShield
+first_publication: Radical Spin
+art: ''
+artist: ''

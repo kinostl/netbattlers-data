@@ -1,0 +1,37 @@
+{
+  "kind": "LostSol",
+  "desc": "Based on ancient sun gods, the LostSol creates blinding light and scorching fire. Its heat can melt digital worlds and server hardware.",
+  "element": "The Sun",
+  "category": "Wrecker",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 5,
+    "body": 1,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 1,
+    "soul": 4,
+    "charm": 0,
+    "bravery": 3,
+    "affinity": 0
+  },
+  "powers": [
+    "Redshift",
+    "SolarFlare",
+    "Supernova",
+    null
+  ],
+  "tags": [
+    "Mega;Hovering"
+  ],
+  "hp": "10",
+  "drops": [
+    "GunDelSol",
+    "XIX-TheSun"
+  ],
+  "first_publication": "Mega Viruses",
+  "art": "",
+  "artist": ""
+}

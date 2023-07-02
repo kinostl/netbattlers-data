@@ -1,0 +1,9 @@
+{
+  "kind": "ControlNCP",
+  "skill": "Affinity",
+  "resolve": "Roll",
+  "effect": "Make a ranged attack with your element if it is present.",
+  "eb": 3,
+  "sort": "PowerNCP",
+  "first_publication": "Core"
+}

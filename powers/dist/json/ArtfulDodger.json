@@ -1,0 +1,9 @@
+{
+  "kind": "ArtfulDodger",
+  "skill": "Speed",
+  "resolve": "Roll",
+  "effect": "Distract a group of enemies with quick movement.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

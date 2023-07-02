@@ -1,0 +1,9 @@
+{
+  "kind": "Ping",
+  "skill": "Coding",
+  "resolve": "Roll",
+  "effect": "Repeatedly message a Near Navi’s PET, briefly blocking NetOp/Navi interaction.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

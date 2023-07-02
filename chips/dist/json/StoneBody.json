@@ -1,0 +1,11 @@
+{
+  "kind": "StoneBody",
+  "dmg": 0,
+  "range": "-",
+  "effect": "For 5 defense rolls, damage over 1 is reduced to 1, but you’re unable to move range bands.",
+  "category": "Support",
+  "tags": [
+    "Guard"
+  ],
+  "first_publication": "Core"
+}

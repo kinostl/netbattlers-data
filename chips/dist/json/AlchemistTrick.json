@@ -1,0 +1,11 @@
+{
+  "kind": "AlchemistTrick",
+  "dmg": 0,
+  "range": "-",
+  "effect": "On next chip use, change a word of its description to a perfect rhyme. Only affects appearance.",
+  "category": "Support",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Leximancy"
+}

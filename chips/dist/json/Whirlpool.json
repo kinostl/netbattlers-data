@@ -1,0 +1,11 @@
+{
+  "kind": "Whirlpool",
+  "dmg": 0,
+  "range": "Close",
+  "effect": "Summons a vortex to slowly drag targets in.",
+  "category": "Hazard",
+  "tags": [
+    "Slow"
+  ],
+  "first_publication": "Core"
+}

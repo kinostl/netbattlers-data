@@ -1,0 +1,9 @@
+{
+  "kind": "Mind+1",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "Increase your Mind by 1.",
+  "eb": 5,
+  "sort": "BoostNCP",
+  "first_publication": "Core"
+}

@@ -1,0 +1,32 @@
+kind: Lunatic
+desc: A pale white humanoid Virus with rabbit ears and glowing red eyes. Its body
+  shimmers in the moonlight before disappearing from sight.
+element: Moonlight
+category: Artillery
+skills:
+  mind: 3
+  sense: 1
+  info: 0
+  coding: 0
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 2
+  charm: 2
+  bravery: 0
+  affinity: 2
+powers:
+  - HypnoShot
+  - Meld
+  - null
+  - null
+tags:
+  - Hovering
+hp: '3'
+drops:
+  - Moonlight
+  - null
+first_publication: Mystic Lilies
+art: ''
+artist: ''

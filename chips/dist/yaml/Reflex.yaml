@@ -1,0 +1,9 @@
+kind: Reflex
+dmg: 0
+range: '-'
+effect: Act immediately the next time an enemy damages you.
+category: Support
+tags:
+  - Guard
+  - Simple
+first_publication: Core

@@ -1,0 +1,12 @@
+{
+  "kind": "Pulsar",
+  "dmg": 1,
+  "range": "Near",
+  "effect": "Fires a sonic blast that disorients targets, upshifting their next roll on hit.",
+  "category": "Wave",
+  "tags": [
+    "Accurate",
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

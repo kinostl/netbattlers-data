@@ -1,0 +1,9 @@
+{
+  "kind": "Incognito",
+  "skill": "Harmless",
+  "resolve": "Upgrade",
+  "effect": "On a success, targets will not remember your identity if you choose.",
+  "eb": 1,
+  "sort": "NPU",
+  "first_publication": "Navi Power Upgrades"
+}

@@ -1,0 +1,9 @@
+{
+  "kind": "Headstrong",
+  "skill": "Stamina",
+  "resolve": "Cost",
+  "effect": "Downshift defense rolls until your next attack. [Instant]",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

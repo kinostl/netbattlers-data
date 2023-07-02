@@ -1,0 +1,9 @@
+{
+  "kind": "ForbiddenArt",
+  "skill": "Strength",
+  "resolve": "Roll",
+  "effect": "Parry any attack. Loser takes dmg = the total of the winner’s parry attacks. You can’t back out.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

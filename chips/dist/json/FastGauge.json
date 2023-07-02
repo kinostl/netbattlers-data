@@ -1,0 +1,11 @@
+{
+  "kind": "FastGauge",
+  "dmg": 0,
+  "range": "-",
+  "effect": "Can spend X Speed to add X chips from your pack to your Folder, no matter how full it is.",
+  "category": "Support",
+  "tags": [
+    "Simple"
+  ],
+  "first_publication": "Advanced Support Pack"
+}

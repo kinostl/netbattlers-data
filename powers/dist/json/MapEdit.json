@@ -1,0 +1,9 @@
+{
+  "kind": "MapEdit",
+  "skill": "Coding",
+  "resolve": "Cost",
+  "effect": "Generate a Near simple structure that is either hard, large, or hidden.",
+  "eb": 0,
+  "sort": "Power",
+  "first_publication": "Core"
+}

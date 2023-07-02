@@ -1,0 +1,32 @@
+kind: EleOgre
+desc: A massive, floating ogre head that fires bolts of electricity from its horns.
+  It also lays electrified tripwires to snare intruders.
+element: Electricity
+category: Wrecker
+skills:
+  mind: 3
+  sense: 0
+  info: 0
+  coding: 2
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 1
+  soul: 3
+  charm: 0
+  bravery: 0
+  affinity: 0
+powers:
+  - MapEdit
+  - StringBuffer
+  - null
+  - null
+tags:
+  - Hovering
+hp: '5'
+drops:
+  - ElecReel
+  - ZapNet
+first_publication: Core
+art: ''
+artist: ''

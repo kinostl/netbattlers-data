@@ -1,0 +1,10 @@
+kind: FlameArm
+dmg: 3
+range: Near
+effect: Flame cannon! Covers targets in soot, upshifting their Charm rolls until they
+  get cleaned off.
+category: Wave
+tags:
+  - Awkward
+  - Dangerous
+first_publication: Core

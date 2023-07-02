@@ -1,0 +1,32 @@
+kind: Boomer
+desc: Boomers fire the massive boomerang they carry in their jaws, which flies around
+  the arena and back to their maw.
+element: Boomerangs
+category: Artillery
+skills:
+  mind: 2
+  sense: 2
+  info: 0
+  coding: 0
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 2
+  soul: 1
+  charm: 0
+  bravery: 0
+  affinity: 0
+powers:
+  - Boomerang
+  - null
+  - null
+  - null
+tags:
+  - Inanimate;Hovering
+hp: '4'
+drops:
+  - Boomer
+  - CopyDamage
+first_publication: Core
+art: https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/boomer.png
+artist: GSK Bladez

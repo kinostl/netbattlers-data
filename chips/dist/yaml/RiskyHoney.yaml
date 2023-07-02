@@ -1,0 +1,8 @@
+kind: RiskyHoney
+dmg: 2
+range: Close
+effect: Summons a beehive that attacks and makes noise when approached.
+category: Summon
+tags:
+  - None
+first_publication: Core

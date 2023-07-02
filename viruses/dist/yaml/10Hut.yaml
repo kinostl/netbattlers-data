@@ -1,0 +1,32 @@
+kind: 10Hut
+desc: These militant Viruses look like two boots under a huge beret. They supply their
+  allies with military tech and shout booming commands.
+element: Boot Camp
+category: Support
+skills:
+  mind: 1
+  sense: 0
+  info: 0
+  coding: 3
+  body: 2
+  strength: 0
+  speed: 0
+  stamina: 0
+  soul: 1
+  charm: 0
+  bravery: 4
+  affinity: 3
+powers:
+  - MapEdit
+  - SystemCall
+  - GetEquipped
+  - null
+tags:
+  - None
+hp: '3'
+drops:
+  - BraveHeart
+  - YamatoRush
+first_publication: Core
+art: ''
+artist: ''

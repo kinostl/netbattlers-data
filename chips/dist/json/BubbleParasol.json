@@ -1,0 +1,12 @@
+{
+  "kind": "BubbleParasol",
+  "dmg": 2,
+  "range": "Close",
+  "effect": "Can instead be used to fall very slowly, make a bubble cloud, or add +2 dice to your next defense.",
+  "category": "Impact",
+  "tags": [
+    "Guard",
+    "Awkward"
+  ],
+  "first_publication": "Core"
+}

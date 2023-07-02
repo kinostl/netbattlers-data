@@ -1,0 +1,37 @@
+{
+  "kind": "HardHead",
+  "desc": "HardHead Viruses lob element-spreading shells. Their color changes with their ammo.",
+  "element": "Cracking",
+  "category": "Artillery",
+  "skills": {
+    "mind": 2,
+    "sense": 2,
+    "info": 0,
+    "coding": 0,
+    "body": 1,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 4,
+    "soul": 2,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 1
+  },
+  "powers": [
+    "AmmoSwap",
+    "Headstrong",
+    "Spreader",
+    null
+  ],
+  "tags": [
+    "Inanimate;Immobile"
+  ],
+  "hp": "4",
+  "drops": [
+    "IceBall",
+    "LavaBall"
+  ],
+  "first_publication": "Core",
+  "art": "https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/coldhead.png",
+  "artist": "Nova"
+}

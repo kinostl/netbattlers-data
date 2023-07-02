@@ -1,0 +1,9 @@
+{
+  "kind": "FirstClass",
+  "skill": "-",
+  "resolve": "Passive",
+  "effect": "Allies in carriages heal 1 HP when they roll, and you roll to defend them from all attacks.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Mega Viruses"
+}

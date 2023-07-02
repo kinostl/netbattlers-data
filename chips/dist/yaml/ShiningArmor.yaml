@@ -1,0 +1,9 @@
+kind: ShiningArmor
+dmg: 0
+range: Close
+effect: Pick up a target and move a range band. Your next Charm roll on the target
+  is Easy.
+category: Rush
+tags:
+  - None
+first_publication: Core

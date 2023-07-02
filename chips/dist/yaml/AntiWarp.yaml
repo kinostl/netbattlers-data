@@ -1,0 +1,10 @@
+kind: AntiWarp
+dmg: 0
+range: Far
+effect: Next time an enemy moves range bands with a chip/power, teleport a range band
+  & act first.
+category: Support
+tags:
+  - Guard
+  - Slow
+first_publication: Advanced Support Pack

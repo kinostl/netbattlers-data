@@ -1,0 +1,10 @@
+kind: FlameWar
+dmg: 1
+range: Near
+effect: Spit hot fire! Can spend 1 Charm/Bravery to make targets roll Bravery to not
+  focus on you.
+category: Wave
+tags:
+  - Accurate
+  - Dangerous
+first_publication: Mudslurp

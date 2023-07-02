@@ -1,0 +1,9 @@
+kind: Team2
+dmg: 0
+range: '-'
+effect: The next time you take damage, heal an ally equal to the damage you took.
+category: Support
+tags:
+  - Guard
+  - Simple
+first_publication: Advanced Support Pack

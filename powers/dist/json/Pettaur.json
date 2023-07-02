@@ -1,0 +1,9 @@
+{
+  "kind": "Pettaur",
+  "skill": "-",
+  "resolve": "-",
+  "effect": "A round little buddy! It can’t attack, obeys basic orders, and vanishes for a bit if hurt.",
+  "eb": 2,
+  "sort": "NCP",
+  "first_publication": "Core"
+}

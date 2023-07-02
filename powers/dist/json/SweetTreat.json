@@ -1,0 +1,9 @@
+{
+  "kind": "SweetTreat",
+  "skill": "Affinity",
+  "resolve": "Cost",
+  "effect": "Consume your element to heal a Close ally 2 HP.",
+  "eb": 0,
+  "sort": "Virus Power",
+  "first_publication": "Core"
+}

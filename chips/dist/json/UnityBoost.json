@@ -1,0 +1,12 @@
+{
+  "kind": "UnityBoost",
+  "dmg": 0,
+  "range": "Near",
+  "effect": "Next time you use a BattleChip, all Bonded allies in range gain the benefits that affect you.",
+  "category": "Support",
+  "tags": [
+    "Mega",
+    "Simple"
+  ],
+  "first_publication": "Core"
+}

@@ -1,0 +1,37 @@
+{
+  "kind": "PseudomainOmega",
+  "desc": "A room-shaped Virus that tricks Navis into entering false doors. It can manipulate the shape and contents of the rooms within its body.",
+  "element": "Architecture",
+  "category": "Wrecker",
+  "skills": {
+    "mind": 3,
+    "sense": 0,
+    "info": 0,
+    "coding": 6,
+    "body": 1,
+    "strength": 0,
+    "speed": 0,
+    "stamina": 2,
+    "soul": 1,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 9
+  },
+  "powers": [
+    "Backdoor",
+    "Redecorate",
+    "Domain",
+    "Populate"
+  ],
+  "tags": [
+    "Mega;Immobile"
+  ],
+  "hp": "20",
+  "drops": [
+    "XXI-TheWorld",
+    null
+  ],
+  "first_publication": "Mega Viruses",
+  "art": "",
+  "artist": ""
+}

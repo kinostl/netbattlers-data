@@ -1,0 +1,10 @@
+kind: DoNotDisturb
+dmg: 3
+range: Close
+effect: Ban hammer slammer! Spend 1 Bravery to mute the target & upshift their Charm
+  rolls for 4 rolls.
+category: Impact
+tags:
+  - Awkward
+  - Slow
+first_publication: Mudslurp

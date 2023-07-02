@@ -1,0 +1,37 @@
+{
+  "kind": "BrushMan",
+  "desc": "A paintbrush Virus! BrushMan generates damage-halving holy sigils for its allies and dangerous terrain, like lava and poison, for its targets. Takes great pride in its art.",
+  "element": "Paint",
+  "category": "Wrecker",
+  "skills": {
+    "mind": 1,
+    "sense": 0,
+    "info": 0,
+    "coding": 0,
+    "body": 2,
+    "strength": 0,
+    "speed": 2,
+    "stamina": 0,
+    "soul": 3,
+    "charm": 0,
+    "bravery": 0,
+    "affinity": 2
+  },
+  "powers": [
+    "Warp",
+    "Brushup",
+    "Artifact",
+    null
+  ],
+  "tags": [
+    "Hovering"
+  ],
+  "hp": "3",
+  "drops": [
+    "BurnSquare",
+    "Sanctuary"
+  ],
+  "first_publication": "Core",
+  "art": "https://raw.githubusercontent.com/gskbladez/meddyexe/master/virusart/brushmanV2.png",
+  "artist": "Roselii49"
+}

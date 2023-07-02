@@ -1,0 +1,7 @@
+kind: Monitor
+skill: BlindMode
+resolve: Upgrade
+effect: Can place a remote, livestreaming camera with all senses. One at a time.
+eb: 2
+sort: NPU
+first_publication: Navi Power Upgrades
