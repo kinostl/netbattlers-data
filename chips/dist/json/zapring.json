@@ -5,7 +5,7 @@
   "effect": "Stuns the target for one second.",
   "category": "Shot",
   "tags": [
-    ""
+    "None"
   ],
   "first_publication": "Core"
 }

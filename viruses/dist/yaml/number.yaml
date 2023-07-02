@@ -22,8 +22,7 @@ powers:
   - Err+Del
   - null
 tags:
-  - Immobile
-  - Inanimate
+  - Immobile;Inanimate
 hp: '7'
 drops:
   - Guardian

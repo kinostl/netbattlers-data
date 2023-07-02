@@ -22,8 +22,7 @@ powers:
   - null
   - null
 tags:
-  - Immobile
-  - Inanimate
+  - Immobile;Inanimate
 hp: '10'
 drops:
   - Rook

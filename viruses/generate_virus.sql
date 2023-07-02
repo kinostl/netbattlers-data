@@ -31,7 +31,7 @@ SELECT json_object(
         length(Tags) > 0,
         json(format('["%s"]',
         replace(replace(Tags, ' ',''),',','","'))),
-        null
+        json('["None"]')
     ),
     'hp', HP,
     'drops',json_array(

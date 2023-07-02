@@ -5,7 +5,7 @@
   "effect": "Throws a huge seed that spreads (pick 1: dirt; grass; sand; snow) all around where it lands.",
   "category": "Hazard",
   "tags": [
-    ""
+    "None"
   ],
   "first_publication": "Core"
 }

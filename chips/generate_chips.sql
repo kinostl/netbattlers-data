@@ -12,7 +12,7 @@ SELECT json_object(
         length(Tags) > 0,
         json(format('["%s"]',
         replace(replace(Tags, ' ',''),',','","'))),
-        null
+        json('["None"]')
     ),
     'first_publication', "From?"
 ) from chips;

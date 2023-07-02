@@ -22,8 +22,7 @@ powers:
   - null
   - null
 tags:
-  - Inanimate
-  - Immobile
+  - Inanimate;Immobile
 hp: '4'
 drops:
   - Cannon

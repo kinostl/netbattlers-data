@@ -5,7 +5,7 @@
   "effect": "A randomized attack! X=Roll 2d6, use the lowest value as your damage.",
   "category": "Thrown",
   "tags": [
-    ""
+    "None"
   ],
   "first_publication": "Core"
 }

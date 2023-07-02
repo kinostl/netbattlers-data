@@ -5,7 +5,7 @@
   "effect": "Curses a target. The next time they take damage, their highest skill(s) are briefly reduced by 2.",
   "category": "Support",
   "tags": [
-    ""
+    "None"
   ],
   "first_publication": "Mystic Lilies"
 }

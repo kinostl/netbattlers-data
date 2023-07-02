@@ -22,8 +22,7 @@ powers:
   - IronBull
   - IronCurtain
 tags:
-  - Mega
-  - Inanimate
+  - Mega;Inanimate
 hp: '7'
 drops:
   - SealingRites

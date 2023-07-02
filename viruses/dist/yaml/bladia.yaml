@@ -22,8 +22,7 @@ powers:
   - IronBull
   - null
 tags:
-  - Mega
-  - Inanimate
+  - Mega;Inanimate
 hp: '4'
 drops:
   - SpiritSword
