@@ -1,9 +1,0 @@
-{
-  "kind": "CodeInjectionNCP",
-  "skill": "Affinity",
-  "resolve": "Cost",
-  "effect": "Your next rolled attack covers the target with your element. [Instant]",
-  "eb": 3,
-  "sort": "PowerNCP",
-  "first_publication": "Core"
-}

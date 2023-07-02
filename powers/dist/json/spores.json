@@ -1,9 +1,0 @@
-{
-  "kind": "Spores",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "When attacks hit, target upshifts next Mind roll; next 3 Mind rolls if they are on grass.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

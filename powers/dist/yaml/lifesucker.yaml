@@ -1,7 +1,0 @@
-kind: Lifesucker
-skill: '-'
-resolve: Passive
-effect: Heal HP equal to each point of damage you deal.
-eb: 0
-sort: Virus Power
-first_publication: Core

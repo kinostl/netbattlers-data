@@ -1,9 +1,0 @@
-kind: WanderFlame
-dmg: 0
-range: '-'
-effect: Your jack-out roll is downshifted, and it triggers a 3-damage Dngr. flame
-  pillar that hits all Close.
-category: Support
-tags:
-  - Simple
-first_publication: Mystic Lilies

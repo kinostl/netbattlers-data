@@ -1,9 +1,0 @@
-{
-  "kind": "GrazingPower",
-  "skill": "-",
-  "resolve": "-",
-  "effect": "On successful defense with Speed, +2 dice to your next attack roll. Doesn’t stack.",
-  "eb": 3,
-  "sort": "NCP",
-  "first_publication": "Mystic Lilies"
-}

@@ -1,8 +1,0 @@
-kind: ActionReplay
-skill: '-'
-resolve: '-'
-effect: On NetOp critical success, the PET autoposts a cool picture of it to social
-  media.
-eb: 1
-sort: NCP
-first_publication: Skateboard Dog

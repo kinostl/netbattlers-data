@@ -1,9 +1,0 @@
-kind: RadicalGrind
-dmg: 2
-range: Near
-effect: 'Grind an edge and ram the target! Pick 1: downshift your next Speed, Charm,
-  or Bravery roll.'
-category: Rush
-tags:
-  - Awkward
-first_publication: Core

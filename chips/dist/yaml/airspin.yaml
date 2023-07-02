@@ -1,8 +1,0 @@
-kind: AirSpin
-dmg: 2
-range: Near
-effect: Throws a disc-shaped fan that blows a powerful whirlwind gust upwards.
-category: Thrown
-tags:
-  - Awkward
-first_publication: Core

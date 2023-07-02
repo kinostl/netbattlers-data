@@ -1,9 +1,0 @@
-{
-  "kind": "Smother",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "When your element touches someone else’s, they can’t manipulate it.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

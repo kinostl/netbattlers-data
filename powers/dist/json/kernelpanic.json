@@ -1,9 +1,0 @@
-{
-  "kind": "KernelPanic",
-  "skill": "-",
-  "resolve": "-",
-  "effect": "When you’re at or below 2 HP, add four dice to all rolled attacks.",
-  "eb": 4,
-  "sort": "NCP",
-  "first_publication": "Core"
-}

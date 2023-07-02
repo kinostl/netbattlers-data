@@ -1,9 +1,0 @@
-{
-  "kind": "ILoveYou",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "When you roll, Far Viruses learn your location. Starts undetectable, gradually gets obvious.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Mega Viruses"
-}

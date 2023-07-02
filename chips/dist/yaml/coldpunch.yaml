@@ -1,9 +1,0 @@
-kind: ColdPunch
-dmg: 3
-range: Close
-effect: 'Spend 1 Strength to pick 1: upshifts target’s next Body roll; creates ice
-  around your hands.'
-category: Impact
-tags:
-  - Slow
-first_publication: Core

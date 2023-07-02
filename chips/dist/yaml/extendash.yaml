@@ -1,9 +1,0 @@
-kind: ExtendAsh
-dmg: 0
-range: Close
-effect: Slash the target with a flaming phoenix talon! X = the number of Near hostile
-  Navis/Viruses.
-category: Blade
-tags:
-  - Piercing
-first_publication: Mystic Lilies

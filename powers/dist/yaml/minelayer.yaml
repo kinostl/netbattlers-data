@@ -1,7 +1,0 @@
-kind: Minelayer
-skill: Affinity
-resolve: Cost
-effect: Creates a Close mine that explodes for 4 damage when something touches it.
-eb: 0
-sort: Virus Power
-first_publication: Core

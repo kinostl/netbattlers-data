@@ -1,9 +1,0 @@
-kind: StarArrow
-dmg: 2
-range: Near
-effect: Fire a shining, cosmic arrow! You can grab it to fly behind it, but that makes
-  it Slow.
-category: Shot
-tags:
-  - None
-first_publication: Summer Camp

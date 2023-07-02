@@ -1,9 +1,0 @@
-{
-  "kind": "Guardbreaker",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "Upshift enemy rolls to defend with Stamina.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

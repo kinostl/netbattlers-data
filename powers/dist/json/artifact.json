@@ -1,9 +1,0 @@
-{
-  "kind": "Artifact",
-  "skill": "Affinity",
-  "resolve": "Cost",
-  "effect": "Draw a sigil. Any touching it take half damage. Round up.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

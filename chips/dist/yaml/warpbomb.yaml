@@ -1,9 +1,0 @@
-kind: WarpBomb
-dmg: 2
-range: Near
-effect: A glowing energy orb! Spend 1 Coding to appear where it detonates. (Doesn’t
-  hurt you.)
-category: Thrown
-tags:
-  - None
-first_publication: Core

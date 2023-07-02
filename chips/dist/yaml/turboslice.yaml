@@ -1,8 +1,0 @@
-kind: TurboSlice
-dmg: 2
-range: Close
-effect: A rocket-blade fueled by the user's energy! Spend 1 Speed to deal +2 damage.
-category: Blade
-tags:
-  - None
-first_publication: Core

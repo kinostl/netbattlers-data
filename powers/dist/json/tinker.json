@@ -1,9 +1,0 @@
-{
-  "kind": "Tinker",
-  "skill": "HotSwap",
-  "resolve": "Upgrade",
-  "effect": "If you spend a minute of uninterrupted concentration, HotSwap has no cost.",
-  "eb": 2,
-  "sort": "NPU",
-  "first_publication": "Navi Power Upgrades"
-}

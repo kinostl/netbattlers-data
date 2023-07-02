@@ -1,9 +1,0 @@
-{
-  "kind": "FirstArmor",
-  "skill": "-",
-  "resolve": "-",
-  "effect": "On jack-in, get a 6 HP Guard. It takes dmg for you until it runs out of HP. It can’t heal.",
-  "eb": 3,
-  "sort": "NCP",
-  "first_publication": "Core"
-}

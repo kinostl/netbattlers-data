@@ -1,7 +1,0 @@
-kind: RefreshIndieNCP
-skill: Info
-resolve: Cost
-effect: Increase your Folder size by 2 until rest. [Instant]
-eb: 3
-sort: PowerNCP
-first_publication: Core

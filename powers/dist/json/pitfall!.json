@@ -1,9 +1,0 @@
-{
-  "kind": "Pitfall!",
-  "skill": "Affinity",
-  "resolve": "Cost",
-  "effect": "Dig a hidden pitfall trap. Depth: 1 range band.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

@@ -1,9 +1,0 @@
-{
-  "kind": "Revert",
-  "skill": "Warp",
-  "resolve": "Upgrade",
-  "effect": "Within 10 seconds of warping, you can warp back to your starting point for free.",
-  "eb": 2,
-  "sort": "NPU",
-  "first_publication": "Navi Power Upgrades"
-}

@@ -1,9 +1,0 @@
-kind: DarkRecover
-dmg: 0
-range: Near
-effect: Choose at least one bonded ally in range. They all take -2 HP, and you heal
-  4 HP per ally hurt.
-category: Support
-tags:
-  - Dark
-first_publication: DarkChips

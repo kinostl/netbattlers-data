@@ -1,8 +1,0 @@
-kind: ControlX
-skill: Control
-resolve: Upgrade
-effect: Control is now a melee-only attack. Gain the element of the last enemy you
-  deleted.
-eb: 3
-sort: NPU
-first_publication: Navi Power Upgrades

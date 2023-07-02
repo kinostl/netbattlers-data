@@ -1,8 +1,0 @@
-kind: Overheal
-skill: Regenerate
-resolve: Upgrade
-effect: All healing can exceed Max HP. While over Max and not healing, take -1 HP
-  each roll.
-eb: 2
-sort: NPU
-first_publication: Navi Power Upgrades

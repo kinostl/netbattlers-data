@@ -1,8 +1,0 @@
-kind: FlashBomb
-dmg: 0
-range: Near
-effect: Tosses a blinding bomb on a three-second timer.
-category: Thrown
-tags:
-  - Slow
-first_publication: Core

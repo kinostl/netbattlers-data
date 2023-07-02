@@ -1,9 +1,0 @@
-kind: BurstRevenge
-dmg: 2
-range: Near
-effect: Let loose fiery bursts of rage! X=number of enemies in range who have damaged
-  you.
-category: Wave
-tags:
-  - Dangerous
-first_publication: Core

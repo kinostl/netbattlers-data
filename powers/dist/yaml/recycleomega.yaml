@@ -1,7 +1,0 @@
-kind: RecycleOmega
-skill: '-'
-resolve: Passive
-effect: When anyone Near is deleted, add their stats and skills to yours.
-eb: 0
-sort: Omega Virus Power
-first_publication: Mega Viruses

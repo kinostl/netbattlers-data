@@ -1,8 +1,0 @@
-kind: Invis
-dmg: 0
-range: '-'
-effect: Become invisible for several seconds.
-category: Support
-tags:
-  - Simple
-first_publication: Core

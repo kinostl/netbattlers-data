@@ -1,8 +1,0 @@
-kind: Projector
-skill: Tracker
-resolve: Upgrade
-effect: Shows the target’s speed, destination, and exact movements and actions so
-  far.
-eb: 2
-sort: NPU
-first_publication: Navi Power Upgrades

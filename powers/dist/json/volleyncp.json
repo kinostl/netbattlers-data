@@ -1,9 +1,0 @@
-{
-  "kind": "VolleyNCP",
-  "skill": "Sense",
-  "resolve": "Cost",
-  "effect": "Reroll your next attack roll twice and take the best outcome. [Instant]",
-  "eb": 3,
-  "sort": "PowerNCP",
-  "first_publication": "Core"
-}

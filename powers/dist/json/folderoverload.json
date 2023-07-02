@@ -1,9 +1,0 @@
-{
-  "kind": "FolderOverload",
-  "skill": "Reconfig",
-  "resolve": "Upgrade",
-  "effect": "You can spend an unused chip in your Folder to activate Reconfig.",
-  "eb": 2,
-  "sort": "NPU",
-  "first_publication": "Navi Power Upgrades"
-}

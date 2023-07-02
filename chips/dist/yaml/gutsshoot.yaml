@@ -1,8 +1,0 @@
-kind: GutsShoot
-dmg: 0
-range: Near
-effect: Toss an ally! X=your ally’s Body score.
-category: Thrown
-tags:
-  - Awkward
-first_publication: Core

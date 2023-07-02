@@ -1,9 +1,0 @@
-{
-  "kind": "HarmlessNCP",
-  "skill": "Charm",
-  "resolve": "Roll",
-  "effect": "Avert hostile attention from yourself.",
-  "eb": 3,
-  "sort": "PowerNCP",
-  "first_publication": "Core"
-}

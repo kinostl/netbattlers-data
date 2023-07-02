@@ -1,9 +1,0 @@
-{
-  "kind": "Anchored",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "Downshift rolls to prevent being moved.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

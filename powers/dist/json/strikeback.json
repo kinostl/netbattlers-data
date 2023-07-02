@@ -1,9 +1,0 @@
-{
-  "kind": "StrikeBack",
-  "skill": "Reflect",
-  "resolve": "Upgrade",
-  "effect": "You can Reflect projectiles with a melee attack instead, BattleChips included.",
-  "eb": 2,
-  "sort": "NPU",
-  "first_publication": "Navi Power Upgrades"
-}

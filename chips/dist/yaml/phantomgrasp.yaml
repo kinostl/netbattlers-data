@@ -1,9 +1,0 @@
-kind: PhantomGrasp
-dmg: 0
-range: Close
-effect: 'On hit, pick 2: target rolls Bravery to not panic; target Mind briefly -1;
-  you are briefly invisible.'
-category: Impact
-tags:
-  - Slow
-first_publication: Core

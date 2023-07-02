@@ -1,9 +1,0 @@
-kind: DarkBrush
-dmg: 4
-range: Near
-effect: 'Spread mystic ink! Learn 1: their greatest fear; their greatest love; their
-  darkest secret.'
-category: Thrown
-tags:
-  - Dark
-first_publication: DarkChips

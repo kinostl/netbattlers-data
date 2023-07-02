@@ -1,9 +1,0 @@
-{
-  "kind": "Gush",
-  "skill": "Affinity",
-  "resolve": "Roll",
-  "effect": "Attack all grounded Near targets with your element.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

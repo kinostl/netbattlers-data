@@ -1,8 +1,0 @@
-kind: RocketTackle
-dmg: 2
-range: Close
-effect: Move yourself and the target a range band together.
-category: Rush
-tags:
-  - Awkward
-first_publication: Core

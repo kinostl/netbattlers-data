@@ -1,9 +1,0 @@
-kind: DrillArm
-dmg: 2
-range: Close
-effect: A motorized blow that reduces the target’s Stamina by 2.
-category: Impact
-tags:
-  - Dangerous
-  - Slow
-first_publication: Core

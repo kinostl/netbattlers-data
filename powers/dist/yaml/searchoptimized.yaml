@@ -1,8 +1,0 @@
-kind: SearchOptimized
-skill: '-'
-resolve: '-'
-effect: Pick a descriptor - NPCs will associate you with that word unless they know
-  better.
-eb: 2
-sort: NCP
-first_publication: Core

@@ -1,8 +1,0 @@
-kind: Proxy
-skill: '-'
-resolve: '-'
-effect: When using a Support BattleChip, you can transfer the benefits to a Near ally
-  instead.
-eb: 4
-sort: NCP
-first_publication: Core

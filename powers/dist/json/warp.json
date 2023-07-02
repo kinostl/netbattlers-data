@@ -1,9 +1,0 @@
-{
-  "kind": "Warp",
-  "skill": "Speed",
-  "resolve": "Cost",
-  "effect": "Instantly move up to one range band. [Instant]",
-  "eb": 0,
-  "sort": "Power",
-  "first_publication": "Core"
-}

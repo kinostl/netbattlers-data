@@ -1,8 +1,0 @@
-kind: StringBuffer
-skill: Affinity
-resolve: Roll
-effect: Create a hidden tripwire. Whoever trips it is covered in your element. Deals
-  damage = to hits rolled.
-eb: 0
-sort: Virus Power
-first_publication: Core

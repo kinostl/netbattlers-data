@@ -1,9 +1,0 @@
-{
-  "kind": "Ingredients",
-  "skill": "Affinity",
-  "resolve": "Roll",
-  "effect": "Consume somebody else’s Near element to produce your element.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

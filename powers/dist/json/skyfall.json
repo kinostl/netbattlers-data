@@ -1,9 +1,0 @@
-{
-  "kind": "Skyfall",
-  "skill": "Affinity",
-  "resolve": "Roll",
-  "effect": "Your element falls from above, damaging the next Near target that rolls & all Close.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

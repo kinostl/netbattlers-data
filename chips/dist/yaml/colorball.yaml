@@ -1,8 +1,0 @@
-kind: ColorBall
-dmg: 2
-range: Near
-effect: Paintbomb bursts into color! Describe how targets (and surroundings) are recolored.
-category: Wave
-tags:
-  - Awkward
-first_publication: Summer Camp

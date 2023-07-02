@@ -1,9 +1,0 @@
-{
-  "kind": "Reinforce",
-  "skill": "Affinity",
-  "resolve": "Roll",
-  "effect": "Add +1 to an ally’s Stamina per hit. One ally at a time; expires on your deletion.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

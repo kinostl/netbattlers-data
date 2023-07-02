@@ -1,8 +1,0 @@
-kind: GutPunch
-dmg: 3
-range: Close
-effect: A massive punch that reduces the target’s Stamina by 1 and ignores Guards.
-category: Impact
-tags:
-  - Slow
-first_publication: Core

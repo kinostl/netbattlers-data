@@ -1,7 +1,0 @@
-kind: Essence
-skill: Regenerate
-resolve: Upgrade
-effect: Each time Regenerate heals 1 HP, a small amount of your element appears Close.
-eb: 1
-sort: NPU
-first_publication: Navi Power Upgrades

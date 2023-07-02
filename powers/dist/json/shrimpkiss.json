@@ -1,9 +1,0 @@
-{
-  "kind": "ShrimpKiss",
-  "skill": "Charm",
-  "resolve": "Cost",
-  "effect": "Seal a Close target in a bouncy, floating bubble.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

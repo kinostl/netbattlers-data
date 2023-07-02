@@ -1,8 +1,0 @@
-kind: Allegiance
-skill: Bravery
-resolve: Cost
-effect: Mind-control a Near NPC, forcing them to aggressively assist you for one action.
-  [Instant]
-eb: 0
-sort: Virus Power
-first_publication: Underground Broadcast

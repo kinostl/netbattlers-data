@@ -1,7 +1,0 @@
-kind: ElemenTango
-skill: Save
-resolve: Upgrade
-effect: Save also gives the target an elemental barrier (Guard) that negates 1 attack.
-eb: 2
-sort: NPU
-first_publication: Navi Power Upgrades

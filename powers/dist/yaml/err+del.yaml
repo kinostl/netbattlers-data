@@ -1,8 +1,0 @@
-kind: Err+Del
-skill: Coding
-resolve: Cost
-effect: Pick someone Near. If they win their next opposed roll, hit the loser with
-  a 3-damage bolt. [Instant]
-eb: 0
-sort: Virus Power
-first_publication: Core

@@ -1,9 +1,0 @@
-kind: LastOut
-dmg: 1
-range: Near
-effect: A sparking spikeball knocks out the alphabetically last chip in the target’s
-  Folder.
-category: Thrown
-tags:
-  - Awkward
-first_publication: Core

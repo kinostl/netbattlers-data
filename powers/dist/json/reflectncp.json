@@ -1,9 +1,0 @@
-{
-  "kind": "ReflectNCP",
-  "skill": "Stamina",
-  "resolve": "Roll",
-  "effect": "Parry a direct ranged attack, rolling Stamina. Reflects secondary effects.",
-  "eb": 3,
-  "sort": "PowerNCP",
-  "first_publication": "Core"
-}

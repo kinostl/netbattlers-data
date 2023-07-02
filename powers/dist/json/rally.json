@@ -1,9 +1,0 @@
-{
-  "kind": "Rally",
-  "skill": "Bravery",
-  "resolve": "Cost",
-  "effect": "Add two dice to someone else’s Soul roll (before they roll). [Instant]",
-  "eb": 0,
-  "sort": "Power",
-  "first_publication": "Core"
-}

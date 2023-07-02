@@ -1,7 +1,0 @@
-kind: ProgPower
-skill: '-'
-resolve: Passive
-effect: EggMecha deactivates if the Mr. Prog inside is removed.
-eb: 0
-sort: Virus Power
-first_publication: Radical Spin

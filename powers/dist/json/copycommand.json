@@ -1,9 +1,0 @@
-{
-  "kind": "CopyCommand",
-  "skill": "Disruption",
-  "resolve": "Upgrade",
-  "effect": "On blocking a default Navi Power/ NCP, you can use it once until next Disruption.",
-  "eb": 3,
-  "sort": "NPU",
-  "first_publication": "Navi Power Upgrades"
-}

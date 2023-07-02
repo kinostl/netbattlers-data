@@ -1,8 +1,0 @@
-kind: AirStrike
-dmg: 2
-range: Near
-effect: Torpedo volley! Upshift defense if you’re above the target and Near distance.
-category: Thrown
-tags:
-  - Slow
-first_publication: Core

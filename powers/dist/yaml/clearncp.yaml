@@ -1,8 +1,0 @@
-kind: ClearNCP
-skill: Stamina
-resolve: Cost
-effect: Cure all negative secondary effects from outside sources. Usable on Close
-  allies. [Instant]
-eb: 3
-sort: PowerNCP
-first_publication: Core

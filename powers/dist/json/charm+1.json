@@ -1,9 +1,0 @@
-{
-  "kind": "Charm+1",
-  "skill": "-",
-  "resolve": "-",
-  "effect": "Increase your Charm by 1.",
-  "eb": 2,
-  "sort": "BoostNCP",
-  "first_publication": "Core"
-}

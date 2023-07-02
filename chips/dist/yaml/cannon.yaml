@@ -1,8 +1,0 @@
-kind: Cannon
-dmg: 2
-range: Near
-effect: Transforms a part of the Navi into a high-velocity cannon.
-category: Shot
-tags:
-  - Accurate
-first_publication: Core

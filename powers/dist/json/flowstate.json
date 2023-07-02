@@ -1,9 +1,0 @@
-{
-  "kind": "FlowState",
-  "skill": "Speed",
-  "resolve": "Roll",
-  "effect": "Reshape your body to fit in tight or oddly-shaped spaces. (Not a disguise.)",
-  "eb": 0,
-  "sort": "Power",
-  "first_publication": "Core"
-}

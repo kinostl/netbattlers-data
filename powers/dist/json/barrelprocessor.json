@@ -1,9 +1,0 @@
-{
-  "kind": "BarrelProcessor",
-  "skill": "-",
-  "resolve": "-",
-  "effect": "Shot BattleChips and Sense ranged attacks have no penalty at Far range.",
-  "eb": 2,
-  "sort": "NCP",
-  "first_publication": "Core"
-}

@@ -1,9 +1,0 @@
-kind: SonicWave
-dmg: 2
-range: Near
-effect: A shockwave runs along the ground, also hitting everything between you and
-  the target.
-category: Wave
-tags:
-  - Slow
-first_publication: Core

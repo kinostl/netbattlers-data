@@ -1,9 +1,0 @@
-{
-  "kind": "VoidBurst",
-  "skill": "Affinity",
-  "resolve": "Cost",
-  "effect": "Detonate your element! Removes temp. positive effects (e.g. Guards) from any Close.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Mega Viruses"
-}

@@ -1,9 +1,0 @@
-{
-  "kind": "LockOn",
-  "skill": "Sense",
-  "resolve": "Cost",
-  "effect": "Your next rolled attack is guaranteed Easy and ignores your skill reductions. [Instant]",
-  "eb": 0,
-  "sort": "Power",
-  "first_publication": "Core"
-}

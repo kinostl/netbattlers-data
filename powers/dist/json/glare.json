@@ -1,9 +1,0 @@
-{
-  "kind": "Glare",
-  "skill": "Bravery",
-  "resolve": "Roll",
-  "effect": "A Near target can’t move range bands until line of sight breaks. One at a time.",
-  "eb": 0,
-  "sort": "Power",
-  "first_publication": "Core"
-}

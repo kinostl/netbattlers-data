@@ -1,9 +1,0 @@
-{
-  "kind": "Protector",
-  "skill": "Bodyguard",
-  "resolve": "Upgrade",
-  "effect": "You can defend all Close allies at once from a multitarget attack.",
-  "eb": 1,
-  "sort": "NPU",
-  "first_publication": "Navi Power Upgrades"
-}

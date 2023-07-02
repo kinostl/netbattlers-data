@@ -1,7 +1,0 @@
-kind: SneakrunNCP
-skill: Speed
-resolve: Roll
-effect: Slip past an inanimate threat (e.g. traps, sensors).
-eb: 3
-sort: PowerNCP
-first_publication: Core

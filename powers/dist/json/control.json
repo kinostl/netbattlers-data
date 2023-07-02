@@ -1,9 +1,0 @@
-{
-  "kind": "Control",
-  "skill": "Affinity",
-  "resolve": "Roll",
-  "effect": "Make a ranged attack with your element if it is present.",
-  "eb": 0,
-  "sort": "Power",
-  "first_publication": "Core"
-}

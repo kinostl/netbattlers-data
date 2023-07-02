@@ -1,7 +1,0 @@
-kind: Hijack
-skill: Reconfig
-resolve: Upgrade
-effect: Your next melee attack takes a chip (GM’s pick) from the target’s Folder.
-eb: 3
-sort: NPU
-first_publication: Navi Power Upgrades

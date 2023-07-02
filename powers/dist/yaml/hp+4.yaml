@@ -1,7 +1,0 @@
-kind: HP+4
-skill: '-'
-resolve: '-'
-effect: +4 maximum HP. This NCP can stack.
-eb: 3
-sort: BoostNCP
-first_publication: Core

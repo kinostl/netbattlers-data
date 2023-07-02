@@ -1,9 +1,0 @@
-kind: SeismicBlast
-dmg: 1
-range: Near
-effect: Targets must be grounded. A ground burst launches targets a range band into
-  the air.
-category: Wave
-tags:
-  - Piercing
-first_publication: Summer Camp

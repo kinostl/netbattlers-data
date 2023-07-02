@@ -1,9 +1,0 @@
-kind: CustSword
-dmg: 0
-range: Close
-effect: A bright green sword powered by your Folder. X=# of used chips in your Folder;
-  max 4.
-category: Blade
-tags:
-  - None
-first_publication: Core

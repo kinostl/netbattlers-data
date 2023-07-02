@@ -1,8 +1,0 @@
-kind: TempoShift
-skill: Affinity
-resolve: Roll
-effect: Upshift or downshift the next Speed roll of all Near. Also affects the speed
-  of moving objects.
-eb: 0
-sort: Virus Power
-first_publication: Mystic Lilies

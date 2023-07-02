@@ -1,8 +1,0 @@
-kind: BodyguardNCP
-skill: Bravery
-resolve: Cost
-effect: Pick an ally. Next time they’re attacked & Near, step in to take the attack
-  instead. [Instant]
-eb: 3
-sort: PowerNCP
-first_publication: Core

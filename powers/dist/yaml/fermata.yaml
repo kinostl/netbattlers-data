@@ -1,7 +1,0 @@
-kind: Fermata
-skill: Affinity
-resolve: Roll
-effect: Plays a tune that freezes Near Navis in place for X rolls. X = hits rolled.
-eb: 0
-sort: Virus Power
-first_publication: Core

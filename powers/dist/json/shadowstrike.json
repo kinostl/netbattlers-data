@@ -1,9 +1,0 @@
-{
-  "kind": "ShadowStrike",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "Ranged attacks are silent.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

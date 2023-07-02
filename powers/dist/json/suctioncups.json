@@ -1,9 +1,0 @@
-{
-  "kind": "SuctionCups",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "Able to run up walls and ceilings without complication.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

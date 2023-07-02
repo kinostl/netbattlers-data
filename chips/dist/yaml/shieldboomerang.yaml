@@ -1,9 +1,0 @@
-kind: ShieldBoomerang
-dmg: 2
-range: Near
-effect: Downshift your next defense if this hits.
-category: Thrown
-tags:
-  - Guard
-  - Slow
-first_publication: Core

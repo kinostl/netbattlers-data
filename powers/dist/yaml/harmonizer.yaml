@@ -1,8 +1,0 @@
-kind: Harmonizer
-skill: '-'
-resolve: '-'
-effect: When you roll 3+ hits to make your element, a bonded ally can roll to make
-  theirs.
-eb: 1
-sort: NCP
-first_publication: Core

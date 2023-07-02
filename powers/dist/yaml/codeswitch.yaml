@@ -1,8 +1,0 @@
-kind: CodeSwitch
-skill: Coding
-resolve: Cost
-effect: Pick a Near ally — they use Strength or Coding to manipulate their element
-  for 3 rolls.
-eb: 0
-sort: Virus Power
-first_publication: Mega Viruses

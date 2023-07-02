@@ -1,9 +1,0 @@
-{
-  "kind": "Germination",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "Attacks are delayed, but spread your element.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Core"
-}

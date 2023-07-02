@@ -1,9 +1,0 @@
-{
-  "kind": "Firestarter",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "When you damage a target or object for the first time, they’re covered with your element.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Mystic Lilies"
-}

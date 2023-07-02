@@ -1,9 +1,0 @@
-kind: SuperVulcan
-dmg: 2
-range: Near
-effect: A golden gun fires a barrage of bullets.
-category: Shot
-tags:
-  - Mega
-  - Piercing
-first_publication: Core

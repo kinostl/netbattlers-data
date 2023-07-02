@@ -1,8 +1,0 @@
-kind: ChainBlast
-dmg: 0
-range: Near
-effect: Hits everything Close to the target. X=the number of enemies hit.
-category: Thrown
-tags:
-  - None
-first_publication: Core

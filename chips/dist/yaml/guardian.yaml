@@ -1,8 +1,0 @@
-kind: Guardian
-dmg: 0
-range: Close
-effect: Summons a tiny statue that zaps the first thing to damage it, dealing 4 damage.
-category: Summon
-tags:
-  - Slow
-first_publication: Core

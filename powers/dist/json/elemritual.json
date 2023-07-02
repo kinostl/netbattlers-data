@@ -1,9 +1,0 @@
-{
-  "kind": "ElemRitual",
-  "skill": "-",
-  "resolve": "-",
-  "effect": "If you spend a minute concentrating, your next Affinity roll uses at least 5 dice.",
-  "eb": 2,
-  "sort": "NCP",
-  "first_publication": "Core"
-}

@@ -1,9 +1,0 @@
-{
-  "kind": "Demolition",
-  "skill": "Shatter",
-  "resolve": "Upgrade",
-  "effect": "Before rolling, can choose for the target object to become a Normal hazard.",
-  "eb": 2,
-  "sort": "NPU",
-  "first_publication": "Navi Power Upgrades"
-}

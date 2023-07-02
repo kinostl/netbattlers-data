@@ -1,8 +1,0 @@
-kind: DataCorrupt
-skill: '-'
-resolve: Passive
-effect: Attacks swap the value of two of the target’s skills — you pick which. Lasts
-  for 3 rolls.
-eb: 0
-sort: Virus Power
-first_publication: Core

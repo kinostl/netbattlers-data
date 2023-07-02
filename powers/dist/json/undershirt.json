@@ -1,9 +1,0 @@
-{
-  "kind": "UnderShirt",
-  "skill": "-",
-  "resolve": "-",
-  "effect": "A lethal hit leaves you at 1 HP if you have over 1 HP.",
-  "eb": 3,
-  "sort": "NCP",
-  "first_publication": "Core"
-}

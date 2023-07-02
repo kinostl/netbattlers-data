@@ -1,8 +1,0 @@
-kind: Populate
-skill: Affinity
-resolve: Cost
-effect: Add a fake creature to the room. It rolls with your stats and skills. It cannot
-  speak.
-eb: 0
-sort: Virus Power
-first_publication: Mega Viruses

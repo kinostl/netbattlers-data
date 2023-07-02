@@ -1,8 +1,0 @@
-kind: EjectButton
-skill: '-'
-resolve: '-'
-effect: 2 times per jack-in, you can spring a range band in any direction. Can still
-  act in midair.
-eb: 2
-sort: NCP
-first_publication: Core

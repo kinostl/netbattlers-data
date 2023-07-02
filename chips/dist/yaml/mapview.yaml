@@ -1,9 +1,0 @@
-kind: MapView
-dmg: 0
-range: Far
-effect: Launch a camera straight up for an eagle-eye view of the surroundings. Bonks
-  off ceilings.
-category: Support
-tags:
-  - Awkward
-first_publication: Core

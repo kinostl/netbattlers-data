@@ -1,9 +1,0 @@
-{
-  "kind": "RefreshNCP",
-  "skill": "Info",
-  "resolve": "Cost",
-  "effect": "Pick a used BattleChip in your Folder. It is now usable again - once per chip. [Instant]",
-  "eb": 3,
-  "sort": "PowerNCP",
-  "first_publication": "Core"
-}

@@ -1,9 +1,0 @@
-{
-  "kind": "DreamAura",
-  "skill": "Coding",
-  "resolve": "Cost",
-  "effect": "Get a Guard that negates all attacks under 3 dmg. Lasts 4 rolls or until you take dmg. [Instant]",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Mega Viruses"
-}

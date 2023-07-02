@@ -1,9 +1,0 @@
-kind: RollingShield
-dmg: 2
-range: Near
-effect: Can instead be used to block a single projectile attack.
-category: Thrown
-tags:
-  - Guard
-  - Awkward
-first_publication: Core

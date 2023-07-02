@@ -1,8 +1,0 @@
-kind: Skim
-skill: Coding
-resolve: Roll
-effect: Roll when someone Near spends Zenny. For every hit, you steal 100z from the
-  target.
-eb: 0
-sort: Virus Power
-first_publication: Core

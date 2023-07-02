@@ -1,7 +1,0 @@
-kind: Gladiator
-skill: SystemCall
-resolve: Upgrade
-effect: When parrying a SystemCall target, you can turn one failure into an escalation.
-eb: 2
-sort: NPU
-first_publication: Navi Power Upgrades

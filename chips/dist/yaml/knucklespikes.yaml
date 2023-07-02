@@ -1,9 +1,0 @@
-kind: KnuckleSpikes
-dmg: 2
-range: Close
-effect: Can instead be used to climb a solid surface or rapidly burrow through soft
-  ground.
-category: Impact
-tags:
-  - None
-first_publication: Radical Spin

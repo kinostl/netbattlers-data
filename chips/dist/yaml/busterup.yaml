@@ -1,9 +1,0 @@
-kind: BusterUp
-dmg: 0
-range: '-'
-effect: 'For 3 rolls, gain the element (pick 1): Bullets; Lasers; Bombs. Use Sense
-  to spawn/manipulate.'
-category: Support
-tags:
-  - Simple
-first_publication: Advanced Support Pack

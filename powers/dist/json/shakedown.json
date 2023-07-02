@@ -1,9 +1,0 @@
-{
-  "kind": "Shakedown",
-  "skill": "-",
-  "resolve": "Passive",
-  "effect": "When you hit a target, they drop 100z per point of damage.",
-  "eb": 0,
-  "sort": "Virus Power",
-  "first_publication": "Skateboard Dog"
-}

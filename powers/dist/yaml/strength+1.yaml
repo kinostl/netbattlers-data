@@ -1,7 +1,0 @@
-kind: Strength+1
-skill: '-'
-resolve: '-'
-effect: Increase your Strength by 1.
-eb: 2
-sort: BoostNCP
-first_publication: Core

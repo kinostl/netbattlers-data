@@ -1,7 +1,0 @@
-kind: Expose
-skill: BlindMode
-resolve: Upgrade
-effect: Detecting a target with BlindMode reveals them to all allies for 3 rolls.
-eb: 2
-sort: NPU
-first_publication: Navi Power Upgrades

@@ -1,9 +1,0 @@
-kind: CopyDamage
-dmg: 0
-range: Near
-effect: Next time you or an ally attack a different enemy, a copy of the attack hits
-  the target.
-category: Support
-tags:
-  - None
-first_publication: Core

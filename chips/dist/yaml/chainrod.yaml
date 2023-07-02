@@ -1,9 +1,0 @@
-kind: ChainRod
-dmg: 3
-range: Close
-effect: Bladed whip! Can instead be used to get Close to a Near target & downshift
-  your next attack.
-category: Blade
-tags:
-  - Awkward
-first_publication: Core

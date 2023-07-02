@@ -1,7 +1,0 @@
-kind: StorageViolation
-skill: MemoryScan
-resolve: Upgrade
-effect: MemoryScan can also scan Navis. [Often illegal.]
-eb: 3
-sort: NPU
-first_publication: Navi Power Upgrades

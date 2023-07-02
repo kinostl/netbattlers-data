@@ -1,9 +1,0 @@
-kind: HiveShield
-dmg: 0
-range: Near
-effect: Downshift next defense. If you take 0 damage, send a 3-damage bee barrage
-  at the attacker.
-category: Support
-tags:
-  - Guard
-first_publication: Core
