@@ -30,7 +30,7 @@ SELECT json_object(
     'tags', iif(
         length(Tags) > 0,
         json(format('["%s"]',
-        replace(replace(Tags, ' ',''),',','","'))),
+        replace(replace(Tags, ' ',''),';','","'))),
         json('["None"]')
     ),
     'hp', cast(HP as int),

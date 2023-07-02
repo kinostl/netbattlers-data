@@ -22,7 +22,8 @@ powers:
   - null
   - null
 tags:
-  - Inanimate;Hovering
+  - Inanimate
+  - Hovering
 hp: 4
 drops:
   - Boomer

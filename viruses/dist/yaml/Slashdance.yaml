@@ -22,7 +22,8 @@ powers:
   - Blademaster
   - null
 tags:
-  - Mega;Hovering
+  - Mega
+  - Hovering
 hp: 4
 drops:
   - ChromaSword

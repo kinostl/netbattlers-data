@@ -22,7 +22,8 @@ powers:
   - Toll
   - null
 tags:
-  - Hovering;Inanimate
+  - Hovering
+  - Inanimate
 hp: 1
 drops:
   - TimeCancel

@@ -22,7 +22,8 @@ powers:
   - Allegiance
   - null
 tags:
-  - Inanimate;Immobile
+  - Inanimate
+  - Immobile
 hp: 6
 drops:
   - Rook

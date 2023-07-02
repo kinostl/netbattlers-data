@@ -21,7 +21,8 @@ powers:
   - null
   - null
 tags:
-  - Immobile;Inanimate
+  - Immobile
+  - Inanimate
 hp: 6
 drops:
   - Wind

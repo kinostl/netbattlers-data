@@ -22,7 +22,9 @@ powers:
   - Combine
   - Deathwish
 tags:
-  - Mega;Inanimate;Immobile
+  - Mega
+  - Inanimate
+  - Immobile
 hp: 5
 drops:
   - VanishingWorld

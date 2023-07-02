@@ -22,7 +22,8 @@ powers:
   - Combine
   - null
 tags:
-  - Mega;Immobile
+  - Mega
+  - Immobile
 hp: 5
 drops:
   - SpiritSword

@@ -22,7 +22,8 @@ powers:
   - SupernovaOmega
   - StarCrossed
 tags:
-  - Mega;Hovering
+  - Mega
+  - Hovering
 hp: 20
 drops:
   - PyrrhicSun

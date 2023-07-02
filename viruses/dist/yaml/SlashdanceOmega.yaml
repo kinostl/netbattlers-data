@@ -22,7 +22,8 @@ powers:
   - Blademaster
   - Followthrough
 tags:
-  - Mega;Hovering
+  - Mega
+  - Hovering
 hp: 7
 drops:
   - ElementalSonicWave
